@@ -30,43 +30,26 @@ def organize_bboxes(annotated_page):
     bboxes = {bbox.id: bbox for bbox in annotated_page.bounding_boxes}
     bbox_keys_to_org = set(bboxes.keys())
 
-    grouped_bboxes = []
-    group_ends = []
-    group_starts = []
+    grouped_bboxes = [set([bbox_id]) for bbox_id in bbox_keys_to_org]
 
     for relation in annotated_page.relations:
-        joins_at_end = relation.from_id in group_ends
-        joins_at_start = relation.to_id in group_starts
-        if joins_at_end and joins_at_start:
-            appended_group_id = group_ends.index(relation.from_id)
-            preprended_group_id = group_starts.index(relation.to_id)
+        if relation.from_id == relation.to_id:
+            logging.warning(f'Found self-relation for bbox {relation.from_id}')
+            continue
 
-            grouped_bboxes[appended_group_id].extend(grouped_bboxes[preprended_group_id])
-            group_ends[appended_group_id] = group_ends[preprended_group_id]
+        def locate_bbox(bbox_id):
+            for i, group in enumerate(grouped_bboxes):
+                if bbox_id in group:
+                    return i
 
-            del grouped_bboxes[preprended_group_id]
-            del group_ends[preprended_group_id]
-            del group_starts[preprended_group_id]
-        elif joins_at_end:
-            bbox_keys_to_org.remove(relation.to_id)
-            group_id = group_ends.index(relation.from_id)
+        from_match = locate_bbox(relation.from_id)
+        to_match = locate_bbox(relation.to_id)
 
-            grouped_bboxes[group_id].append(relation.to_id)
-            group_ends[group_id] = relation.to_id
-        elif joins_at_start:
-            bbox_keys_to_org.remove(relation.from_id)
-            group_id = group_starts.index(relation.to_id)
+        assert from_match is not None
+        assert to_match is not None
 
-            grouped_bboxes[group_id].insert(0, relation.from_id)
-            group_starts[group_id] = relation.from_id
-        else:
-            bbox_keys_to_org.remove(relation.from_id)
-            bbox_keys_to_org.remove(relation.to_id)
-            grouped_bboxes.append([relation.from_id, relation.to_id])
-            group_ends.append(relation.to_id)
-            group_starts.append(relation.from_id)
-
-    grouped_bboxes.extend([[bbox_id] for bbox_id in bbox_keys_to_org])
+        grouped_bboxes[from_match].update(grouped_bboxes[to_match])
+        del grouped_bboxes[to_match]
 
     return grouped_bboxes
 
