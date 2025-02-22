@@ -112,14 +112,9 @@ def main():
     nb_failed_pages = 0
     all_data = {}
     for page in parser.annotated_pages:
-        try:
-            grouped_bboxes = organize_bboxes(page)
-            all_data[get_file_uuid_like_key(page.image_filename)] = (page, grouped_bboxes)
-        except Exception:
-            logging.error(f'Failed to parse annotation for page {page.image_filename}')
-            nb_failed_pages += 1
+        grouped_bboxes = organize_bboxes(page)
+        all_data[get_file_uuid_like_key(page.image_filename)] = (page, grouped_bboxes)
 
-            continue
 
     if nb_failed_pages > 0:
         logging.warning(f'There were {nb_failed_pages} pages that failed to parse ({nb_failed_pages/len(parser.annotated_pages)*100.0:.2f} %)')
