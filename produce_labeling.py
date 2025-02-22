@@ -17,6 +17,7 @@ def get_args():
 
     parser.add_argument('--show-plots', action='store_true', help='Show plots')
     parser.add_argument('--save-plots', help='Where to put plots. If not given, they are not saved.')
+    parser.add_argument('--pixel-threshold-method', choices=['adaptive', 'text-only'], default='adaptive')
 
     parser.add_argument('export', help='LabelStudio export JSON')
     parser.add_argument('img_dir', help='Folder with images. Driving one.')
@@ -70,10 +71,14 @@ def get_one_textbite_mask(group_of_bboxes, img_shape):
     return label_studio_mask
 
 
-def get_thresholded_mask(img):
+def get_thresholded_mask(img, textline_mask=None):
     img_grayscale = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-    # _, img_thresholded_otsu = cv2.threshold(img_grayscale, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)
-    img_thresholded = cv2.adaptiveThreshold(img_grayscale, 255, cv2.ADAPTIVE_THRESH_MEAN_C, cv2.THRESH_BINARY, 301, 2)
+    if textline_mask is not None:
+        pixels_of_interest = img_grayscale[textline_mask]
+        threshold, _ = cv2.threshold(pixels_of_interest, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)
+        _, img_thresholded = cv2.threshold(img_grayscale, threshold, 255, cv2.THRESH_BINARY)
+    else:
+        img_thresholded = cv2.adaptiveThreshold(img_grayscale, 255, cv2.ADAPTIVE_THRESH_MEAN_C, cv2.THRESH_BINARY, 301, 2)
     return (1-img_thresholded.astype(bool)).astype(bool)
 
 
@@ -115,7 +120,6 @@ def main():
         grouped_bboxes = organize_bboxes(page)
         all_data[get_file_uuid_like_key(page.image_filename)] = (page, grouped_bboxes)
 
-
     if nb_failed_pages > 0:
         logging.warning(f'There were {nb_failed_pages} pages that failed to parse ({nb_failed_pages/len(parser.annotated_pages)*100.0:.2f} %)')
 
@@ -144,7 +148,12 @@ def main():
 
         complete_label_studio_mask = get_label_studio_mask(annotation, groups, img_shape)
         textline_mask = get_textline_mask(img_shape, layout)
-        img_thresholded_otsu = get_thresholded_mask(img)
+        if args.pixel_threshold_method == 'text-only':
+            img_thresholded_otsu = get_thresholded_mask(img, textline_mask)
+        elif args.pixel_threshold_method == 'adaptive':
+            img_thresholded_otsu = get_thresholded_mask(img)
+        else:
+            raise ValueError(f'Unknown pixel threshold method {args.pixel_threshold_method}')
 
         complete_annotation = complete_label_studio_mask * textline_mask * img_thresholded_otsu
 
