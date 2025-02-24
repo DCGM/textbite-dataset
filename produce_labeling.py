@@ -74,6 +74,8 @@ def get_one_textbite_mask(group_of_bboxes, img_shape):
 
 class OverlapFilter:
     def __init__(self, overlap_threshold):
+        if overlap_threshold < 0 or overlap_threshold > 1:
+            raise ValueError(f'Overlap threshold must be between 0 and 1, got {overlap_threshold}')
         self.overlap_threshold = overlap_threshold
 
     def __call__(self, page):
@@ -132,7 +134,6 @@ def get_label_studio_mask(annotation, groups, img_shape):
     complete_label_studio_mask = np.zeros(img_shape, dtype=np.uint8)
     for i, group in enumerate(groups, start=1):
         group_pixels = get_one_textbite_mask([bboxes_dict[bbox_id] for bbox_id in group], img_shape)
-        available_pixels = complete_label_studio_mask == 0
         if group_pixels[complete_label_studio_mask != 0].any():
             logging.warning(f'Overlapping bounding boxes in group {i}')
         group_pixels[complete_label_studio_mask != 0] = 0
