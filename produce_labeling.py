@@ -61,10 +61,6 @@ def organize_bboxes(annotated_page):
     return grouped_bboxes
 
 
-def get_file_uuid_like_key(path):
-    return path.split('/')[-1].split('.')[0]
-
-
 def get_one_textbite_mask(group_of_bboxes, img_shape):
     label_studio_mask = np.zeros(img_shape, dtype=np.uint8)
     for bbox in group_of_bboxes:
@@ -162,7 +158,7 @@ def main():
     for page in parser.annotated_pages:
         overlap_filter(page)
         grouped_bboxes = organize_bboxes(page)
-        all_data[get_file_uuid_like_key(page.image_filename)] = (page, grouped_bboxes)
+        all_data[page.image_filename] = (page, grouped_bboxes)
 
     if nb_failed_pages > 0:
         logging.warning(f'There were {nb_failed_pages} pages that failed to parse ({nb_failed_pages/len(parser.annotated_pages)*100.0:.2f} %)')
@@ -172,7 +168,7 @@ def main():
     img_fns = [fn for fn in os.listdir(args.img_dir) if fn.endswith('.jpg')]
     for fn in img_fns:
         try:
-            annotation, groups = all_data[get_file_uuid_like_key(fn)]
+            annotation, groups = all_data[fn]
         except KeyError:
             logging.error(f'No annotation found for image file {fn}')
             nb_img_files_without_annotation += 1
