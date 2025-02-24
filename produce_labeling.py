@@ -166,7 +166,7 @@ def main():
 
     nb_img_files_without_annotation = 0
     nb_img_files_without_xml = 0
-    img_fns = [fn for fn in os.listdir(args.img_dir) if fn.endswith('.jpg')]
+    img_fns = [fn for fn in os.listdir(args.img_dir) if fn.endswith('.jpg') or fn.endswith('.png')]
     for fn in img_fns:
         try:
             annotation, groups = all_data[fn]
@@ -186,7 +186,7 @@ def main():
             continue
 
         img = cv2.imread(os.path.join(args.img_dir, fn))
-        img_shape = img.shape[:2]  # drop channel
+        img_shape = img.shape[:2]  # drop the channel dimension
 
         complete_label_studio_mask = get_label_studio_mask(annotation, groups, img_shape)
         textline_mask = get_textline_mask(img_shape, layout)
