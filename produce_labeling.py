@@ -15,6 +15,7 @@ import detector_wrapper.parsers.detector_parser
 def get_args():
     parser = argparse.ArgumentParser()
 
+    parser.add_argument('--overlap-threshold', type=float, default=0.75, help='If a bounding box overlaps more than this with another, it is removed. Mostly for dictionaries.')
     parser.add_argument('--show-plots', action='store_true', help='Show plots')
     parser.add_argument('--save-plots', help='Where to put plots. If not given, they are not saved.')
     parser.add_argument('--pixel-threshold-method', choices=['adaptive', 'text-only'], default='adaptive')
@@ -71,6 +72,41 @@ def get_one_textbite_mask(group_of_bboxes, img_shape):
     return label_studio_mask
 
 
+class OverlapFilter:
+    def __init__(self, overlap_threshold):
+        self.overlap_threshold = overlap_threshold
+
+    def __call__(self, page):
+        ids_to_remove = self.get_ids_to_remove(page.bounding_boxes)
+        logging.info(f'Page {page.image_filename} has {len(ids_to_remove)} bounding boxes to remove')
+        for relation in page.relations:
+            if relation.from_id in ids_to_remove:
+                logging.warning(f'Bbox {relation.from_id} is very overlapped, but is in a relation')
+                ids_to_remove.remove(relation.from_id)
+
+            if relation.to_id in ids_to_remove:
+                logging.warning(f'Bbox {relation.from_id} is very overlapped, but is in a relation')
+                ids_to_remove.remove(relation.to_id)
+
+        page.bounding_boxes = [bbox for bbox in page.bounding_boxes if bbox.id not in ids_to_remove]
+
+    def get_ids_to_remove(self, bboxes):
+        ids_to_remove = []
+        for i, bbox in enumerate(bboxes):
+            for other_bbox in bboxes[:i] + bboxes[i+1:]:
+                x_overlap = max(0, min(bbox.x + bbox.width, other_bbox.x + other_bbox.width) - max(bbox.x, other_bbox.x))
+                y_overlap = max(0, min(bbox.y + bbox.height, other_bbox.y + other_bbox.height) - max(bbox.y, other_bbox.y))
+                bbox_size = bbox.width * bbox.height
+                overlap_size = x_overlap * y_overlap
+                overlap_proportion = overlap_size / bbox_size
+
+                if overlap_proportion > self.overlap_threshold:  # TODO make this a parameter
+                    ids_to_remove.append(bbox.id)
+                    break
+
+        return ids_to_remove
+
+
 def get_thresholded_mask(img, textline_mask=None):
     img_grayscale = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
     if textline_mask is not None:
@@ -114,9 +150,12 @@ def main():
     parser = detector_wrapper.parsers.detector_parser.DetectorParser()
     parser.parse_label_studio(args.export, run_checks=True)
 
+    overlap_filter = OverlapFilter(args.overlap_threshold)
+
     nb_failed_pages = 0
     all_data = {}
     for page in parser.annotated_pages:
+        overlap_filter(page)
         grouped_bboxes = organize_bboxes(page)
         all_data[get_file_uuid_like_key(page.image_filename)] = (page, grouped_bboxes)
 
