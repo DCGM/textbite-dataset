@@ -10,6 +10,7 @@ import skimage.draw
 import matplotlib.pyplot as plt
 from pero_ocr.core.layout import PageLayout
 import detector_wrapper.parsers.detector_parser
+from detector_wrapper.parsers.detector_parser import AnnotatedRelation
 
 
 def get_args():
@@ -50,6 +51,10 @@ def organize_bboxes(annotated_page):
         assert from_match is not None
         assert to_match is not None
 
+        if from_match == to_match:
+            logging.warning(f'Found a group of redundantly merged bboxes when merging {relation}')
+            continue
+
         grouped_bboxes[from_match].update(grouped_bboxes[to_match])
         del grouped_bboxes[to_match]
 
@@ -79,21 +84,20 @@ class OverlapFilter:
         self.overlap_threshold = overlap_threshold
 
     def __call__(self, page):
-        ids_to_remove = self.get_ids_to_remove(page.bounding_boxes)
-        logging.info(f'Page {page.image_filename} has {len(ids_to_remove)} bounding boxes to remove')
-        for relation in page.relations:
-            if relation.from_id in ids_to_remove:
-                logging.warning(f'Bbox {relation.from_id} is very overlapped, but is in a relation')
-                ids_to_remove.remove(relation.from_id)
+        overlap_pairs = self.get_ids_to_remove(page.bounding_boxes)
+        logging.info(f'Page {page.image_filename} has {overlap_pairs} pairs of heavily overlapped bboxes')
 
-            if relation.to_id in ids_to_remove:
-                logging.warning(f'Bbox {relation.from_id} is very overlapped, but is in a relation')
-                ids_to_remove.remove(relation.to_id)
+        relations_index = set((relation.from_id, relation.to_id) for relation in page.relations)
 
-        page.bounding_boxes = [bbox for bbox in page.bounding_boxes if bbox.id not in ids_to_remove]
+        for pair in overlap_pairs:
+            if pair not in relations_index:
+                page.relations.append(AnnotatedRelation(from_id=pair[0], to_id=pair[1], cls=['overlap-other']))
 
     def get_ids_to_remove(self, bboxes):
-        ids_to_remove = []
+        '''Returns a list of pair with meaning (overlapped, overlapping)
+        '''
+
+        overlapped = []
         for i, bbox in enumerate(bboxes):
             for other_bbox in bboxes[:i] + bboxes[i+1:]:
                 x_overlap = max(0, min(bbox.x + bbox.width, other_bbox.x + other_bbox.width) - max(bbox.x, other_bbox.x))
@@ -102,11 +106,11 @@ class OverlapFilter:
                 overlap_size = x_overlap * y_overlap
                 overlap_proportion = overlap_size / bbox_size
 
-                if overlap_proportion > self.overlap_threshold:  # TODO make this a parameter
-                    ids_to_remove.append(bbox.id)
+                if overlap_proportion > self.overlap_threshold:
+                    overlapped.append((bbox.id, other_bbox.id))
                     break
 
-        return ids_to_remove
+        return overlapped
 
 
 def get_thresholded_mask(img, textline_mask=None):
