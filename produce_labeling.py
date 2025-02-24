@@ -20,6 +20,7 @@ def get_args():
     parser.add_argument('--show-plots', action='store_true', help='Show plots')
     parser.add_argument('--save-plots', help='Where to put plots. If not given, they are not saved.')
     parser.add_argument('--pixel-threshold-method', choices=['adaptive', 'text-only'], default='adaptive')
+    parser.add_argument('--missing-silent', action='store_true', help='Do not complain about missing anotations for individual images')
 
     parser.add_argument('export', help='LabelStudio export JSON')
     parser.add_argument('img_dir', help='Folder with images. Driving one.')
@@ -170,7 +171,8 @@ def main():
         try:
             annotation, groups = all_data[fn]
         except KeyError:
-            logging.error(f'No annotation found for image file {fn}')
+            if not args.missing_silent:
+                logging.error(f'No annotation found for image file {fn}')
             nb_img_files_without_annotation += 1
             continue
 
