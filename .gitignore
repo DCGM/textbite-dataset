@@ -1,3 +1,11 @@
+*-outputs/
+*-out/
+*-render/
+*-labels/
+plots/
+*.sh
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

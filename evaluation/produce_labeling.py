@@ -10,7 +10,7 @@ import skimage.draw
 import matplotlib.pyplot as plt
 from pero_ocr.core.layout import PageLayout
 import detector_wrapper.parsers.detector_parser
-from detector_wrapper.parsers.detector_parser import AnnotatedRelation
+from detector_wrapper.parsers.detector_parser import AnnotatedRelation, AnnotatedPage
 
 
 def get_args():
@@ -22,15 +22,17 @@ def get_args():
     parser.add_argument('--pixel-threshold-method', choices=['adaptive', 'text-only'], default='adaptive')
     parser.add_argument('--missing-silent', action='store_true', help='Do not complain about missing anotations for individual images')
 
-    parser.add_argument('export', help='LabelStudio export JSON')
-    parser.add_argument('img_dir', help='Folder with images. Driving one.')
-    parser.add_argument('xml_dir', help='Folder with PageXMLs describing pages. Which are used is given by images.')
-    parser.add_argument('out_dir', help='Where to put the final annotations.')
+    parser.add_argument('--export', help='LabelStudio export JSON')
+    parser.add_argument('--img-dir', help='Folder with images. Driving one.')
+    parser.add_argument('--xml-dir', help='Folder with PageXMLs describing pages. Which are used is given by images.')
+    parser.add_argument('--out-dir', help='Where to put the final annotations.')
 
     return parser.parse_args()
 
 
-def organize_bboxes(annotated_page):
+def organize_bboxes(
+    annotated_page: AnnotatedPage,
+) -> list[set[int]]:
     bboxes = {bbox.id: bbox for bbox in annotated_page.bounding_boxes}
     bbox_keys_to_org = set(bboxes.keys())
 
@@ -38,7 +40,7 @@ def organize_bboxes(annotated_page):
 
     for relation in annotated_page.relations:
         if relation.from_id == relation.to_id:
-            logging.warning(f'Found self-relation for bbox {relation.from_id}')
+            logging.warning(f'Found self-relation for bbox {relation.from_id} in {annotated_page.image_filename}')
             continue
 
         def locate_bbox(bbox_id):
@@ -62,7 +64,10 @@ def organize_bboxes(annotated_page):
     return grouped_bboxes
 
 
-def get_one_textbite_mask(group_of_bboxes, img_shape):
+def get_one_textbite_mask(
+    group_of_bboxes, 
+    img_shape: tuple[int, int],
+) -> np.ndarray:
     label_studio_mask = np.zeros(img_shape, dtype=np.uint8)
     for bbox in group_of_bboxes:
         x_0 = int(bbox.x)
@@ -151,6 +156,7 @@ def main():
 
     parser = detector_wrapper.parsers.detector_parser.DetectorParser()
     parser.parse_label_studio(args.export, run_checks=True)
+    parser.prune_classes(["note", "image", "image-desc", "page-number"])
 
     overlap_filter = OverlapFilter(args.overlap_threshold)
 
@@ -217,6 +223,7 @@ def main():
 
             if args.save_plots:
                 plt.savefig(os.path.join(args.save_plots, fn[:-len('.jpg')] + '.segmentation.png'), dpi=600)
+                plt.close()
 
     if nb_img_files_without_annotation > 0:
         logging.warning(f'There were {nb_img_files_without_annotation} images do not have an annotation ({nb_img_files_without_annotation/len(img_fns)*100.0:.2f} %)')
