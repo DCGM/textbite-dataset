@@ -35,14 +35,7 @@ def process_file(
 
     fig, ax = plt.subplots(1, 4)
 
-    ax[0].imshow(image)
-    ax[0].set_title("Original image")
-    ax[0].axis("off")
-
-    ax[1].imshow(reference)
-    ax[1].set_title("Ground truth")
-    ax[1].axis("off")
-
+    # Calculate hypothesis segmentation
     img_hypothesis = image.copy()
     img_overlay = image.copy()
     alpha = 0.35
@@ -57,12 +50,27 @@ def process_file(
             cv2.fillPoly(img_overlay, [polygon], color)
     img_hypothesis = cv2.addWeighted(img_overlay, alpha, image, 1 - alpha, 0, image)
 
-    ax[2].imshow(img_hypothesis)
+    # Plot original image
+    ax[0].imshow(image)
+    ax[0].set_title("Original image")
+    ax[0].axis("off")
+
+    max_bites = max((int(reference.max()) + 1, int(img_overlay.max()) + 1))
+    cmap = plt.get_cmap('viridis', max_bites)
+
+    # Plot ground truth
+    ax[1].imshow(reference, cmap=cmap)
+    ax[1].set_title("Ground truth")
+    ax[1].axis("off")
+
+    # Plot predictions
+    ax[2].imshow(img_hypothesis, cmap=cmap)
     ax[2].set_title("Hypothesis")
     ax[2].axis("off")
 
+    # Plot prediction segmentation
     hyp_segmentation = get_hypothesis_segmentation(reference.shape, hypothesis)# & reference
-    ax[3].imshow(hyp_segmentation)
+    ax[3].imshow(hyp_segmentation, cmap=cmap)
     ax[3].set_title("Hypothesis segmentation")
     ax[3].axis("off")
 
@@ -74,24 +82,24 @@ def process_file(
 def main():
     args = parse_arguments()
 
-    hyp_filenames = [f for f in os.listdir(args.hyp) if f.endswith(".json")]
-    gt_filenames = [f for f in os.listdir(args.ref) if f.endswith(".npy")]
+    hyp_filenames = [f for f in os.listdir(args.hyp_dir) if f.endswith(".json")]
+    gt_filenames = [f for f in os.listdir(args.ref_dir) if f.endswith(".npy")]
 
     hyp_filenames = list(set([f[:-5] for f in hyp_filenames]) & set([f[:-4] for f in gt_filenames]))
     hyp_filenames = [f + ".json" for f in hyp_filenames]
-    os.makedirs(args.output, exist_ok=True)
+    os.makedirs(args.out_dir, exist_ok=True)
 
     for hyp_fn in hyp_filenames:
-        hyp_path = os.path.join(args.hyp, hyp_fn)
+        hyp_path = os.path.join(args.hyp_dir, hyp_fn)
 
         ref_fn = hyp_fn.replace(".json", ".npy")
-        ref_path = os.path.join(args.ref, ref_fn)
+        ref_path = os.path.join(args.ref_dir, ref_fn)
 
         img_fn = hyp_fn.replace(".json", ".jpg")
-        img_path = os.path.join(args.img, img_fn)
+        img_path = os.path.join(args.img_dir, img_fn)
 
         output_fn = hyp_fn.replace(".json", ".pdf")
-        output_path = os.path.join(args.output, output_fn)
+        output_path = os.path.join(args.out_dir, output_fn)
 
         process_file(hyp_path, ref_path, img_path, output_path)
 
