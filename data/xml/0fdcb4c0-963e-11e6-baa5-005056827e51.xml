@@ -1,0 +1,374 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2025-02-20T19:47:14.112316+00:00</Created>
+    <LastChange>2025-02-20T19:47:14.112316+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="0fdcb4c0-963e-11e6-baa5-005056827e51" imageWidth="1500" imageHeight="2450">
+    <TextRegion id="r000" custom="{&quot;category&quot;: &quot;text&quot;}">
+      <Coords points="152,327 156,793 412,791 562,758 1371,753 1368,186 156,193 152,327"/>
+      <TextLine id="r000-l002" index="0" custom="{&quot;heights&quot;: [27.8, 8.7], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1368,186 1230,188 1096,191 963,191 829,191 695,191 562,191 560,191 362,192 294,193 156,193 156,229 294,229 428,227 562,227 695,227 829,227 963,227 1097,227 1230,225 1368,223 1368,186"/>
+        <Baseline points="156,221 294,221 428,218 562,218 695,218 829,218 963,218 1096,218 1230,216 1368,214"/>
+        <TextEquiv conf="0.956">
+          <Unicode>ze. Ustanoven závodní řád pro župní závody na 26. srpna 1906. První pře-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l003" index="1" custom="{&quot;heights&quot;: [27.3, 8.6], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1368,222 1230,222 1096,224 963,224 829,224 693,224 559,224 426,224 292,224 155,224 154,260 154,260 292,260 426,260 559,260 693,260 829,260 963,260 1097,260 1230,258 1368,258 1368,222"/>
+        <Baseline points="154,252 292,252 426,252 559,252 693,252 829,252 963,252 1096,252 1230,250 1368,250"/>
+        <TextEquiv conf="0.997">
+          <Unicode>borník bude vyslán na náklad župy do Záhřeba. Dále sděluje že I. okrsek</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l004" index="2" custom="{&quot;heights&quot;: [26.9, 8.6], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1368,256 1230,256 1096,256 962,258 829,258 693,258 559,258 426,258 292,258 154,258 154,260 154,294 292,294 426,294 559,294 693,294 829,294 963,294 1096,292 1230,292 1368,292 1368,256"/>
+        <Baseline points="154,285 292,285 426,285 559,285 693,285 829,285 963,285 1096,283 1230,283 1368,283"/>
+        <TextEquiv conf="0.980">
+          <Unicode>koná cvičení dne 22. července t. r. v Třešti (br. Máchal), II. okrsek koná</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l005" index="3" custom="{&quot;heights&quot;: [26.8, 8.6], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1368,290 1230,290 1096,290 963,290 827,290 693,292 559,292 423,292 290,292 153,292 152,327 290,327 423,327 559,327 693,327 827,325 963,325 1096,325 1230,325 1369,325 1368,290"/>
+        <Baseline points="152,319 290,319 423,319 559,319 693,319 827,316 963,316 1096,316 1230,316 1369,316"/>
+        <TextEquiv conf="0.657">
+          <Unicode>cvičení dne 9. září t. r. v Brtnici (br. Susta), III. okrsek konal cvičení dne</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l006" index="4" custom="{&quot;heights&quot;: [26.8, 8.6], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="154,361 292,361 426,361 559,361 693,361 827,358 961,358 1094,358 1228,356 1368,356 1368,321 1228,321 1094,323 961,323 827,323 693,325 559,325 426,325 292,325 154,325 154,361"/>
+        <Baseline points="154,352 292,352 426,352 559,352 693,352 827,350 961,350 1094,350 1228,348 1368,348"/>
+        <TextEquiv conf="0.760">
+          <Unicode>1. července t. r. v Kuchařovicích (br. Magni). Župě Havlíčkově vyšlou se</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l007" index="5" custom="{&quot;heights&quot;: [26.8, 8.6], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1369,354 1230,357 1096,357 963,357 829,357 693,359 559,359 426,359 292,359 154,359 154,394 292,394 426,394 559,394 693,394 829,392 963,392 1096,392 1230,392 1369,390 1369,354"/>
+        <Baseline points="154,386 292,386 426,386 559,386 693,386 829,383 963,383 1096,383 1230,383 1369,381"/>
+        <TextEquiv conf="0.935">
+          <Unicode>2 soudci k závodům 8. července t. r. Přijato vypsání konkursu na jednu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l008" index="6" custom="{&quot;heights&quot;: [27.3, 8.7], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="154,428 292,428 426,425 559,425 693,425 827,425 961,423 1094,423 1228,425 1368,425 1368,389 1228,389 1095,387 961,387 826,389 693,389 559,389 426,389 291,392 154,392 154,428"/>
+        <Baseline points="154,419 292,419 426,417 559,417 693,417 827,417 961,415 1094,415 1228,417 1368,417"/>
+        <TextEquiv conf="0.985">
+          <Unicode>knihovnu v časopisech. Br. jednota v Náměšti podává žádost na Č. O. S.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l009" index="7" custom="{&quot;heights&quot;: [27.8, 8.6], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1369,420 1230,422 1097,420 963,420 829,422 693,422 559,422 426,422 291,425 154,425 154,461 292,461 426,459 559,459 693,459 829,459 963,457 1096,457 1230,459 1369,457 1369,420"/>
+        <Baseline points="154,452 292,452 426,450 559,450 693,450 829,450 963,448 1096,448 1230,450 1369,448"/>
+        <TextEquiv conf="0.783">
+          <Unicode>prostřednictvim župy o zápůjčku 5.000 K na stavbu tělocvičny. Usnešeno,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l010" index="8" custom="{&quot;heights&quot;: [27.8, 8.7], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1369,454 1232,454 1099,454 965,454 829,456 695,456 562,456 426,456 291,458 154,458 154,495 292,495 426,492 562,492 695,492 829,492 965,490 1099,490 1232,490 1369,490 1369,454"/>
+        <Baseline points="154,486 292,486 426,484 562,484 695,484 829,484 965,481 1099,481 1232,481 1369,481"/>
+        <TextEquiv conf="0.552">
+          <Unicode>že žádost tato se Č. O. S. doporučeně zašle. C. O. S. zasílá odpověď na</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l011" index="9" custom="{&quot;heights&quot;: [27.3, 8.6], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1369,487 1232,487 1099,487 965,487 831,487 695,490 562,490 428,490 294,492 156,490 156,526 294,528 428,526 562,526 695,526 831,523 965,523 1099,523 1232,523 1370,523 1369,487"/>
+        <Baseline points="156,517 294,519 428,517 562,517 695,517 831,515 965,515 1099,515 1232,515 1370,515"/>
+        <TextEquiv conf="0.708">
+          <Unicode>usnešení župní valné hromady, týkající se úrazového odboru, který vzat na</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l012" index="10" custom="{&quot;heights&quot;: [27.5, 8.6], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1370,519 1232,521 1099,521 965,521 831,521 695,523 562,523 428,523 294,525 156,525 156,561 294,561 428,559 562,559 695,559 831,557 965,557 1099,557 1233,557 1370,555 1370,519"/>
+        <Baseline points="156,553 294,553 428,550 562,550 695,550 831,548 965,548 1099,548 1232,548 1370,546"/>
+        <TextEquiv conf="0.977">
+          <Unicode>vědomí. Br. starosta jednoty v Telči žádá o zakročení proti štvaní v časo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l013" index="11" custom="{&quot;heights&quot;: [27.3, 8.6], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="154,595 292,593 426,593 562,593 695,593 829,590 965,590 1099,590 1233,590 1370,588 1370,552 1232,554 1099,554 965,554 829,554 695,557 562,557 426,557 292,557 154,559 154,595"/>
+        <Baseline points="154,586 292,584 426,584 562,584 695,584 829,582 965,582 1099,582 1232,582 1370,579"/>
+        <TextEquiv conf="0.943">
+          <Unicode>pise »Našich Novinách«. Po delším rozhovoru usneseno uvésti všem br. jed-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l014" index="12" custom="{&quot;heights&quot;: [27.4, 8.7], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="154,626 292,626 426,626 562,626 695,626 829,624 965,624 1099,624 1233,624 1370,622 1370,585 1232,588 1099,588 965,588 829,588 695,590 562,590 426,590 292,590 154,590 154,626"/>
+        <Baseline points="154,617 292,617 426,617 562,617 695,617 829,615 965,615 1099,615 1232,615 1370,613"/>
+        <TextEquiv conf="0.942">
+          <Unicode>notám na vědomí, že politika do sokolských jednot nepatří. Pojednává se</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l015" index="13" custom="{&quot;heights&quot;: [28.0, 8.7], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="155,659 292,659 426,659 562,659 695,659 829,657 965,657 1099,657 1232,655 1370,655 1370,618 1232,618 1098,621 965,621 829,621 695,623 562,623 426,623 292,623 154,623 155,659"/>
+        <Baseline points="155,651 292,651 426,651 562,651 695,651 829,649 965,649 1099,649 1232,646 1370,646"/>
+        <TextEquiv conf="0.949">
+          <Unicode>o návrhu župní valné hromady br. sokol. župy krále Jiřího, ohledně vydá-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l016" index="14" custom="{&quot;heights&quot;: [28.5, 8.7], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="155,693 292,693 426,693 562,691 695,691 829,691 965,691 1099,691 1232,688 1370,688 1370,651 1232,651 1098,653 965,653 829,653 695,653 562,653 425,656 292,656 155,656 155,693"/>
+        <Baseline points="155,684 292,684 426,684 562,682 695,682 829,682 965,682 1099,682 1232,680 1370,680"/>
+        <TextEquiv conf="0.799">
+          <Unicode>vání Č. O. S. zdarma měsíčníku neb 14denníku na způsob »Ruchu« pro</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l017" index="15" custom="{&quot;heights&quot;: [28.6, 9.0], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1370,685 1232,687 1099,687 965,687 831,687 695,687 562,687 428,687 294,689 156,689 156,727 294,727 428,724 562,724 695,724 831,724 965,724 1099,724 1233,724 1371,722 1370,685"/>
+        <Baseline points="156,718 294,718 428,715 562,715 695,715 831,715 965,715 1099,715 1232,715 1370,713"/>
+        <TextEquiv conf="0.917">
+          <Unicode>všechny své členy do Č. O. S. přihlášené. Týž by obsahoval zásady, idee</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l018" index="16" custom="{&quot;heights&quot;: [28.4, 9.1], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="761,757 829,756 863,756 1371,753 1370,716 1230,718 1096,718 962,720 829,718 695,720 562,720 427,723 294,723 156,723 156,760 294,760 428,760 562,758 761,757"/>
+        <Baseline points="156,751 294,751 428,751 562,749 695,749 829,747 963,749 1096,747 1230,747 1371,744"/>
+        <TextEquiv conf="0.999">
+          <Unicode>sokolské a o významu a účelu Sokolstva poučoval. S návrhem tímto se sou-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l019" index="17" custom="{&quot;heights&quot;: [28.6, 8.9], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="345,792 352,791 379,791 412,791 412,754 379,754 352,754 323,756 296,756 270,756 243,756 214,756 187,756 156,756 156,793 345,792"/>
+        <Baseline points="156,784 187,784 214,784 243,784 270,784 296,784 325,784 352,782 379,782 412,782"/>
+        <TextEquiv conf="0.997">
+          <Unicode>hlasí. Na zdar!</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001" custom="{&quot;category&quot;: &quot;text&quot;}">
+      <Coords points="189,90 152,90 152,129 225,131 227,93 189,90"/>
+      <TextLine id="r001-l001" index="0" custom="{&quot;heights&quot;: [30.0, 8.8], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="152,90 152,129 187,129 225,131 227,93 189,90 152,90"/>
+        <Baseline points="152,120 187,120 225,123"/>
+        <TextEquiv conf="0.993">
+          <Unicode>474</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002" custom="{&quot;category&quot;: &quot;text&quot;}">
+      <Coords points="156,1321 158,1491 290,1491 430,1458 1373,1453 1370,984 252,986 158,1022 156,1321"/>
+      <TextLine id="r002-l021" index="0" custom="{&quot;heights&quot;: [27.8, 8.9], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1370,984 1241,986 1119,986 996,988 871,988 749,988 626,988 501,988 379,986 252,986 252,1023 379,1023 501,1025 626,1025 749,1025 871,1025 996,1025 1119,1023 1241,1023 1370,1021 1370,984"/>
+        <Baseline points="252,1014 379,1014 501,1016 626,1016 749,1016 871,1016 996,1016 1119,1014 1241,1014 1370,1012"/>
+        <TextEquiv conf="0.685">
+          <Unicode>»Sokol« v Budapešti oslaví dne 8. a 9. září t. r. 10leté založení jed-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l022" index="1" custom="{&quot;heights&quot;: [27.3, 8.6], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1370,1035 1370,1018 1232,1020 1099,1020 965,1020 831,1020 698,1020 564,1020 430,1022 296,1022 158,1022 158,1058 296,1058 430,1058 564,1056 698,1056 831,1056 965,1056 1099,1056 1233,1056 1371,1054 1370,1035"/>
+        <Baseline points="158,1050 296,1050 430,1050 564,1047 698,1047 831,1047 965,1047 1099,1047 1232,1047 1370,1045"/>
+        <TextEquiv conf="1.000">
+          <Unicode>noty. Slavnost tato spojena bude s veřejným cvičením (prostná cvičení zá-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l023" index="2" custom="{&quot;heights&quot;: [26.9, 8.6], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="158,1092 294,1092 428,1089 562,1089 695,1089 829,1089 963,1089 1096,1089 1230,1089 1368,1087 1368,1052 1230,1054 1096,1054 963,1054 829,1054 695,1054 562,1054 428,1054 294,1056 158,1056 158,1092"/>
+        <Baseline points="158,1083 294,1083 428,1081 562,1081 695,1081 829,1081 963,1081 1096,1081 1230,1081 1368,1079"/>
+        <TextEquiv conf="0.995">
+          <Unicode>hřebská a na nářadí). Jelikož jednota počtem cvičícího členstva právě ne-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l024" index="3" custom="{&quot;heights&quot;: [27.0, 8.4], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="158,1123 297,1125 430,1123 564,1123 698,1123 831,1123 965,1120 1099,1120 1232,1120 1371,1120 1371,1085 1232,1085 1099,1085 965,1085 831,1087 698,1087 564,1087 430,1087 296,1089 159,1087 158,1123"/>
+        <Baseline points="158,1114 296,1117 430,1114 564,1114 698,1114 831,1114 965,1112 1099,1112 1232,1112 1371,1112"/>
+        <TextEquiv conf="0.928">
+          <Unicode>oplývá, vybízí veškeré bratr. jednoty i jednotlivce, by se dle možnosti</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l025" index="4" custom="{&quot;heights&quot;: [27.4, 8.4], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1371,1118 1232,1118 1099,1118 965,1118 831,1118 695,1118 561,1120 428,1120 294,1123 157,1120 157,1156 294,1158 428,1156 562,1156 695,1154 831,1154 965,1154 1099,1154 1232,1154 1371,1154 1371,1118"/>
+        <Baseline points="157,1148 294,1150 428,1148 562,1148 695,1145 831,1145 965,1145 1099,1145 1232,1145 1371,1145"/>
+        <TextEquiv conf="0.993">
+          <Unicode>oslavy, hlavně však cvičení súčastnili. Na přímé vyslání družstev ovšem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l026" index="5" custom="{&quot;heights&quot;: [27.7, 8.6], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1371,1153 1233,1151 1099,1151 965,1151 831,1151 695,1153 562,1153 428,1153 294,1153 157,1153 157,1190 294,1190 428,1190 562,1190 695,1190 831,1187 965,1187 1099,1187 1232,1187 1371,1190 1371,1153"/>
+        <Baseline points="157,1181 294,1181 428,1181 562,1181 695,1181 831,1179 965,1179 1099,1179 1232,1179 1371,1181"/>
+        <TextEquiv conf="0.998">
+          <Unicode>se nepočítá, však oni účastníci záhřebského sletu, jimž toho čas dovoluje,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l027" index="6" custom="{&quot;heights&quot;: [27.2, 8.6], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1371,1185 1232,1185 1099,1185 965,1185 831,1185 695,1187 562,1187 428,1187 294,1187 157,1187 157,1223 294,1223 428,1223 562,1223 695,1223 831,1221 965,1221 1099,1221 1232,1221 1372,1221 1371,1185"/>
+        <Baseline points="157,1215 294,1215 428,1215 562,1215 695,1215 831,1212 965,1212 1099,1212 1232,1212 1371,1212"/>
+        <TextEquiv conf="0.998">
+          <Unicode>mohou na zpáteční cestě v Budapešti se zastaviti. Jednota budapeštská zadala</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l028" index="7" custom="{&quot;heights&quot;: [27.3, 8.7], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1371,1216 1232,1219 1099,1219 965,1219 831,1219 695,1219 561,1221 428,1221 294,1221 157,1223 156,1259 294,1257 428,1257 562,1257 695,1255 831,1255 965,1255 1099,1255 1233,1255 1372,1252 1371,1216"/>
+        <Baseline points="157,1250 294,1248 428,1248 562,1248 695,1246 831,1246 965,1246 1099,1246 1232,1246 1372,1244"/>
+        <TextEquiv conf="0.998">
+          <Unicode>právě o úplně bezplatný vlak pro Sokolstvo sjezdu záhřebského se súčast-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l029" index="8" custom="{&quot;heights&quot;: [27.2, 8.7], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1372,1252 1232,1252 1099,1252 965,1252 831,1252 695,1252 562,1252 427,1254 294,1254 156,1254 156,1290 294,1290 428,1290 562,1288 695,1288 831,1288 965,1288 1099,1288 1232,1288 1372,1288 1372,1252"/>
+        <Baseline points="156,1281 294,1281 428,1281 562,1279 695,1279 831,1279 965,1279 1099,1279 1232,1279 1372,1279"/>
+        <TextEquiv conf="0.992">
+          <Unicode>nivšího, vyřízení však ještě nedošlo, však jízdu za poloviční cenu (též pro</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l030" index="9" custom="{&quot;heights&quot;: [27.4, 8.7], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="156,1324 294,1324 428,1324 562,1321 695,1321 831,1321 965,1321 1099,1321 1232,1321 1372,1321 1372,1285 1232,1285 1099,1285 965,1285 831,1285 695,1285 562,1285 427,1287 294,1287 156,1287 156,1321 156,1324"/>
+        <Baseline points="156,1315 294,1315 428,1315 562,1313 695,1313 831,1313 965,1313 1099,1313 1232,1313 1372,1313"/>
+        <TextEquiv conf="0.990">
+          <Unicode>druhou třídu) za pomoci certifikátu, s kterým i možno cestu přerušovati,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l031" index="10" custom="{&quot;heights&quot;: [27.3, 8.6], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="156,1357 294,1357 428,1357 564,1357 698,1357 831,1355 967,1355 1101,1355 1235,1355 1372,1355 1372,1319 1235,1319 1101,1319 967,1319 831,1319 697,1321 564,1321 428,1321 294,1321 156,1321 156,1357"/>
+        <Baseline points="156,1348 294,1348 428,1348 564,1348 698,1348 831,1346 967,1346 1101,1346 1235,1346 1372,1346"/>
+        <TextEquiv conf="0.973">
+          <Unicode>má již v každém počtu zaručenou. Nuže, bratři, kdo můžete přijďte, budete</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l032" index="11" custom="{&quot;heights&quot;: [27.5, 8.6], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="157,1388 294,1390 428,1390 562,1390 695,1390 831,1388 965,1388 1099,1388 1232,1388 1373,1388 1372,1352 1232,1352 1099,1352 965,1352 831,1352 695,1354 562,1354 428,1354 294,1354 156,1352 156,1353 157,1388"/>
+        <Baseline points="157,1379 294,1382 428,1382 562,1382 695,1382 831,1379 965,1379 1099,1379 1232,1379 1372,1379"/>
+        <TextEquiv conf="0.993">
+          <Unicode>srdečně vítáni, ne jen jednotou samou, nýbrž i celou českou veřejností,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l033" index="12" custom="{&quot;heights&quot;: [28.2, 8.8], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="157,1422 294,1422 428,1422 562,1424 695,1424 831,1422 965,1422 1099,1422 1233,1422 1373,1420 1373,1399 1372,1382 1232,1385 1099,1385 965,1385 831,1385 695,1387 562,1387 428,1385 294,1385 157,1385 157,1422"/>
+        <Baseline points="157,1413 294,1413 428,1413 562,1415 695,1415 831,1413 965,1413 1099,1413 1232,1413 1373,1411"/>
+        <TextEquiv conf="0.995">
+          <Unicode>která přítomnosti Vaši osvěžení ve svém národním vědomí nalezne. Po-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l034" index="13" custom="{&quot;heights&quot;: [29.1, 9.2], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="803,1456 831,1456 901,1456 1373,1453 1372,1415 1232,1417 1099,1417 965,1417 831,1417 697,1419 564,1419 430,1419 297,1417 158,1417 158,1456 296,1456 430,1458 803,1456"/>
+        <Baseline points="158,1446 296,1446 430,1449 564,1449 698,1449 831,1446 965,1446 1099,1446 1232,1446 1373,1444"/>
+        <TextEquiv conf="0.990">
+          <Unicode>drobnější oznámení uveřejníme v době pozdější. Na zdar! Sokol buda-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l035" index="14" custom="{&quot;heights&quot;: [28.5, 8.7], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="192,1491 223,1491 254,1491 290,1491 290,1453 254,1453 223,1453 192,1453 158,1453 158,1491 192,1491"/>
+        <Baseline points="158,1482 192,1482 223,1482 254,1482 290,1482"/>
+        <TextEquiv conf="0.844">
+          <Unicode>peštský.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003" custom="{&quot;category&quot;: &quot;text&quot;}">
+      <Coords points="157,2019 158,2122 842,2124 996,2091 1371,2088 1375,1753 255,1753 158,1787 157,2019"/>
+      <TextLine id="r003-l038" index="0" custom="{&quot;heights&quot;: [27.8, 9.0], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1375,1753 1246,1753 1123,1755 998,1755 876,1755 751,1755 628,1755 504,1755 381,1755 255,1753 254,1790 381,1792 504,1792 628,1792 751,1792 876,1792 998,1792 1123,1792 1246,1790 1375,1790 1375,1753"/>
+        <Baseline points="254,1781 381,1783 504,1783 628,1783 751,1783 876,1783 998,1783 1123,1783 1246,1781 1375,1781"/>
+        <TextEquiv conf="0.992">
+          <Unicode>Dne tohoto vzpomene dorost jednot sokolských v Praze a okolí pa-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l039" index="1" custom="{&quot;heights&quot;: [27.2, 8.7], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1375,1787 1234,1789 1101,1789 967,1789 833,1789 698,1787 563,1789 430,1789 297,1787 158,1787 158,1823 296,1823 430,1825 564,1825 697,1823 833,1825 967,1825 1101,1825 1235,1825 1374,1823 1375,1787"/>
+        <Baseline points="158,1814 296,1814 430,1816 564,1816 698,1814 833,1816 967,1816 1101,1816 1235,1816 1374,1814"/>
+        <TextEquiv conf="0.964">
+          <Unicode>mátným večerem v tělocvičně »Sokola« na Krl. Vinohradech ve čtvrtek,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l040" index="2" custom="{&quot;heights&quot;: [27.1, 8.5], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="158,1854 296,1858 430,1858 564,1858 698,1858 831,1858 965,1858 1099,1858 1233,1856 1373,1854 1372,1818 1232,1820 1098,1823 965,1823 831,1823 698,1823 564,1823 430,1823 296,1823 159,1818 158,1854"/>
+        <Baseline points="158,1845 296,1850 430,1850 564,1850 698,1850 831,1850 965,1850 1099,1850 1232,1847 1373,1845"/>
+        <TextEquiv conf="0.961">
+          <Unicode>dne 26. července o 1/28. hod. večerní, kamž bude přiveden br. z jednot so-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l041" index="3" custom="{&quot;heights&quot;: [26.7, 8.5], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="158,1887 296,1889 430,1892 564,1892 698,1892 831,1892 965,1892 1099,1892 1233,1889 1373,1887 1372,1852 1232,1854 1098,1856 965,1856 831,1856 698,1856 564,1856 430,1856 297,1854 159,1852 158,1887"/>
+        <Baseline points="158,1879 296,1881 430,1883 564,1883 698,1883 831,1883 965,1883 1099,1883 1232,1881 1373,1879"/>
+        <TextEquiv conf="0.989">
+          <Unicode>kolských. Zvláštní oznámení o tom rozesláno právě všem jednotám sokol-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l042" index="4" custom="{&quot;heights&quot;: [27.2, 8.3], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="158,1920 254,1923 345,1923 439,1923 530,1923 622,1925 716,1925 807,1923 898,1925 996,1923 996,1887 897,1889 807,1887 715,1889 622,1889 531,1887 439,1887 345,1887 254,1887 159,1885 158,1920"/>
+        <Baseline points="158,1912 254,1914 345,1914 439,1914 530,1914 622,1917 715,1917 807,1914 898,1917 996,1914"/>
+        <TextEquiv conf="0.996">
+          <Unicode>ským a budiž působeno všude k nejhojnější účasti.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l043" index="5" custom="{&quot;heights&quot;: [27.5, 8.6], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1373,1938 1372,1918 1243,1920 1120,1922 997,1920 873,1922 749,1920 626,1920 501,1920 379,1920 252,1920 252,1956 379,1956 501,1956 626,1956 749,1956 874,1959 996,1956 1121,1959 1244,1956 1372,1954 1373,1938"/>
+        <Baseline points="252,1948 379,1948 501,1948 626,1948 749,1948 874,1950 996,1948 1121,1950 1244,1948 1373,1946"/>
+        <TextEquiv conf="0.987">
+          <Unicode>O brixenském mučedníku promluví Karel Vaníček, z jehož péra oti-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l044" index="6" custom="{&quot;heights&quot;: [27.7, 8.8], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1372,1951 1234,1954 1101,1953 967,1953 833,1956 700,1954 566,1953 432,1953 299,1953 160,1953 160,1990 299,1990 432,1990 566,1990 700,1990 834,1992 967,1990 1101,1990 1235,1990 1372,1988 1372,1951"/>
+        <Baseline points="160,1981 299,1981 432,1981 566,1981 700,1981 833,1983 967,1981 1101,1981 1235,1981 1372,1979"/>
+        <TextEquiv conf="0.937">
+          <Unicode>skujeme dnes článek ve zvláštní příloze, určené pro dorost. — Kde nemožno</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l045" index="7" custom="{&quot;heights&quot;: [27.3, 8.9], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1372,1987 1234,1990 1101,1990 967,1990 833,1990 698,1987 564,1987 430,1987 296,1987 159,1985 158,2021 296,2023 430,2023 564,2023 697,2023 833,2026 967,2026 1101,2026 1235,2026 1372,2024 1372,1987"/>
+        <Baseline points="158,2012 296,2015 430,2015 564,2015 698,2015 833,2017 967,2017 1101,2017 1235,2017 1372,2015"/>
+        <TextEquiv conf="0.969">
+          <Unicode>získati řečníka pro dorost, budiž přečtěn tento článek a při tom přednesena</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l046" index="8" custom="{&quot;heights&quot;: [27.2, 8.9], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="157,2055 241,2057 323,2057 406,2057 488,2055 568,2057 651,2057 733,2057 816,2057 903,2057 903,2021 816,2021 733,2021 651,2021 568,2021 489,2019 405,2021 323,2021 241,2021 157,2019 157,2055"/>
+        <Baseline points="157,2046 241,2048 323,2048 406,2048 488,2046 568,2048 651,2048 733,2048 816,2048 903,2048"/>
+        <TextEquiv conf="0.581">
+          <Unicode>báseň Nerudova  Moje barva červená a bílá</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l047" index="9" custom="{&quot;heights&quot;: [26.6, 8.5], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="923,2054 945,2054 945,2019 923,2019 923,2054"/>
+        <Baseline points="923,2046 945,2046"/>
+        <TextEquiv conf="0.341">
+          <Unicode>-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l048" index="10" custom="{&quot;heights&quot;: [27.7, 9.2], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1371,2088 1370,2052 1241,2054 1119,2054 996,2054 874,2054 749,2054 626,2054 504,2054 381,2054 254,2054 254,2091 381,2091 504,2091 626,2091 749,2091 874,2091 996,2091 1371,2088"/>
+        <Baseline points="254,2081 381,2081 504,2081 626,2081 749,2081 874,2081 996,2081 1119,2081 1241,2081 1371,2079"/>
+        <TextEquiv conf="0.985">
+          <Unicode>Dorostu zakoupeno pamětní číslo Havlíčkovo župy budečské v ná-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l049" index="11" custom="{&quot;heights&quot;: [26.9, 9.1], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="842,2124 842,2088 762,2088 686,2088 613,2088 537,2088 461,2088 388,2088 312,2088 237,2086 158,2086 158,2122 236,2122 246,2122 842,2124"/>
+        <Baseline points="158,2113 236,2113 312,2115 388,2115 461,2115 537,2115 613,2115 686,2115 762,2115 842,2115"/>
+        <TextEquiv conf="0.993">
+          <Unicode>kladu 500 ex. a rozdáno všem účastníkům.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004" custom="{&quot;category&quot;: &quot;text&quot;}">
+      <Coords points="340,1686 254,1686 254,1726 1014,1726 1015,1686 340,1686"/>
+      <TextLine id="r004-l037" index="0" custom="{&quot;heights&quot;: [30.3, 10.0], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="254,1686 254,1726 341,1726 423,1724 508,1724 591,1726 675,1724 758,1724 842,1724 925,1724 1014,1726 1015,1686 340,1686 254,1686"/>
+        <Baseline points="254,1716 341,1716 423,1714 508,1714 591,1716 675,1714 758,1714 842,1714 925,1714 1014,1716"/>
+        <TextEquiv conf="0.943">
+          <Unicode>29. července dotrpěl Karel Havlíček-Borovský.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r005" custom="{&quot;category&quot;: &quot;text&quot;}">
+      <Coords points="484,873 399,873 399,931 1141,931 1141,873 484,873"/>
+      <TextLine id="r005-l020" index="0" custom="{&quot;heights&quot;: [45.4, 12.7], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="399,873 399,931 484,931 566,931 646,931 729,931 809,931 891,931 972,931 1054,931 1141,931 1141,873 1054,873 972,873 891,873 809,873 729,873 646,873 566,873 484,873 399,873"/>
+        <Baseline points="399,918 484,918 566,918 646,918 729,918 809,918 891,918 972,918 1054,918 1141,918"/>
+        <TextEquiv conf="0.905">
+          <Unicode>VĚSTNÍK JEDNOT ZAHRANIČ.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r006" custom="{&quot;category&quot;: &quot;text&quot;}">
+      <Coords points="555,1570 490,1570 490,1627 1045,1629 1045,1572 555,1570"/>
+      <TextLine id="r006-l036" index="0" custom="{&quot;heights&quot;: [45.9, 11.5], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="490,1570 490,1627 555,1627 615,1627 675,1627 698,1628 1045,1629 1045,1572 978,1572 918,1572 858,1572 798,1572 735,1572 693,1570 555,1570 490,1570"/>
+        <Baseline points="490,1616 555,1616 615,1616 675,1616 735,1618 798,1618 858,1618 918,1618 978,1618 1045,1618"/>
+        <TextEquiv conf="0.530">
+          <Unicode>DOKOST SOKOLSKÝ.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

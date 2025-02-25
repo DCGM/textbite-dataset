@@ -1,0 +1,981 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2025-02-20T23:23:38.113274+00:00</Created>
+    <LastChange>2025-02-20T23:23:38.113274+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="slovnik-francouzsko-cesky-1699213590-31" imageWidth="2481" imageHeight="3508">
+    <TextRegion id="r000" custom="{&quot;category&quot;: &quot;text&quot;}">
+      <Coords points="210,573 220,936 217,1354 227,1454 222,1595 240,2601 243,3249 403,3252 492,3205 1204,3199 1201,2873 1183,2789 1193,2546 1168,1251 1172,1165 1164,1037 1170,568 1160,251 212,256 212,353 220,399 210,573"/>
+      <TextLine id="r000-l004" index="0" custom="{&quot;heights&quot;: [35.2, 13.1], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="212,305 320,305 423,305 529,305 632,305 738,302 841,302 946,302 1050,302 1161,299 1160,251 1048,254 946,254 841,254 738,254 631,256 529,256 423,256 320,256 212,256 212,305"/>
+        <Baseline points="212,292 320,292 423,292 529,292 632,292 738,289 841,289 946,289 1049,289 1161,286"/>
+        <TextEquiv conf="0.179">
+          <Unicode>-e rok o 366 dnech (v republikánském ka-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l006" index="1" custom="{&quot;heights&quot;: [34.3, 13.0], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1161,294 1051,297 945,300 843,300 739,297 634,300 528,303 426,303 320,303 212,306 212,353 320,350 426,350 529,350 635,347 737,345 843,347 947,347 1052,345 1163,342 1161,294"/>
+        <Baseline points="212,340 320,337 426,337 529,337 635,334 738,332 843,334 946,334 1052,332 1162,329"/>
+        <TextEquiv conf="0.864">
+          <Unicode>lendáři fr.); jour - šestý den doplňkový</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l008" index="2" custom="{&quot;heights&quot;: [34.4, 12.9], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="289,399 352,396 418,396 480,393 546,393 609,393 675,393 738,393 809,393 809,346 738,346 675,346 609,346 546,346 480,346 416,349 352,349 287,352 220,352 220,399 289,399"/>
+        <Baseline points="220,386 289,386 352,383 417,383 480,380 546,380 609,380 675,380 738,380 809,380"/>
+        <TextEquiv conf="0.538">
+          <Unicode>(tamtéž, sr. bissextil). Et. 1t.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l010" index="3" custom="{&quot;heights&quot;: [34.9, 13.0], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="252,442 358,442 457,439 557,439 658,439 758,436 858,436 958,436 1058,436 1164,433 1163,385 1057,388 958,388 858,388 758,388 657,391 557,391 457,391 356,394 252,394 252,442"/>
+        <Baseline points="252,429 357,429 457,426 557,426 658,426 758,423 858,423 958,423 1058,423 1164,420"/>
+        <TextEquiv conf="0.336">
+          <Unicode>sextillion [sęks-ti-ljò] sm. id., tisíc kvin-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l012" index="4" custom="{&quot;heights&quot;: [34.3, 13.0], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="215,485 253,488 286,485 320,485 355,485 398,482 395,435 352,437 320,437 286,437 249,440 218,438 215,485"/>
+        <Baseline points="216,472 252,475 286,472 320,472 354,472 397,469"/>
+        <TextEquiv conf="0.999">
+          <Unicode>tillionů.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l014" index="5" custom="{&quot;heights&quot;: [34.7, 13.2], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="254,531 332,531 406,528 480,528 552,528 626,525 700,525 772,525 846,525 926,525 926,477 846,477 772,477 700,477 626,477 550,480 480,480 406,480 330,483 254,483 254,531"/>
+        <Baseline points="254,517 332,517 406,515 480,515 552,515 626,512 700,512 772,512 846,512 926,512"/>
+        <TextEquiv conf="0.935">
+          <Unicode>sextine [sęks-tin] sf. sestina.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l015" index="6" custom="{&quot;heights&quot;: [36.5, 13.6], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1167,518 1113,521 1069,521 1023,521 980,518 929,518 883,518 838,518 790,521 742,518 740,568 793,571 838,568 883,568 929,568 977,568 1023,571 1069,571 1116,571 1170,568 1167,518"/>
+        <Baseline points="740,555 792,557 838,555 883,555 929,555 978,555 1023,557 1069,557 1115,557 1169,555"/>
+        <TextEquiv conf="0.771">
+          <Unicode>(ob. psáno 6°) po, za</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l017" index="7" custom="{&quot;heights&quot;: [34.0, 13.3], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="254,574 312,574 364,574 415,571 466,571 520,571 572,571 623,571 675,571 735,568 733,521 673,523 623,523 572,523 520,523 466,523 415,523 361,526 312,526 254,526 254,574"/>
+        <Baseline points="254,560 312,560 363,560 415,557 466,557 520,557 572,557 623,557 675,557 735,555"/>
+        <TextEquiv conf="0.518">
+          <Unicode>sexto [seks-to] adv.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l019" index="8" custom="{&quot;heights&quot;: [33.5, 12.7], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="720,613 766,613 806,613 852,613 852,567 806,567 766,567 720,567 720,613"/>
+        <Baseline points="720,600 766,600 806,600 852,600"/>
+        <TextEquiv conf="0.392">
+          <Unicode>Et. it.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l020" index="9" custom="{&quot;heights&quot;: [33.6, 13.1], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="212,619 272,616 326,616 383,616 437,616 492,616 549,613 603,613 658,613 720,613 720,567 658,567 603,567 549,567 490,570 437,570 383,570 326,570 272,570 210,573 212,619"/>
+        <Baseline points="212,606 272,603 326,603 383,603 437,603 492,603 549,600 603,600 658,600 720,600"/>
+        <TextEquiv conf="0.802">
+          <Unicode>šesté (= sixièmement).</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l022" index="10" custom="{&quot;heights&quot;: [33.1, 12.1], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="726,658 766,658 803,658 841,658 878,658 912,658 949,658 986,658 1023,658 1066,658 1066,613 1023,613 986,613 949,613 912,613 878,613 841,613 803,613 766,613 726,613 726,658"/>
+        <Baseline points="726,646 766,646 803,646 841,646 878,646 912,646 949,646 986,646 1023,646 1066,646"/>
+        <TextEquiv conf="0.999">
+          <Unicode>sm. mus. sextet.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l023" index="11" custom="{&quot;heights&quot;: [34.1, 13.1], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="257,662 312,662 363,662 415,662 466,659 515,659 566,659 618,659 669,659 726,659 726,612 669,612 618,612 566,612 515,612 466,612 413,615 363,615 312,615 257,615 257,662"/>
+        <Baseline points="257,649 312,649 363,649 415,649 466,646 515,646 566,646 618,646 669,646 726,646"/>
+        <TextEquiv conf="0.279">
+          <Unicode>sextuor [sęks-ty-or]</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l025" index="12" custom="{&quot;heights&quot;: [34.1, 12.8], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="257,708 361,708 460,705 561,705 660,702 760,705 861,705 961,705 1061,702 1167,699 1165,652 1060,655 960,658 861,658 760,658 661,655 559,658 460,658 359,661 257,661 257,708"/>
+        <Baseline points="257,695 360,695 460,692 560,692 660,689 760,692 861,692 961,692 1061,689 1166,686"/>
+        <TextEquiv conf="0.608">
+          <Unicode>sextuple [seks-typl] a. i sm. šesteroná-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l027" index="13" custom="{&quot;heights&quot;: [34.1, 12.9], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="215,753 320,751 426,751 532,748 634,748 741,751 846,748 949,748 1055,748 1167,745 1166,698 1054,701 949,701 846,701 740,704 636,701 532,701 425,704 320,704 214,706 215,753"/>
+        <Baseline points="215,740 320,738 426,738 532,735 635,735 740,738 846,735 949,735 1055,735 1166,732"/>
+        <TextEquiv conf="0.787">
+          <Unicode>sob-ný, -ek, -né (n. sg.); mus. mesure - šesti-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l028" index="14" custom="{&quot;heights&quot;: [34.6, 13.5], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="216,797 272,797 323,797 375,797 426,797 477,797 529,797 581,797 632,794 692,794 692,746 632,746 578,749 529,749 477,749 426,749 375,749 323,749 272,749 215,749 216,797"/>
+        <Baseline points="216,783 272,783 323,783 375,783 426,783 477,783 529,783 580,783 632,780 692,780"/>
+        <TextEquiv conf="0.450">
+          <Unicode>třetinový takt. Et. it.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l031" index="15" custom="{&quot;heights&quot;: [35.1, 14.0], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1166,831 1165,797 1060,800 961,800 861,800 760,800 660,800 560,800 459,803 360,803 256,805 258,855 360,852 461,852 560,849 660,849 760,849 861,849 961,849 1061,849 1166,846 1166,831"/>
+        <Baseline points="257,841 360,838 460,838 560,835 660,835 760,835 861,835 961,835 1061,835 1166,832"/>
+        <TextEquiv conf="0.520">
+          <Unicode>sextupler [seks-ty-ple] va. uč. zešestero-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l033" index="16" custom="{&quot;heights&quot;: [33.4, 12.8], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="219,896 257,896 295,896 334,893 372,893 417,893 417,847 372,847 334,847 292,850 257,850 218,850 219,896"/>
+        <Baseline points="219,883 257,883 294,883 334,881 372,881 417,881"/>
+        <TextEquiv conf="1.000">
+          <Unicode>násobiti.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l035" index="17" custom="{&quot;heights&quot;: [35.4, 13.5], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1166,890 1165,885 1060,888 961,888 861,888 760,888 663,888 563,888 462,891 363,891 259,894 261,943 363,940 464,940 563,937 663,937 760,937 861,937 961,937 1061,937 1165,934 1166,890"/>
+        <Baseline points="260,929 363,926 463,926 563,923 663,923 760,923 861,923 961,923 1061,923 1165,921"/>
+        <TextEquiv conf="0.627">
+          <Unicode>sexualiser [sęk-sy-a-li-ze] * va. rozezná-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l037" index="18" custom="{&quot;heights&quot;: [35.6, 13.6], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="220,986 266,986 306,986 347,986 386,983 426,983 466,983 506,983 546,983 595,983 595,934 546,934 506,934 466,934 426,934 386,934 343,937 306,936 266,936 220,936 220,986"/>
+        <Baseline points="220,972 266,972 306,972 346,972 386,969 426,969 466,969 506,969 546,969 595,969"/>
+        <TextEquiv conf="0.999">
+          <Unicode>vati dle pohlaví.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l039" index="19" custom="{&quot;heights&quot;: [35.6, 13.5], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1164,988 1058,988 958,988 861,988 760,988 663,988 563,988 465,991 366,991 262,994 263,1043 366,1040 466,1040 563,1037 663,1037 760,1037 861,1037 958,1037 1058,1037 1164,1037 1164,988"/>
+        <Baseline points="263,1029 366,1026 466,1026 563,1023 663,1023 760,1023 861,1023 958,1023 1058,1023 1164,1023"/>
+        <TextEquiv conf="0.516">
+          <Unicode>sexualité [sęk-sy-a-li-te] sf.i sme [-lism]</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l041" index="20" custom="{&quot;heights&quot;: [33.7, 13.1], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="219,1085 303,1085 386,1085 469,1082 552,1082 632,1082 715,1079 797,1079 881,1082 970,1079 968,1033 879,1036 799,1033 715,1033 631,1036 552,1036 469,1036 385,1038 303,1038 219,1038 219,1085"/>
+        <Baseline points="219,1072 303,1072 386,1072 469,1069 552,1069 632,1069 715,1066 798,1066 881,1069 969,1066"/>
+        <TextEquiv conf="0.893">
+          <Unicode>sm. pohlavnost, sexuálnost. Et. it.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l043" index="21" custom="{&quot;heights&quot;: [33.9, 13.0], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1166,1073 1062,1078 963,1078 863,1078 763,1078 666,1078 566,1078 465,1081 366,1081 262,1084 263,1131 366,1128 466,1128 566,1125 666,1125 763,1125 863,1125 963,1125 1064,1125 1169,1119 1166,1073"/>
+        <Baseline points="263,1118 366,1115 466,1115 566,1112 666,1112 763,1112 863,1112 963,1112 1063,1112 1168,1106"/>
+        <TextEquiv conf="0.511">
+          <Unicode>sexuel, -le [sek-sy-el] a. (jen za s.) 1. po-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l045" index="22" custom="{&quot;heights&quot;: [34.1, 13.2], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="219,1174 326,1174 432,1174 537,1171 641,1171 746,1168 852,1168 955,1168 1061,1168 1172,1165 1169,1118 1060,1121 955,1121 852,1121 746,1121 639,1124 537,1124 431,1127 326,1127 219,1127 219,1174"/>
+        <Baseline points="219,1161 326,1161 432,1161 537,1158 640,1158 746,1155 852,1155 955,1155 1061,1155 1172,1152"/>
+        <TextEquiv conf="0.731">
+          <Unicode>hlavní; 2. politique -le politika ženská, dě-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l047" index="23" custom="{&quot;heights&quot;: [34.1, 13.2], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="218,1220 295,1220 366,1217 440,1217 512,1217 584,1217 658,1214 729,1214 800,1214 881,1214 881,1167 800,1167 729,1167 658,1167 582,1169 512,1169 440,1169 366,1169 293,1172 219,1172 218,1220"/>
+        <Baseline points="218,1206 294,1206 366,1204 440,1204 512,1204 583,1204 658,1201 729,1201 800,1201 881,1201"/>
+        <TextEquiv conf="0.478">
+          <Unicode>laná ženskými. Et. sexuālis 1t.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l050" index="24" custom="{&quot;heights&quot;: [34.8, 13.5], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="263,1266 352,1263 435,1263 517,1260 600,1260 683,1260 766,1260 849,1260 932,1260 1021,1260 1021,1212 932,1212 849,1212 766,1212 683,1212 600,1212 517,1212 433,1215 352,1214 262,1217 263,1266"/>
+        <Baseline points="263,1252 352,1249 435,1249 517,1246 600,1246 683,1246 766,1246 849,1246 932,1246 1021,1246"/>
+        <TextEquiv conf="0.266">
+          <Unicode>seyance [se-jäs] sf. sedící dámy.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l051" index="25" custom="{&quot;heights&quot;: [35.3, 13.5], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1168,1251 1063,1254 962,1257 863,1257 763,1257 666,1257 566,1257 466,1257 365,1260 263,1260 263,1309 366,1309 466,1306 566,1306 666,1306 763,1306 863,1306 964,1306 1064,1303 1169,1300 1168,1251"/>
+        <Baseline points="263,1295 366,1295 466,1292 566,1292 666,1292 763,1292 863,1292 963,1292 1063,1289 1169,1286"/>
+        <TextEquiv conf="0.388">
+          <Unicode>seyant, -e (se-jā, -jāt] a. (pprés. od seoir)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l053" index="26" custom="{&quot;heights&quot;: [35.0, 13.5], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="217,1354 257,1354 294,1354 332,1354 370,1354 406,1351 443,1351 480,1351 517,1351 560,1351 560,1303 517,1303 480,1303 443,1303 406,1303 366,1306 332,1306 294,1306 257,1306 218,1306 217,1354"/>
+        <Baseline points="217,1341 257,1341 294,1341 332,1341 369,1341 406,1338 443,1338 480,1338 517,1338 560,1338"/>
+        <TextEquiv conf="0.997">
+          <Unicode>slušný, slušící.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l056" index="27" custom="{&quot;heights&quot;: [37.0, 14.0], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1170,1352 1069,1352 969,1352 869,1352 768,1355 669,1355 569,1355 469,1355 369,1355 262,1358 263,1409 369,1406 469,1406 569,1406 669,1406 769,1406 869,1403 969,1403 1069,1403 1171,1403 1170,1352"/>
+        <Baseline points="263,1395 369,1392 469,1392 569,1392 669,1392 769,1392 869,1389 969,1389 1069,1389 1171,1389"/>
+        <TextEquiv conf="0.895">
+          <Unicode>Sforce [sfors] i -za [-ca] npr. m. Sforza</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l058" index="28" custom="{&quot;heights&quot;: [34.6, 13.0], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="277,1451 323,1451 370,1451 415,1448 460,1448 506,1448 552,1448 598,1448 649,1448 649,1401 598,1401 552,1401 506,1401 460,1401 415,1401 367,1403 323,1403 277,1403 224,1406 227,1454 277,1451"/>
+        <Baseline points="226,1441 277,1438 323,1438 369,1438 415,1435 460,1435 506,1435 552,1435 598,1435 649,1435"/>
+        <TextEquiv conf="0.999">
+          <Unicode>(vévodský rod it.).</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l060" index="29" custom="{&quot;heights&quot;: [35.1, 13.3], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1172,1446 1069,1446 970,1443 869,1443 769,1443 668,1446 569,1446 469,1446 369,1446 265,1449 266,1497 369,1494 469,1494 569,1494 669,1494 769,1491 869,1491 969,1491 1069,1494 1173,1494 1172,1446"/>
+        <Baseline points="266,1484 369,1481 469,1481 569,1481 669,1481 769,1478 869,1478 969,1478 1069,1481 1173,1481"/>
+        <TextEquiv conf="0.499">
+          <Unicode>sforzando [sfor-zā-do i -cā-] adv. mus. id.,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l062" index="30" custom="{&quot;heights&quot;: [34.7, 13.3], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="224,1543 283,1540 340,1540 397,1540 452,1540 509,1540 567,1540 620,1537 678,1537 740,1537 740,1489 678,1489 620,1489 564,1492 509,1492 452,1492 397,1492 340,1492 283,1492 225,1495 224,1543"/>
+        <Baseline points="224,1529 283,1527 340,1527 397,1527 452,1527 509,1527 566,1527 620,1524 678,1524 740,1524"/>
+        <TextEquiv conf="0.991">
+          <Unicode>znenáhla silněji. Et. it.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l064" index="31" custom="{&quot;heights&quot;: [35.3, 13.3], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1174,1543 1068,1546 970,1543 869,1543 769,1543 672,1543 571,1546 472,1546 372,1546 268,1549 269,1597 372,1594 472,1594 572,1594 672,1591 769,1591 869,1591 969,1591 1070,1594 1175,1591 1174,1543"/>
+        <Baseline points="269,1584 372,1581 472,1581 572,1581 672,1578 769,1578 869,1578 969,1578 1069,1581 1175,1578"/>
+        <TextEquiv conf="0.945">
+          <Unicode>sfumato [sfy-ma-to i sfu-] sm. i adv. mal.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l066" index="32" custom="{&quot;heights&quot;: [34.6, 13.0], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1175,1626 1173,1584 1062,1589 958,1589 855,1589 749,1589 646,1589 539,1592 437,1592 332,1592 222,1595 223,1643 332,1640 437,1640 541,1640 646,1637 749,1637 855,1637 958,1637 1064,1637 1176,1631 1175,1626"/>
+        <Baseline points="223,1630 332,1627 437,1627 540,1627 646,1624 749,1624 855,1624 958,1624 1063,1624 1175,1618"/>
+        <TextEquiv conf="0.962">
+          <Unicode>malba v neurčitých obrysech; peindre - ma-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l068" index="33" custom="{&quot;heights&quot;: [34.1, 12.9], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="224,1685 304,1685 380,1682 457,1682 532,1682 609,1682 686,1682 760,1682 838,1682 921,1682 921,1636 838,1636 760,1636 686,1636 609,1636 532,1636 457,1636 380,1636 302,1638 223,1638 223,1646 224,1685"/>
+        <Baseline points="223,1672 303,1672 380,1670 457,1670 532,1670 609,1670 686,1670 760,1670 838,1670 921,1670"/>
+        <TextEquiv conf="0.978">
+          <Unicode>lovati vzdušně, neurčitě. Et. it.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l070" index="34" custom="{&quot;heights&quot;: [33.8, 13.0], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="269,1731 341,1731 406,1728 472,1728 537,1725 606,1725 672,1725 738,1725 803,1725 878,1725 878,1679 803,1679 738,1679 672,1679 606,1679 537,1679 470,1682 406,1682 339,1684 269,1684 269,1731"/>
+        <Baseline points="269,1718 340,1718 406,1715 472,1715 537,1712 606,1712 672,1712 738,1712 803,1712 878,1712"/>
+        <TextEquiv conf="0.902">
+          <Unicode>S. G. abr. = Sa Grandeur.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l072" index="35" custom="{&quot;heights&quot;: [34.3, 12.9], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1177,1724 1072,1724 972,1724 872,1724 772,1724 672,1724 572,1724 471,1727 372,1727 269,1727 269,1774 372,1774 472,1774 572,1771 672,1771 772,1771 872,1771 972,1771 1072,1771 1178,1771 1178,1755 1177,1724"/>
+        <Baseline points="269,1761 372,1761 472,1761 572,1758 672,1758 772,1758 872,1758 972,1758 1072,1758 1178,1758"/>
+        <TextEquiv conf="0.679">
+          <Unicode>Sganarelle [sga-na-ręl] npr. m. id., ob.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l074" index="36" custom="{&quot;heights&quot;: [34.2, 13.1], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="226,1820 297,1820 364,1820 432,1817 497,1817 567,1817 632,1814 700,1814 766,1814 841,1814 841,1767 766,1767 700,1767 632,1767 565,1770 497,1770 432,1770 362,1773 297,1773 226,1773 226,1805 226,1820"/>
+        <Baseline points="226,1807 297,1807 363,1807 432,1804 497,1804 566,1804 632,1801 700,1801 766,1801 841,1801"/>
+        <TextEquiv conf="0.909">
+          <Unicode>šizený staroch (u Molièra).</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l076" index="37" custom="{&quot;heights&quot;: [35.2, 13.2], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="274,1874 378,1874 478,1871 577,1869 674,1869 775,1871 875,1871 972,1871 1072,1869 1178,1866 1177,1817 1071,1820 971,1823 875,1823 775,1823 676,1820 577,1820 476,1823 376,1826 274,1826 274,1874"/>
+        <Baseline points="274,1861 377,1861 477,1858 577,1855 675,1855 775,1858 875,1858 972,1858 1072,1855 1178,1853"/>
+        <TextEquiv conf="0.958">
+          <Unicode>S. G. D. G. abr. = sans garantie du gou-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l078" index="38" custom="{&quot;heights&quot;: [34.6, 13.0], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="228,1920 335,1920 440,1917 546,1917 649,1914 755,1914 861,1914 963,1914 1070,1914 1181,1911 1180,1876 1180,1864 1068,1867 963,1867 861,1867 755,1867 649,1867 545,1869 440,1869 334,1872 227,1872 228,1920"/>
+        <Baseline points="228,1907 334,1907 440,1904 546,1904 649,1901 755,1901 861,1901 963,1901 1069,1901 1181,1898"/>
+        <TextEquiv conf="0.997">
+          <Unicode>vernement vláda neručí (formule patentní</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l080" index="39" custom="{&quot;heights&quot;: [34.6, 12.6], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="232,1965 275,1965 312,1962 352,1962 389,1962 429,1962 466,1962 507,1962 543,1959 589,1959 589,1912 543,1912 503,1915 466,1915 429,1915 389,1915 352,1915 312,1915 272,1918 232,1918 232,1965"/>
+        <Baseline points="232,1953 274,1953 312,1950 352,1950 389,1950 429,1950 466,1950 506,1950 543,1947 589,1947"/>
+        <TextEquiv conf="0.999">
+          <Unicode>v republice fr.).</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l082" index="40" custom="{&quot;heights&quot;: [35.3, 13.3], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="272,2012 375,2009 475,2009 575,2006 675,2006 775,2006 875,2006 975,2006 1075,2006 1181,2003 1180,1954 1074,1957 975,1957 875,1957 775,1957 675,1957 575,1957 474,1960 375,1960 271,1963 272,2012"/>
+        <Baseline points="272,1998 375,1995 475,1995 575,1993 675,1993 775,1993 875,1993 975,1993 1075,1993 1181,1990"/>
+        <TextEquiv conf="0.965">
+          <Unicode>sgraffier [zgra-fi-e] va. sgrafitovati. Et. it.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l084" index="41" custom="{&quot;heights&quot;: [34.5, 13.2], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="272,2054 375,2054 475,2054 575,2052 675,2052 772,2049 872,2049 972,2049 1072,2049 1178,2046 1177,1998 1071,2001 972,2001 872,2001 772,2001 674,2004 575,2004 474,2007 375,2007 272,2007 272,2054"/>
+        <Baseline points="272,2041 375,2041 475,2041 575,2038 675,2038 772,2036 872,2036 972,2036 1072,2036 1178,2033"/>
+        <TextEquiv conf="0.353">
+          <Unicode>sgraf(fit(e) (zgra-fit i sgra-/ i - o [-fi-to)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l086" index="42" custom="{&quot;heights&quot;: [34.6, 13.3], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="231,2100 337,2097 443,2097 549,2097 652,2095 758,2095 863,2095 966,2095 1072,2095 1184,2092 1183,2044 1071,2047 966,2047 863,2047 758,2047 652,2047 548,2050 443,2050 337,2050 230,2052 231,2100"/>
+        <Baseline points="231,2087 337,2084 443,2084 549,2084 652,2081 758,2081 863,2081 966,2081 1072,2081 1184,2078"/>
+        <TextEquiv conf="0.984">
+          <Unicode>sm. sgrafito, škrabaná malba fresková (černě</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l088" index="43" custom="{&quot;heights&quot;: [34.3, 13.0], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="232,2143 269,2143 300,2143 336,2143 365,2140 397,2143 432,2143 463,2143 495,2143 535,2143 535,2096 495,2096 463,2096 432,2096 397,2096 369,2093 331,2096 300,2096 269,2096 232,2096 232,2123 232,2143"/>
+        <Baseline points="232,2130 269,2130 300,2130 334,2130 366,2127 397,2130 432,2130 463,2130 495,2130 535,2130"/>
+        <TextEquiv conf="0.992">
+          <Unicode>a bíle). Et. it.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l090" index="44" custom="{&quot;heights&quot;: [35.6, 13.3], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="274,2189 343,2189 409,2189 472,2189 537,2186 600,2186 667,2186 729,2183 795,2183 866,2183 866,2134 795,2134 729,2134 664,2137 600,2137 537,2137 470,2140 409,2140 343,2140 274,2140 274,2189"/>
+        <Baseline points="274,2176 343,2176 409,2176 472,2176 537,2173 600,2173 666,2173 729,2170 795,2170 866,2170"/>
+        <TextEquiv conf="0.978">
+          <Unicode>S. H. abr. = Sa Hautesse.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l092" index="45" custom="{&quot;heights&quot;: [34.8, 13.1], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="275,2234 375,2232 469,2232 566,2229 660,2229 758,2229 852,2229 949,2229 1043,2229 1146,2229 1146,2181 1043,2181 949,2181 852,2181 758,2181 660,2181 566,2181 468,2184 375,2184 273,2187 275,2234"/>
+        <Baseline points="274,2221 375,2218 469,2218 566,2216 660,2216 758,2216 852,2216 949,2216 1043,2216 1146,2216"/>
+        <TextEquiv conf="0.831">
+          <Unicode>shah [ša] sm. šach (panovník). Et. pers.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l094" index="46" custom="{&quot;heights&quot;: [34.6, 13.0], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="274,2277 381,2277 480,2274 580,2274 680,2274 780,2274 881,2274 981,2274 1081,2274 1187,2272 1185,2224 1080,2227 981,2227 881,2227 780,2227 680,2227 580,2227 480,2227 379,2230 274,2230 274,2277"/>
+        <Baseline points="274,2264 380,2264 480,2261 580,2261 680,2261 780,2261 881,2261 981,2261 1081,2261 1186,2258"/>
+        <TextEquiv conf="0.454">
+          <Unicode>Shak e) speare [šek-spír i šek-] npr. m.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l096" index="47" custom="{&quot;heights&quot;: [33.9, 12.8], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="235,2323 317,2320 400,2320 484,2320 566,2317 649,2317 731,2317 815,2320 898,2317 986,2317 986,2270 898,2270 814,2273 733,2270 649,2270 566,2270 482,2273 400,2273 317,2273 234,2276 235,2323"/>
+        <Baseline points="235,2310 317,2307 400,2307 483,2307 566,2304 649,2304 732,2304 815,2307 898,2304 986,2304"/>
+        <TextEquiv conf="0.881">
+          <Unicode>id., dramatický básník ang. (+ 1616).</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l098" index="48" custom="{&quot;heights&quot;: [34.3, 12.9], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="277,2366 380,2366 481,2366 580,2363 680,2363 781,2363 881,2360 981,2360 1081,2360 1186,2360 1186,2313 1081,2313 981,2313 881,2313 779,2316 680,2316 580,2316 479,2319 380,2319 277,2319 277,2366"/>
+        <Baseline points="277,2353 380,2353 480,2353 580,2350 680,2350 780,2350 881,2347 981,2347 1081,2347 1186,2347"/>
+        <TextEquiv conf="0.628">
+          <Unicode>shak(e)spearianiser [šek-spi-ri-a-ni-ze]</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l100" index="49" custom="{&quot;heights&quot;: [33.6, 12.9], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="237,2409 312,2412 383,2409 455,2409 527,2409 598,2406 669,2406 740,2406 812,2406 892,2406 892,2359 812,2359 740,2359 669,2359 598,2359 525,2362 455,2362 383,2362 310,2365 236,2362 237,2409"/>
+        <Baseline points="236,2396 312,2399 383,2396 455,2396 526,2396 598,2393 669,2393 740,2393 812,2393 892,2393"/>
+        <TextEquiv conf="0.821">
+          <Unicode>va. shakespearovsky utvářiti.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l102" index="50" custom="{&quot;heights&quot;: [35.3, 13.3], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="278,2469 381,2466 480,2463 581,2463 680,2461 780,2461 881,2461 980,2461 1081,2463 1186,2463 1186,2415 1081,2415 982,2412 881,2412 780,2412 680,2412 579,2415 480,2415 379,2418 276,2420 278,2469"/>
+        <Baseline points="277,2456 380,2453 480,2450 580,2450 680,2447 780,2447 881,2447 981,2447 1081,2450 1186,2450"/>
+        <TextEquiv conf="0.548">
+          <Unicode>shak(e)spearien, -ne [šek-spi-rjě, -rjen]</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l104" index="51" custom="{&quot;heights&quot;: [34.4, 12.9], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="239,2512 343,2512 449,2512 555,2509 658,2506 763,2506 869,2506 972,2506 1077,2506 1189,2509 1190,2461 1079,2459 972,2459 869,2459 763,2459 658,2459 554,2461 448,2464 343,2464 238,2464 239,2512"/>
+        <Baseline points="238,2499 343,2499 449,2499 555,2496 658,2493 763,2493 869,2493 972,2493 1078,2493 1189,2496"/>
+        <TextEquiv conf="0.936">
+          <Unicode>a. (za s.) i s. shakespearovský [šek-spí-];</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l106" index="52" custom="{&quot;heights&quot;: [34.6, 12.9], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="239,2557 346,2557 452,2554 558,2554 660,2552 766,2552 872,2552 975,2552 1081,2552 1193,2546 1190,2498 1079,2504 975,2504 872,2504 766,2504 660,2504 557,2507 452,2507 345,2510 239,2510 239,2557"/>
+        <Baseline points="239,2544 346,2544 452,2542 557,2542 660,2539 766,2539 872,2539 975,2539 1081,2539 1192,2533"/>
+        <TextEquiv conf="0.987">
+          <Unicode>přívržen-ec, -kyně Shakespearova; spiso-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l108" index="53" custom="{&quot;heights&quot;: [35.7, 13.6], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="329,2601 412,2601 497,2601 581,2601 666,2598 749,2598 835,2598 918,2598 1009,2598 1009,2549 918,2549 835,2549 749,2549 666,2549 579,2552 497,2552 412,2552 329,2552 240,2552 240,2601 329,2601"/>
+        <Baseline points="240,2587 329,2587 412,2587 497,2587 580,2587 666,2584 749,2584 835,2584 918,2584 1009,2584"/>
+        <TextEquiv conf="0.973">
+          <Unicode>vatel, -ka píšící shakespearovsky.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l110" index="54" custom="{&quot;heights&quot;: [35.9, 13.7], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1189,2630 1189,2603 1084,2603 983,2603 883,2603 783,2603 683,2603 582,2606 483,2606 383,2606 279,2609 281,2658 383,2655 483,2655 584,2655 683,2652 783,2652 883,2652 983,2652 1084,2652 1188,2652 1189,2630"/>
+        <Baseline points="280,2644 383,2642 483,2642 583,2642 683,2639 783,2639 883,2639 983,2639 1084,2639 1189,2639"/>
+        <TextEquiv conf="0.512">
+          <Unicode>shak(e)speariser [šek-spi-ri-ze] * vn. za-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l112" index="55" custom="{&quot;heights&quot;: [33.9, 13.0], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="241,2700 303,2700 366,2700 426,2700 489,2700 549,2700 612,2700 672,2697 735,2697 803,2697 803,2651 735,2651 672,2651 610,2653 549,2653 489,2653 426,2653 366,2653 303,2653 240,2653 241,2700"/>
+        <Baseline points="241,2687 303,2687 366,2687 426,2687 489,2687 549,2687 612,2687 672,2684 735,2684 803,2684"/>
+        <TextEquiv conf="0.982">
+          <Unicode>bývati se Shakespearem.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l114" index="56" custom="{&quot;heights&quot;: [34.2, 12.9], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="281,2749 352,2746 421,2746 489,2743 557,2743 627,2743 695,2740 763,2740 831,2740 906,2743 908,2696 833,2693 763,2693 695,2693 625,2696 557,2696 489,2696 419,2699 352,2699 279,2702 281,2749"/>
+        <Baseline points="280,2736 352,2733 420,2733 489,2730 557,2730 626,2730 695,2727 763,2727 832,2727 906,2730"/>
+        <TextEquiv conf="0.972">
+          <Unicode>shako [ša-ko] sm. = chako.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l116" index="57" custom="{&quot;heights&quot;: [34.8, 12.9], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="286,2795 349,2792 407,2792 466,2789 524,2789 580,2786 640,2786 698,2786 755,2786 821,2783 819,2735 753,2738 698,2738 640,2738 580,2738 521,2741 466,2741 404,2744 349,2744 284,2747 286,2795"/>
+        <Baseline points="286,2782 349,2779 406,2779 466,2776 523,2776 580,2773 640,2773 698,2773 755,2773 820,2770"/>
+        <TextEquiv conf="0.845">
+          <Unicode>shall [šāl] sm. = châle.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l118" index="58" custom="{&quot;heights&quot;: [35.5, 13.3], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1077,2783 978,2783 878,2783 780,2783 680,2783 583,2783 482,2786 385,2789 283,2789 283,2838 386,2838 484,2835 583,2832 680,2832 780,2832 878,2832 978,2832 1074,2832 1180,2838 1183,2789 1077,2783"/>
+        <Baseline points="283,2825 386,2825 483,2822 583,2819 680,2819 780,2819 878,2819 978,2819 1075,2819 1181,2825"/>
+        <TextEquiv conf="0.419">
+          <Unicode>Shang-Haï i Shanghai [šā-ga-i i -gē</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l120" index="59" custom="{&quot;heights&quot;: [34.2, 12.9], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="241,2880 326,2880 409,2880 492,2880 575,2878 658,2878 740,2878 823,2878 907,2877 995,2875 994,2828 905,2830 823,2830 740,2830 658,2830 575,2830 491,2833 409,2833 326,2833 241,2833 241,2880"/>
+        <Baseline points="241,2867 326,2867 409,2867 492,2867 575,2865 658,2865 740,2865 823,2865 906,2865 995,2862"/>
+        <TextEquiv conf="0.914">
+          <Unicode>npr. m. i f. géogr. id., město čínské.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l122" index="60" custom="{&quot;heights&quot;: [34.7, 12.9], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1092,2873 991,2876 892,2876 792,2876 689,2876 589,2876 489,2876 388,2879 283,2879 283,2926 389,2926 489,2923 589,2923 689,2923 792,2923 892,2923 992,2923 1092,2920 1201,2920 1201,2873 1092,2873"/>
+        <Baseline points="283,2913 389,2913 489,2910 589,2910 689,2910 792,2910 892,2910 992,2910 1092,2907 1201,2907"/>
+        <TextEquiv conf="0.713">
+          <Unicode>Sheffield [šę-fild] npr. m. géogr. id., město</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l124" index="61" custom="{&quot;heights&quot;: [34.6, 13.0], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="243,2969 341,2972 435,2969 529,2969 620,2966 715,2966 809,2966 901,2966 995,2963 1095,2963 1095,2916 995,2916 899,2919 809,2919 715,2919 620,2919 528,2921 435,2921 339,2924 244,2921 243,2969"/>
+        <Baseline points="243,2956 340,2959 435,2956 529,2956 620,2953 715,2953 809,2953 901,2953 995,2950 1095,2950"/>
+        <TextEquiv conf="0.558">
+          <Unicode>ang.: P. être d'un = býti velmi nudný.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l126" index="62" custom="{&quot;heights&quot;: [35.3, 13.3], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="283,3018 349,3018 412,3015 475,3015 537,3012 598,3012 660,3012 724,3012 786,3009 855,3009 855,2961 786,2961 722,2964 660,2964 598,2964 537,2964 473,2966 412,2966 347,2969 283,2969 283,3018"/>
+        <Baseline points="283,3005 349,3005 412,3002 475,3002 537,2999 598,2999 660,2999 723,2999 786,2996 855,2996"/>
+        <TextEquiv conf="0.767">
+          <Unicode>sheik [šek] sm. = cheik.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l128" index="63" custom="{&quot;heights&quot;: [35.6, 13.2], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="286,3064 386,3061 483,3058 577,3058 675,3058 769,3058 866,3058 961,3058 1058,3055 1161,3055 1161,3006 1058,3006 960,3009 866,3009 769,3009 675,3009 577,3009 483,3009 385,3012 285,3015 286,3064"/>
+        <Baseline points="286,3050 386,3048 483,3045 577,3045 675,3045 769,3045 866,3045 961,3045 1058,3042 1161,3042"/>
+        <TextEquiv conf="0.375">
+          <Unicode>shel(1)ing [šъ-lě i šlě] sm. = schelling.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l130" index="64" custom="{&quot;heights&quot;: [35.4, 13.4], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="283,3107 389,3107 489,3104 589,3104 689,3101 792,3101 892,3101 992,3101 1092,3101 1201,3098 1200,3049 1091,3052 992,3052 892,3052 792,3052 689,3052 588,3055 489,3055 388,3058 283,3058 283,3107"/>
+        <Baseline points="283,3093 389,3093 489,3090 589,3090 689,3088 792,3088 892,3088 992,3088 1092,3088 1201,3085"/>
+        <TextEquiv conf="0.725">
+          <Unicode>shérif f) še-rif sm. šerif, krajový soudce</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l132" index="65" custom="{&quot;heights&quot;: [36.6, 13.7], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="246,3153 292,3153 334,3153 378,3153 420,3150 463,3150 506,3150 549,3150 592,3150 640,3150 640,3100 592,3100 549,3100 506,3100 463,3100 420,3100 375,3103 334,3102 292,3102 246,3102 246,3153"/>
+        <Baseline points="246,3139 292,3139 334,3139 377,3139 420,3136 463,3136 506,3136 549,3136 592,3136 640,3136"/>
+        <TextEquiv conf="0.963">
+          <Unicode>(v Anglii). Et. ang.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l135" index="66" custom="{&quot;heights&quot;: [36.7, 14.3], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1053,3200 1095,3199 1204,3199 1203,3148 1095,3148 994,3151 895,3151 794,3154 692,3154 592,3154 492,3154 391,3157 286,3157 286,3208 392,3208 492,3205 1053,3200"/>
+        <Baseline points="286,3193 392,3193 492,3190 592,3190 692,3190 795,3190 895,3188 995,3188 1095,3185 1203,3185"/>
+        <TextEquiv conf="0.531">
+          <Unicode>sherry [šer-ri] sm. id., víno xerezské [che-].</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l137" index="67" custom="{&quot;heights&quot;: [33.9, 13.2], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="403,3252 403,3205 360,3205 326,3202 286,3202 243,3202 243,3249 286,3249 322,3249 347,3251 403,3252"/>
+        <Baseline points="243,3236 286,3236 323,3236 360,3239 403,3239"/>
+        <TextEquiv conf="0.513">
+          <Unicode>Et. aug.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001" custom="{&quot;category&quot;: &quot;text&quot;}">
+      <Coords points="1043,162 1001,162 1001,210 1355,207 1355,159 1043,162"/>
+      <TextLine id="r001-l002" index="0" custom="{&quot;heights&quot;: [35.1, 12.4], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1001,162 1001,210 1091,209 1121,207 1158,207 1195,207 1235,207 1272,207 1309,207 1355,207 1355,159 1085,162 1078,162 1043,162 1001,162"/>
+        <Baseline points="1001,197 1043,197 1081,197 1121,194 1158,194 1195,194 1235,194 1272,194 1309,194 1355,194"/>
+        <TextEquiv conf="0.990">
+          <Unicode>sextillion — si</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002" custom="{&quot;category&quot;: &quot;text&quot;}">
+      <Coords points="1192,1307 1226,3241 2179,3229 2143,247 1232,253 1195,294 1188,339 1196,568 1187,752 1195,888 1192,1307"/>
+      <TextLine id="r002-l003" index="0" custom="{&quot;heights&quot;: [36.0, 13.4], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2143,247 2037,250 1938,250 1838,250 1738,250 1689,250 1367,252 1337,253 1232,253 1232,302 1338,302 1438,299 1538,299 1638,299 1738,299 1838,299 1938,299 2039,299 2144,296 2143,247"/>
+        <Baseline points="1232,289 1338,289 1438,286 1538,286 1638,286 1738,286 1838,286 1938,286 2038,286 2144,283"/>
+        <TextEquiv conf="0.578">
+          <Unicode>Shetland [šę-tlã(d)] npr. f. géogr. les (îles)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l005" index="1" custom="{&quot;heights&quot;: [34.8, 13.3], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2144,324 2143,291 2032,294 1930,294 1824,294 1721,294 1614,297 1513,294 1407,294 1304,294 1195,294 1195,342 1304,342 1407,342 1512,342 1616,345 1721,342 1824,342 1930,342 2033,342 2144,339 2144,324"/>
+        <Baseline points="1195,329 1304,329 1407,329 1512,329 1615,332 1721,329 1824,329 1930,329 2033,329 2144,326"/>
+        <TextEquiv conf="0.933">
+          <Unicode>- ostrovy Shetlandské (u Skotska); la Nou-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l007" index="2" custom="{&quot;heights&quot;: [35.5, 13.6], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1190,388 1298,385 1403,385 1509,388 1612,388 1718,388 1824,388 1927,388 2033,388 2144,385 2143,336 2032,339 1927,339 1824,339 1718,339 1612,339 1509,339 1405,336 1298,336 1188,339 1190,388"/>
+        <Baseline points="1190,375 1298,372 1404,372 1509,375 1612,375 1718,375 1824,375 1927,375 2033,375 2144,372"/>
+        <TextEquiv conf="0.748">
+          <Unicode>velle -, - du Sud Nové Shetlandy (u Země</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l009" index="3" custom="{&quot;heights&quot;: [34.8, 12.8], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1191,433 1233,433 1269,430 1306,430 1344,430 1387,430 1387,383 1344,383 1306,383 1269,383 1230,386 1190,385 1191,433"/>
+        <Baseline points="1191,420 1232,420 1269,417 1306,417 1344,417 1387,417"/>
+        <TextEquiv conf="1.000">
+          <Unicode>Ohnivé).</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l011" index="4" custom="{&quot;heights&quot;: [35.4, 13.1], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1230,479 1335,476 1435,476 1536,476 1635,473 1735,473 1835,473 1935,473 2036,473 2144,473 2144,425 2036,425 1935,425 1835,425 1735,425 1635,425 1534,428 1435,428 1335,428 1228,431 1230,479"/>
+        <Baseline points="1229,466 1335,463 1435,463 1535,463 1635,460 1735,460 1835,460 1935,460 2036,460 2144,460"/>
+        <TextEquiv conf="0.757">
+          <Unicode>s(h)ibboleth [ši-bo-lęt] sm. = schibboleth.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l013" index="5" custom="{&quot;heights&quot;: [35.3, 13.4], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2146,471 2037,474 1939,471 1838,471 1738,471 1635,471 1535,471 1435,471 1335,471 1228,474 1230,522 1335,519 1435,519 1535,519 1635,519 1738,519 1838,519 1938,519 2039,522 2146,519 2146,471"/>
+        <Baseline points="1229,509 1335,506 1435,506 1535,506 1635,506 1738,506 1838,506 1938,506 2038,509 2146,506"/>
+        <TextEquiv conf="0.965">
+          <Unicode>shiite [ši-it] a. i s. šiitský; šiit-a, -ka</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l016" index="6" custom="{&quot;heights&quot;: [34.9, 13.0], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1196,568 1232,565 1264,565 1295,565 1329,565 1362,565 1392,562 1432,562 1432,514 1392,514 1358,517 1329,517 1295,517 1264,517 1232,517 1194,520 1196,568"/>
+        <Baseline points="1196,555 1232,552 1264,552 1295,552 1329,552 1361,552 1392,549 1432,549"/>
+        <TextEquiv conf="0.956">
+          <Unicode>(viz chiites).</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l018" index="7" custom="{&quot;heights&quot;: [35.4, 13.1], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2147,559 2038,559 1938,559 1838,559 1738,559 1635,559 1535,559 1435,559 1335,559 1228,562 1230,611 1335,608 1435,608 1535,608 1635,608 1738,608 1838,608 1938,608 2038,608 2147,608 2147,568 2147,559"/>
+        <Baseline points="1229,598 1335,595 1435,595 1535,595 1635,595 1738,595 1838,595 1938,595 2038,595 2147,595"/>
+        <TextEquiv conf="0.371">
+          <Unicode>shil(1 ing [šъ-lē, ř. ši-] sm. = schelling.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l021" index="8" custom="{&quot;heights&quot;: [35.3, 13.2], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1229,654 1335,654 1436,654 1535,651 1635,651 1738,651 1838,654 1938,654 2039,654 2147,651 2146,602 2037,605 1938,605 1838,605 1739,602 1635,602 1535,602 1434,605 1335,605 1229,605 1229,654"/>
+        <Baseline points="1229,640 1335,640 1435,640 1535,638 1635,638 1738,638 1838,640 1938,640 2038,640 2147,638"/>
+        <TextEquiv conf="0.836">
+          <Unicode>shirting [šir-tě] sm. obch. širtink, pláténko</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l024" index="9" custom="{&quot;heights&quot;: [35.7, 13.3], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1190,699 1241,699 1286,699 1332,699 1378,699 1424,699 1469,699 1515,699 1561,699 1615,699 1615,650 1561,650 1515,650 1469,650 1424,650 1378,650 1332,650 1286,650 1241,650 1192,650 1190,699"/>
+        <Baseline points="1190,686 1241,686 1286,686 1332,686 1378,686 1424,686 1469,686 1515,686 1561,686 1615,686"/>
+        <TextEquiv conf="0.997">
+          <Unicode>(na košile). Et. ang.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l026" index="10" custom="{&quot;heights&quot;: [36.1, 13.7], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2149,699 2040,701 1941,701 1841,701 1738,701 1638,701 1538,701 1435,701 1335,701 1228,704 1230,754 1335,751 1435,751 1538,751 1638,751 1738,751 1841,751 1941,751 2042,751 2149,748 2149,699"/>
+        <Baseline points="1229,740 1335,738 1435,738 1538,738 1638,738 1738,738 1841,738 1941,738 2041,738 2149,735"/>
+        <TextEquiv conf="0.749">
+          <Unicode>S(h)iva [ši-va i si-] npr. m. Šiva (bůh</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l029" index="11" custom="{&quot;heights&quot;: [34.6, 12.7], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1190,799 1235,796 1275,796 1318,796 1358,796 1398,796 1441,796 1481,796 1521,796 1570,796 1570,749 1521,749 1481,749 1441,749 1398,749 1358,749 1318,749 1275,749 1235,749 1187,752 1190,799"/>
+        <Baseline points="1189,786 1235,783 1275,783 1318,783 1358,783 1398,783 1441,783 1481,783 1521,783 1570,783"/>
+        <TextEquiv conf="0.999">
+          <Unicode>indický, ničitel).</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l030" index="12" custom="{&quot;heights&quot;: [34.8, 12.9], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2150,789 2043,791 1944,791 1841,791 1741,791 1638,791 1538,791 1435,791 1334,794 1229,794 1229,842 1335,842 1435,839 1538,839 1638,839 1741,839 1841,839 1944,839 2044,839 2150,836 2150,789"/>
+        <Baseline points="1229,829 1335,829 1435,826 1538,826 1638,826 1741,826 1841,826 1944,826 2044,826 2150,823"/>
+        <TextEquiv conf="0.793">
+          <Unicode>shocking [šo-kě] a. inv. F. c'est - to jest</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l032" index="13" custom="{&quot;heights&quot;: [33.8, 12.8], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1290,885 1381,882 1472,882 1564,885 1655,882 1747,882 1838,882 1930,885 2027,885 2027,838 1930,838 1839,835 1747,835 1655,835 1563,838 1473,835 1381,835 1288,838 1194,841 1195,888 1290,885"/>
+        <Baseline points="1195,875 1289,872 1381,869 1472,869 1564,872 1655,869 1747,869 1838,869 1930,872 2027,872"/>
+        <TextEquiv conf="0.948">
+          <Unicode>pohoršlivé, to uráží slušnost. Et. ang.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l034" index="14" custom="{&quot;heights&quot;: [34.1, 12.9], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2151,878 2044,878 1944,878 1844,878 1740,881 1641,881 1541,881 1438,881 1338,881 1231,884 1233,931 1338,928 1438,928 1541,928 1641,928 1741,928 1844,925 1944,925 2044,925 2151,925 2151,878"/>
+        <Baseline points="1232,918 1338,915 1438,915 1541,915 1641,915 1741,915 1844,912 1944,912 2044,912 2151,912"/>
+        <TextEquiv conf="0.389">
+          <Unicode>shockiner [šo-ki-ne] se vpr. F. urážeti</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l036" index="15" custom="{&quot;heights&quot;: [34.8, 13.3], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2151,926 2042,923 1935,923 1830,923 1724,923 1617,926 1512,926 1407,926 1301,926 1195,929 1195,977 1301,974 1407,974 1512,974 1618,974 1724,971 1830,971 1935,971 2041,971 2152,974 2151,926"/>
+        <Baseline points="1195,963 1301,961 1407,961 1512,961 1618,961 1724,958 1830,958 1935,958 2041,958 2152,961"/>
+        <TextEquiv conf="0.935">
+          <Unicode>se (domnělým porušením slušnosti). Et.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l038" index="16" custom="{&quot;heights&quot;: [34.9, 13.2], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2152,977 2047,977 1947,977 1844,977 1744,977 1640,980 1542,977 1437,980 1338,980 1231,983 1233,1031 1338,1028 1438,1028 1541,1025 1641,1028 1744,1025 1844,1025 1947,1025 2047,1025 2152,1025 2152,977"/>
+        <Baseline points="1232,1018 1338,1015 1438,1015 1541,1012 1641,1015 1744,1012 1844,1012 1947,1012 2047,1012 2152,1012"/>
+        <TextEquiv conf="0.731">
+          <Unicode>shogoun [šo-gun] sm. šogun, taikun</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l040" index="17" custom="{&quot;heights&quot;: [33.8, 13.1], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1194,1038 1195,1077 1298,1074 1398,1074 1498,1074 1595,1071 1695,1071 1795,1071 1893,1071 1993,1071 2099,1068 2097,1021 1992,1024 1893,1024 1795,1024 1695,1024 1595,1024 1497,1027 1398,1027 1298,1027 1194,1030 1194,1038"/>
+        <Baseline points="1195,1063 1298,1061 1398,1061 1498,1061 1595,1058 1695,1058 1795,1058 1893,1058 1993,1058 2098,1055"/>
+        <TextEquiv conf="0.988">
+          <Unicode>(světský panovník japanský). Et. japanské.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l042" index="18" custom="{&quot;heights&quot;: [34.6, 13.5], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1232,1120 1338,1120 1438,1120 1541,1117 1641,1114 1741,1114 1844,1114 1944,1114 2044,1114 2153,1114 2153,1066 2044,1066 1944,1066 1844,1066 1741,1066 1641,1066 1540,1069 1437,1072 1338,1072 1232,1072 1232,1120"/>
+        <Baseline points="1232,1106 1338,1106 1438,1106 1541,1104 1641,1101 1741,1101 1844,1101 1944,1101 2044,1101 2153,1101"/>
+        <TextEquiv conf="0.974">
+          <Unicode>shooting [šu-tě] sm. sport. střílení holubů.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l044" index="19" custom="{&quot;heights&quot;: [35.5, 13.4], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1195,1166 1235,1166 1269,1166 1304,1166 1347,1166 1347,1117 1304,1117 1269,1117 1235,1117 1195,1117 1195,1166"/>
+        <Baseline points="1195,1152 1235,1152 1269,1152 1304,1152 1347,1152"/>
+        <TextEquiv conf="0.917">
+          <Unicode>Et. ang.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l046" index="20" custom="{&quot;heights&quot;: [36.2, 13.7], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1235,1217 1341,1220 1441,1220 1541,1217 1641,1217 1744,1217 1844,1214 1944,1214 2044,1212 2153,1212 2153,1162 2044,1162 1943,1165 1844,1165 1743,1167 1641,1167 1541,1167 1440,1170 1341,1170 1236,1167 1235,1217"/>
+        <Baseline points="1235,1204 1341,1206 1441,1206 1541,1204 1641,1204 1744,1204 1844,1201 1944,1201 2044,1198 2153,1198"/>
+        <TextEquiv conf="0.358">
+          <Unicode>shoppage [šo-paž] i -ing (-pě) * sm. na-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l048" index="21" custom="{&quot;heights&quot;: [34.1, 13.1], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1195,1262 1232,1262 1264,1262 1295,1262 1329,1262 1362,1262 1392,1260 1423,1260 1463,1262 1466,1215 1426,1212 1392,1212 1358,1215 1329,1215 1295,1215 1264,1215 1232,1215 1195,1215 1195,1262"/>
+        <Baseline points="1195,1249 1232,1249 1264,1249 1295,1249 1329,1249 1361,1249 1392,1246 1424,1246 1464,1249"/>
+        <TextEquiv conf="0.999">
+          <Unicode>kupování v</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l049" index="22" custom="{&quot;heights&quot;: [34.3, 13.7], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1464,1263 1532,1260 1595,1260 1658,1260 1721,1260 1784,1260 1847,1260 1909,1260 1973,1263 2045,1260 2043,1212 1971,1215 1911,1212 1847,1212 1784,1212 1721,1212 1658,1212 1595,1212 1532,1212 1462,1215 1464,1263"/>
+        <Baseline points="1464,1249 1532,1246 1595,1246 1658,1246 1721,1246 1784,1246 1847,1246 1910,1246 1973,1249 2044,1246"/>
+        <TextEquiv conf="0.975">
+          <Unicode>různých krámech. Et. ang.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l052" index="23" custom="{&quot;heights&quot;: [35.2, 13.6], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1235,1309 1341,1309 1441,1306 1541,1306 1641,1303 1744,1303 1844,1303 1944,1303 2045,1303 2153,1297 2151,1249 2042,1254 1944,1254 1844,1254 1744,1254 1641,1254 1540,1257 1441,1257 1340,1260 1235,1260 1235,1309"/>
+        <Baseline points="1235,1295 1341,1295 1441,1292 1541,1292 1641,1289 1744,1289 1844,1289 1944,1289 2044,1289 2153,1284"/>
+        <TextEquiv conf="0.974">
+          <Unicode>shopper [šo-pe] * vn. projížděti se oká-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l054" index="24" custom="{&quot;heights&quot;: [34.3, 13.5], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1196,1354 1232,1351 1266,1351 1298,1351 1332,1351 1367,1351 1398,1351 1432,1351 1472,1351 1472,1304 1432,1304 1398,1304 1367,1304 1332,1304 1298,1304 1266,1304 1232,1304 1192,1307 1196,1354"/>
+        <Baseline points="1195,1341 1232,1338 1266,1338 1298,1338 1332,1338 1367,1338 1398,1338 1432,1338 1472,1338"/>
+        <TextEquiv conf="0.986">
+          <Unicode>zale. Et. ang.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l055" index="25" custom="{&quot;heights&quot;: [36.4, 13.9], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1235,1398 1341,1398 1441,1398 1544,1395 1644,1395 1744,1395 1847,1392 1947,1392 2047,1392 2156,1389 2155,1339 2046,1342 1947,1342 1847,1342 1743,1344 1644,1344 1544,1344 1440,1347 1341,1347 1235,1347 1235,1398"/>
+        <Baseline points="1235,1384 1341,1384 1441,1384 1544,1381 1644,1381 1744,1381 1847,1378 1947,1378 2047,1378 2156,1375"/>
+        <TextEquiv conf="0.885">
+          <Unicode>Shoshons [šo-šô] npr. m. pl. Šošoni, Hadi</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l057" index="26" custom="{&quot;heights&quot;: [34.4, 13.0], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1199,1442 1241,1440 1278,1440 1319,1440 1355,1437 1401,1437 1401,1389 1355,1389 1315,1392 1278,1392 1241,1392 1196,1395 1199,1442"/>
+        <Baseline points="1198,1429 1241,1427 1278,1427 1318,1427 1355,1424 1401,1424"/>
+        <TextEquiv conf="0.999">
+          <Unicode>(Indiáni).</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l059" index="27" custom="{&quot;heights&quot;: [35.4, 12.6], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1238,1485 1321,1485 1401,1482 1481,1482 1558,1479 1638,1479 1718,1479 1795,1479 1876,1479 1962,1476 1960,1428 1874,1431 1795,1431 1718,1431 1638,1431 1558,1431 1480,1434 1401,1434 1320,1437 1238,1437 1238,1485"/>
+        <Baseline points="1238,1472 1321,1472 1401,1469 1481,1469 1558,1467 1638,1467 1718,1467 1795,1467 1875,1467 1961,1464"/>
+        <TextEquiv conf="0.827">
+          <Unicode>shottish [šo-tiš] sf. = schottish.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l061" index="28" custom="{&quot;heights&quot;: [34.9, 12.6], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2158,1496 2158,1475 2049,1477 1950,1477 1850,1477 1747,1477 1647,1477 1547,1477 1443,1480 1344,1480 1237,1483 1238,1531 1344,1528 1444,1528 1547,1525 1647,1525 1747,1525 1850,1525 1950,1525 2050,1525 2158,1522 2158,1496"/>
+        <Baseline points="1238,1518 1344,1515 1444,1515 1547,1512 1647,1512 1747,1512 1850,1512 1950,1512 2050,1512 2158,1509"/>
+        <TextEquiv conf="0.776">
+          <Unicode>shrapnel [šrap-nel] sm. mil. id., střela (na</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l063" index="29" custom="{&quot;heights&quot;: [35.6, 13.5], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1201,1574 1310,1574 1415,1572 1521,1572 1624,1572 1729,1569 1835,1572 1938,1572 2044,1572 2156,1572 2156,1522 2044,1522 1938,1522 1835,1522 1731,1520 1623,1522 1521,1522 1415,1522 1308,1525 1201,1525 1201,1574"/>
+        <Baseline points="1201,1561 1309,1561 1415,1558 1521,1558 1624,1558 1730,1555 1835,1558 1938,1558 2044,1558 2156,1558"/>
+        <TextEquiv conf="0.966">
+          <Unicode>určitém místě) ve vzduchu praskající. Et.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l065" index="30" custom="{&quot;heights&quot;: [35.6, 13.6], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2159,1574 2053,1574 1953,1574 1853,1574 1749,1577 1650,1577 1549,1577 1447,1577 1347,1577 1240,1580 1241,1629 1347,1626 1447,1626 1549,1626 1650,1626 1750,1626 1853,1623 1953,1623 2053,1623 2160,1623 2159,1574"/>
+        <Baseline points="1241,1615 1347,1612 1447,1612 1549,1612 1650,1612 1750,1612 1853,1610 1953,1610 2053,1610 2159,1610"/>
+        <TextEquiv conf="0.858">
+          <Unicode>Shylock [ši-lok] npr. m. id. [šaj-lok], hlavní</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l067" index="31" custom="{&quot;heights&quot;: [34.8, 13.4], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1201,1674 1309,1672 1415,1672 1521,1672 1624,1669 1730,1669 1835,1669 1938,1669 2044,1669 2156,1669 2156,1620 2044,1620 1938,1620 1835,1620 1730,1620 1624,1620 1520,1623 1415,1623 1309,1623 1200,1626 1201,1674"/>
+        <Baseline points="1201,1661 1309,1658 1415,1658 1521,1658 1624,1655 1730,1655 1835,1655 1938,1655 2044,1655 2156,1655"/>
+        <TextEquiv conf="0.995">
+          <Unicode>osoba v Shakespearově Kupci benátském;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l069" index="32" custom="{&quot;heights&quot;: [35.8, 13.5], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1201,1720 1252,1720 1299,1720 1344,1717 1389,1717 1435,1717 1482,1717 1527,1715 1572,1715 1627,1715 1627,1665 1572,1665 1527,1665 1479,1668 1435,1668 1389,1668 1344,1668 1296,1671 1252,1671 1201,1671 1201,1720"/>
+        <Baseline points="1201,1707 1252,1707 1298,1707 1344,1704 1389,1704 1435,1704 1481,1704 1527,1701 1572,1701 1627,1701"/>
+        <TextEquiv conf="0.994">
+          <Unicode>fig. žid vydřiduch.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l071" index="33" custom="{&quot;heights&quot;: [35.8, 13.8], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2161,1719 2056,1717 1954,1720 1855,1720 1755,1720 1651,1722 1552,1722 1452,1722 1352,1722 1245,1725 1247,1775 1352,1772 1452,1772 1552,1772 1653,1772 1755,1769 1855,1769 1956,1769 2055,1766 2161,1769 2161,1719"/>
+        <Baseline points="1246,1761 1352,1758 1452,1758 1552,1758 1652,1758 1755,1755 1855,1755 1955,1755 2056,1752 2161,1755"/>
+        <TextEquiv conf="0.307">
+          <Unicode>si [si] I. cj. (s' jen před il(s)) 1. - (s ind. prés.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l073" index="34" custom="{&quot;heights&quot;: [34.5, 13.4], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2161,1766 2054,1764 1947,1764 1841,1764 1735,1764 1629,1767 1524,1767 1418,1767 1311,1769 1203,1772 1204,1820 1313,1817 1418,1815 1524,1815 1630,1815 1735,1812 1841,1812 1947,1812 2052,1812 2162,1814 2161,1766"/>
+        <Baseline points="1204,1807 1312,1804 1418,1801 1524,1801 1630,1801 1735,1798 1841,1798 1947,1798 2053,1798 2162,1801"/>
+        <TextEquiv conf="0.892">
+          <Unicode>nebo passé indéfini, nikdy s fut.): -li, jestli(že),</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l075" index="35" custom="{&quot;heights&quot;: [33.8, 13.2], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2162,1807 2053,1807 1947,1807 1841,1807 1735,1807 1631,1810 1527,1810 1420,1813 1315,1813 1206,1816 1207,1863 1315,1860 1421,1860 1527,1857 1633,1857 1735,1854 1841,1854 1947,1854 2053,1854 2162,1854 2162,1807"/>
+        <Baseline points="1206,1850 1315,1847 1421,1847 1527,1844 1632,1844 1735,1841 1841,1841 1947,1841 2053,1841 2162,1841"/>
+        <TextEquiv conf="0.953">
+          <Unicode>pakli(že); si vous faites (neb avez fait) cela</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l077" index="36" custom="{&quot;heights&quot;: [34.2, 13.3], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2162,1853 2053,1853 1947,1853 1841,1853 1735,1853 1632,1853 1526,1855 1421,1855 1314,1858 1206,1861 1207,1909 1315,1906 1421,1903 1527,1903 1632,1900 1735,1900 1841,1900 1947,1900 2053,1900 2163,1900 2162,1853"/>
+        <Baseline points="1206,1895 1315,1893 1421,1890 1527,1890 1632,1887 1735,1887 1841,1887 1947,1887 2053,1887 2163,1887"/>
+        <TextEquiv conf="0.870">
+          <Unicode>jestliže to učiníte (nebo jste to učinil); - vous</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l079" index="37" custom="{&quot;heights&quot;: [34.0, 13.4], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2163,1899 2054,1896 1947,1896 1841,1896 1734,1899 1632,1899 1527,1899 1420,1901 1315,1901 1206,1904 1207,1952 1315,1949 1421,1949 1527,1946 1632,1946 1736,1946 1841,1943 1947,1943 2052,1943 2163,1946 2163,1899"/>
+        <Baseline points="1206,1938 1315,1935 1421,1935 1527,1933 1632,1933 1735,1933 1841,1930 1947,1930 2053,1930 2163,1933"/>
+        <TextEquiv conf="0.985">
+          <Unicode>étes plus riche, il est plus savant jste-li bohatší,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l081" index="38" custom="{&quot;heights&quot;: [33.9, 13.4], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2163,1942 2053,1942 1947,1942 1841,1942 1735,1942 1631,1944 1527,1944 1421,1944 1314,1947 1206,1950 1207,1997 1315,1995 1421,1992 1527,1992 1633,1992 1735,1989 1841,1989 1947,1989 2053,1989 2164,1989 2163,1942"/>
+        <Baseline points="1206,1984 1315,1981 1421,1978 1527,1978 1632,1978 1735,1975 1841,1975 1947,1975 2053,1975 2164,1975"/>
+        <TextEquiv conf="0.864">
+          <Unicode>jest on učenější: qui me rassurera - ce n'est</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l083" index="39" custom="{&quot;heights&quot;: [33.8, 13.4], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2164,1987 2054,1985 1947,1985 1841,1985 1734,1987 1631,1990 1528,1987 1420,1990 1315,1990 1206,1993 1207,2040 1315,2037 1421,2037 1526,2035 1633,2037 1736,2035 1841,2032 1947,2032 2052,2032 2164,2035 2164,2016 2164,1987"/>
+        <Baseline points="1206,2027 1315,2024 1421,2024 1527,2021 1632,2024 1735,2021 1841,2018 1947,2018 2053,2018 2164,2021"/>
+        <TextEquiv conf="0.906">
+          <Unicode>toi kdo mne uspokojí, ne-li ty; s'il n'est que,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l085" index="40" custom="{&quot;heights&quot;: [34.1, 13.3], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2164,2030 2054,2027 1947,2027 1843,2030 1737,2033 1632,2033 1529,2033 1424,2033 1317,2036 1209,2036 1209,2083 1318,2083 1424,2080 1529,2080 1632,2080 1739,2080 1844,2077 1947,2075 2052,2075 2164,2077 2165,2045 2164,2030"/>
+        <Baseline points="1209,2070 1318,2070 1424,2067 1529,2067 1632,2067 1738,2067 1844,2064 1947,2061 2053,2061 2164,2064"/>
+        <TextEquiv conf="0.637">
+          <Unicode>- ce n'est que leč by, leda že; F. - tant est</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l087" index="41" custom="{&quot;heights&quot;: [34.5, 13.3], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1207,2132 1315,2129 1421,2126 1527,2126 1632,2123 1736,2123 1841,2120 1947,2120 2052,2120 2164,2123 2165,2076 2165,2075 2054,2073 1947,2072 1841,2072 1734,2075 1632,2075 1526,2078 1421,2078 1314,2081 1206,2084 1207,2132"/>
+        <Baseline points="1207,2118 1315,2116 1421,2113 1527,2113 1632,2110 1735,2110 1841,2107 1947,2107 2053,2107 2164,2110"/>
+        <TextEquiv conf="0.493">
+          <Unicode>que ... (so subj.) je-li tomu tak, je-li pravda,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l089" index="42" custom="{&quot;heights&quot;: [34.5, 13.4], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1208,2178 1315,2175 1421,2172 1527,2169 1633,2169 1738,2166 1844,2166 1950,2163 2055,2163 2166,2166 2166,2118 2056,2115 1950,2115 1843,2118 1738,2118 1631,2121 1527,2121 1420,2124 1314,2127 1207,2130 1208,2178"/>
+        <Baseline points="1207,2164 1315,2161 1421,2158 1527,2156 1632,2156 1738,2153 1844,2153 1950,2150 2056,2150 2166,2153"/>
+        <TextEquiv conf="0.968">
+          <Unicode>že...; 2. (s ind. imp. nebo plus-que-parfait,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l091" index="43" custom="{&quot;heights&quot;: [34.5, 13.4], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2166,2158 2055,2161 1950,2161 1844,2161 1737,2164 1635,2164 1529,2167 1424,2167 1316,2173 1209,2173 1209,2220 1319,2220 1424,2215 1530,2215 1635,2212 1739,2212 1844,2209 1950,2209 2056,2209 2167,2206 2166,2158"/>
+        <Baseline points="1209,2207 1318,2207 1424,2201 1529,2201 1635,2198 1738,2198 1844,2196 1950,2196 2056,2196 2166,2193"/>
+        <TextEquiv conf="0.829">
+          <Unicode>ř pd., † conditionnel, též se subj. du plus-que-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l093" index="44" custom="{&quot;heights&quot;: [34.7, 13.5], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1209,2224 1210,2266 1318,2263 1424,2261 1529,2258 1636,2258 1741,2255 1847,2255 1953,2255 2059,2255 2167,2252 2167,2204 2057,2207 1953,2207 1847,2207 1741,2207 1634,2209 1529,2209 1423,2212 1317,2215 1208,2218 1209,2224"/>
+        <Baseline points="1209,2253 1318,2250 1424,2247 1529,2244 1635,2244 1741,2241 1847,2241 1953,2241 2058,2241 2167,2239"/>
+        <TextEquiv conf="0.575">
+          <Unicode>parfait): kdyby; s'il venait, s'il était venu nebo</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l095" index="45" custom="{&quot;heights&quot;: [34.3, 13.2], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1210,2309 1318,2306 1424,2303 1529,2303 1636,2303 1741,2300 1847,2297 1953,2297 2058,2297 2168,2297 2167,2250 2058,2250 1953,2250 1847,2250 1740,2253 1634,2256 1529,2256 1424,2256 1317,2259 1209,2261 1210,2309"/>
+        <Baseline points="1210,2296 1318,2293 1424,2290 1529,2290 1635,2290 1741,2287 1847,2284 1953,2284 2058,2284 2167,2284"/>
+        <TextEquiv conf="0.456">
+          <Unicode>s'il fůt venu kdyby přišel, byl přišel; - ce</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l097" index="46" custom="{&quot;heights&quot;: [34.6, 13.2], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2168,2295 2058,2295 1953,2295 1847,2295 1741,2295 1637,2298 1532,2298 1426,2301 1321,2301 1211,2304 1213,2352 1321,2349 1427,2349 1532,2346 1638,2346 1741,2343 1847,2343 1953,2343 2058,2343 2168,2343 2168,2295"/>
+        <Baseline points="1212,2339 1321,2336 1427,2336 1532,2333 1638,2333 1741,2330 1847,2330 1953,2330 2058,2330 2168,2330"/>
+        <TextEquiv conf="0.940">
+          <Unicode>n'était la crainte de perdre nebýti obavy před</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l099" index="47" custom="{&quot;heights&quot;: [34.5, 13.0], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2168,2338 2061,2338 1955,2338 1850,2338 1743,2341 1638,2341 1531,2344 1426,2347 1321,2347 1211,2350 1212,2397 1321,2394 1427,2394 1533,2392 1638,2389 1744,2389 1850,2386 1955,2386 2061,2386 2169,2386 2168,2338"/>
+        <Baseline points="1212,2384 1321,2381 1427,2381 1532,2379 1638,2376 1744,2376 1850,2373 1955,2373 2061,2373 2169,2373"/>
+        <TextEquiv conf="0.704">
+          <Unicode>ztrátou, kdyby (ch) se neobával ztráty; si</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l101" index="48" custom="{&quot;heights&quot;: [34.2, 13.1], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1212,2440 1321,2440 1427,2437 1532,2435 1638,2435 1744,2435 1850,2432 1955,2432 2061,2432 2169,2432 2169,2384 2061,2384 1955,2384 1850,2384 1743,2387 1638,2387 1532,2387 1426,2390 1320,2393 1212,2393 1212,2429 1212,2440"/>
+        <Baseline points="1212,2427 1321,2427 1427,2424 1532,2421 1638,2421 1744,2421 1850,2419 1955,2419 2061,2419 2169,2419"/>
+        <TextEquiv conf="0.990">
+          <Unicode>nous allions au concert což abychom šli do</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l103" index="49" custom="{&quot;heights&quot;: [33.7, 13.3], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1213,2486 1321,2483 1427,2481 1532,2478 1638,2481 1744,2478 1850,2475 1955,2475 2061,2475 2170,2478 2169,2430 2062,2428 1955,2428 1850,2428 1743,2431 1637,2433 1533,2431 1426,2433 1320,2436 1212,2439 1213,2486"/>
+        <Baseline points="1213,2473 1321,2470 1427,2467 1532,2464 1638,2467 1744,2464 1850,2461 1955,2461 2061,2461 2170,2464"/>
+        <TextEquiv conf="0.827">
+          <Unicode>koncertu; ř. - même = lépe quand même; el.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l105" index="50" custom="{&quot;heights&quot;: [33.9, 13.3], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2170,2473 2061,2473 1955,2473 1853,2473 1747,2473 1640,2476 1538,2476 1432,2476 1326,2479 1218,2479 1218,2526 1327,2526 1432,2523 1538,2523 1641,2523 1747,2521 1853,2521 1955,2521 2061,2521 2170,2521 2170,2473"/>
+        <Baseline points="1218,2513 1327,2513 1432,2510 1538,2510 1641,2510 1747,2507 1853,2507 1955,2507 2061,2507 2170,2507"/>
+        <TextEquiv conf="0.540">
+          <Unicode>- vous auriez de la répugnance ( = s'il en est</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l107" index="51" custom="{&quot;heights&quot;: [34.5, 13.5], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2170,2516 2061,2516 1955,2518 1850,2518 1743,2521 1641,2521 1535,2521 1428,2524 1323,2527 1215,2527 1215,2575 1324,2575 1430,2572 1535,2569 1641,2569 1744,2569 1850,2566 1956,2566 2061,2564 2171,2564 2170,2516"/>
+        <Baseline points="1215,2562 1324,2562 1429,2559 1535,2556 1641,2556 1744,2556 1850,2553 1955,2553 2061,2550 2171,2550"/>
+        <TextEquiv conf="0.992">
+          <Unicode>ainsi que vous auriez...) kdybyste cítil od-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l109" index="52" custom="{&quot;heights&quot;: [34.5, 13.5], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2171,2561 2061,2561 1955,2561 1853,2561 1746,2564 1641,2564 1537,2567 1431,2570 1326,2573 1218,2573 1218,2621 1327,2621 1433,2618 1538,2615 1641,2612 1747,2612 1853,2609 1955,2609 2061,2609 2171,2609 2171,2561"/>
+        <Baseline points="1218,2607 1327,2607 1432,2604 1538,2602 1641,2599 1747,2599 1853,2596 1955,2596 2061,2596 2171,2596"/>
+        <TextEquiv conf="0.949">
+          <Unicode>por; viz que 11. b); 3. (s ind. všech časů)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l111" index="53" custom="{&quot;heights&quot;: [34.4, 13.5], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1216,2664 1324,2664 1430,2661 1536,2658 1641,2655 1744,2655 1850,2655 1956,2655 2061,2652 2172,2652 2171,2604 2061,2604 1955,2607 1850,2607 1744,2607 1641,2607 1534,2610 1428,2613 1323,2616 1215,2616 1216,2664"/>
+        <Baseline points="1216,2650 1324,2650 1429,2647 1535,2644 1641,2642 1744,2642 1850,2642 1955,2642 2061,2639 2172,2639"/>
+        <TextEquiv conf="0.865">
+          <Unicode>zda(li), -li; dites-moi - vous irez là řekněte</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l113" index="54" custom="{&quot;heights&quot;: [34.7, 13.7], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1217,2710 1324,2707 1430,2707 1536,2704 1641,2701 1744,2701 1850,2698 1955,2698 2061,2698 2172,2698 2172,2650 2061,2650 1955,2650 1850,2650 1743,2653 1641,2653 1534,2656 1428,2658 1324,2658 1216,2661 1217,2710"/>
+        <Baseline points="1217,2696 1324,2693 1429,2693 1535,2690 1641,2687 1744,2687 1850,2684 1955,2684 2061,2684 2172,2684"/>
+        <TextEquiv conf="0.454">
+          <Unicode>mi, půjdete-li tam: tu sais — je t'aime víš,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l115" index="55" custom="{&quot;heights&quot;: [35.1, 13.8], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1218,2753 1324,2753 1430,2753 1536,2750 1641,2747 1747,2747 1853,2744 1958,2741 2064,2741 2173,2741 2172,2692 2064,2692 1958,2692 1852,2695 1746,2698 1641,2698 1534,2701 1428,2704 1324,2704 1217,2704 1218,2753"/>
+        <Baseline points="1218,2739 1324,2739 1429,2739 1535,2736 1641,2733 1747,2733 1853,2730 1958,2727 2064,2727 2173,2727"/>
+        <TextEquiv conf="0.692">
+          <Unicode>zdali, kterak (jak) tě miluji; † me trompé-je</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l117" index="56" custom="{&quot;heights&quot;: [35.0, 13.7], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1219,2798 1324,2798 1429,2795 1536,2795 1641,2793 1744,2790 1850,2787 1955,2787 2061,2787 2172,2790 2173,2759 2173,2741 2062,2738 1955,2738 1850,2738 1743,2741 1640,2744 1534,2747 1429,2747 1323,2750 1218,2750 1219,2798"/>
+        <Baseline points="1218,2785 1324,2785 1429,2782 1535,2782 1641,2779 1744,2776 1850,2773 1955,2773 2061,2773 2173,2776"/>
+        <TextEquiv conf="0.897">
+          <Unicode>ou - je vois... klamu-li se, či vidím...?</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l119" index="57" custom="{&quot;heights&quot;: [34.9, 13.5], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1219,2841 1327,2841 1433,2841 1538,2838 1644,2835 1747,2835 1853,2832 1958,2832 2064,2832 2174,2832 2173,2784 2064,2784 1958,2784 1853,2784 1746,2787 1644,2787 1537,2790 1431,2792 1327,2792 1219,2792 1219,2841"/>
+        <Baseline points="1219,2827 1327,2827 1432,2827 1538,2825 1644,2822 1747,2822 1853,2819 1958,2819 2064,2819 2174,2819"/>
+        <TextEquiv conf="0.727">
+          <Unicode>4. - ... que (se subj.) jakkoli (= quelque ...</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l121" index="58" custom="{&quot;heights&quot;: [34.8, 13.3], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2174,2827 2064,2827 1957,2830 1855,2830 1750,2830 1644,2830 1540,2833 1434,2836 1328,2838 1221,2838 1221,2886 1330,2886 1436,2884 1541,2881 1644,2878 1750,2878 1855,2878 1959,2878 2064,2875 2175,2875 2174,2827"/>
+        <Baseline points="1221,2873 1329,2873 1435,2870 1541,2867 1644,2865 1750,2865 1855,2865 1958,2865 2064,2862 2174,2862"/>
+        <TextEquiv conf="0.966">
+          <Unicode>que); - heureux que tu sois jakkoli jsi šťasten;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l123" index="59" custom="{&quot;heights&quot;: [34.9, 13.2], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1221,2924 1221,2932 1330,2929 1435,2926 1541,2926 1644,2924 1750,2924 1855,2921 1958,2921 2064,2921 2175,2918 2174,2870 2063,2873 1958,2873 1855,2873 1749,2875 1644,2875 1540,2878 1435,2878 1328,2881 1220,2884 1221,2924"/>
+        <Baseline points="1221,2919 1329,2916 1435,2913 1541,2913 1644,2910 1750,2910 1855,2907 1958,2907 2064,2907 2175,2905"/>
+        <TextEquiv conf="0.970">
+          <Unicode>ř. si docile soit-il jakkoli jest učelivý. II. sm.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l125" index="60" custom="{&quot;heights&quot;: [34.7, 13.2], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1222,2975 1329,2972 1436,2972 1541,2969 1647,2969 1750,2969 1856,2966 1961,2964 2067,2964 2176,2961 2175,2913 2066,2916 1961,2916 1854,2918 1749,2921 1647,2921 1541,2921 1434,2924 1329,2924 1221,2927 1222,2975"/>
+        <Baseline points="1222,2962 1329,2959 1435,2959 1541,2956 1647,2956 1750,2956 1855,2953 1961,2950 2067,2950 2175,2948"/>
+        <TextEquiv conf="0.951">
+          <Unicode>inv. le - kdyby, podmínka, rozpak; il a tou-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l127" index="61" custom="{&quot;heights&quot;: [35.1, 13.2], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1223,3021 1330,3018 1435,3015 1541,3015 1647,3012 1750,3012 1856,3012 1962,3009 2067,3006 2176,3006 2176,2958 2067,2958 1960,2961 1854,2964 1750,2964 1647,2964 1540,2967 1435,2967 1328,2970 1222,2972 1223,3021"/>
+        <Baseline points="1222,3007 1329,3005 1435,3002 1541,3002 1647,2999 1750,2999 1855,2999 1961,2996 2067,2993 2176,2993"/>
+        <TextEquiv conf="0.873">
+          <Unicode>jours un - ou un mais má vždy nějaké kdyby</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l129" index="62" custom="{&quot;heights&quot;: [35.1, 13.1], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2176,3004 2067,3004 1960,3007 1858,3007 1752,3010 1647,3010 1543,3012 1438,3012 1331,3015 1223,3018 1224,3066 1333,3063 1438,3061 1544,3061 1647,3058 1753,3058 1858,3055 1962,3055 2067,3052 2177,3052 2176,3004"/>
+        <Baseline points="1224,3053 1332,3050 1438,3048 1544,3048 1647,3045 1752,3045 1858,3042 1961,3042 2067,3039 2177,3039"/>
+        <TextEquiv conf="0.608">
+          <Unicode>nebo ale; viz mais III.; P. ř. il n'y a point de</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l131" index="63" custom="{&quot;heights&quot;: [35.1, 13.1], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2177,3050 2067,3050 1961,3050 1857,3052 1752,3055 1650,3055 1543,3058 1441,3058 1335,3058 1226,3061 1227,3109 1335,3106 1441,3106 1544,3106 1650,3104 1753,3104 1859,3101 1961,3098 2067,3098 2177,3098 2177,3050"/>
+        <Baseline points="1226,3096 1335,3093 1441,3093 1544,3093 1650,3090 1752,3090 1858,3088 1961,3085 2067,3085 2177,3085"/>
+        <TextEquiv conf="0.915">
+          <Unicode>- dans cette marchandise není (té nejmenší)</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l133" index="64" custom="{&quot;heights&quot;: [35.1, 12.9], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1225,3155 1332,3152 1438,3152 1544,3149 1647,3149 1752,3146 1859,3146 1962,3143 2067,3141 2178,3138 2177,3090 2066,3093 1960,3095 1857,3098 1752,3098 1646,3101 1544,3101 1437,3104 1332,3104 1224,3107 1225,3155"/>
+        <Baseline points="1225,3142 1332,3139 1438,3139 1544,3136 1647,3136 1752,3133 1858,3133 1961,3130 2067,3128 2178,3125"/>
+        <TextEquiv conf="0.823">
+          <Unicode>vady, výtky při tomto zboží; ř. quel - y</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l134" index="65" custom="{&quot;heights&quot;: [34.9, 13.0], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1226,3198 1332,3195 1438,3195 1541,3195 1647,3192 1750,3192 1856,3189 1958,3186 2064,3186 2176,3186 2176,3138 2064,3138 1958,3138 1854,3141 1749,3144 1647,3144 1540,3147 1438,3147 1332,3147 1225,3150 1226,3198"/>
+        <Baseline points="1225,3185 1332,3182 1438,3182 1541,3182 1647,3179 1750,3179 1855,3176 1958,3173 2064,3173 2176,3173"/>
+        <TextEquiv conf="0.983">
+          <Unicode>trouvez-vous? jaký háček v tom nalézáte?,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l136" index="66" custom="{&quot;heights&quot;: [35.4, 13.3], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2179,3229 2178,3181 2066,3184 1961,3184 1857,3187 1752,3189 1650,3189 1544,3189 1440,3192 1335,3192 1226,3192 1226,3241 2179,3229"/>
+        <Baseline points="1226,3228 1335,3228 1441,3228 1544,3225 1650,3225 1752,3225 1858,3222 1961,3219 2067,3219 2178,3216"/>
+        <TextEquiv conf="0.909">
+          <Unicode>co chcete tomu vytýkati? Pro. avec un - on</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003" custom="{&quot;category&quot;: &quot;text&quot;}">
+      <Coords points="2092,152 2041,152 2041,206 2140,209 2143,155 2092,152"/>
+      <TextLine id="r003-l001" index="0" custom="{&quot;heights&quot;: [39.3, 14.3], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2041,152 2041,206 2089,206 2140,209 2143,155 2092,152 2041,152"/>
+        <Baseline points="2041,192 2090,192 2141,194"/>
+        <TextEquiv conf="1.000">
+          <Unicode>821</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

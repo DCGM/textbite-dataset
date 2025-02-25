@@ -1,0 +1,638 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v2#">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>ac84553d7dad40ac841c6ca472588362-img_0083</fileName>
+    </sourceImageInformation>
+    <OCRProcessing ID="IdOcr">
+      <ocrProcessingStep>
+        <processingDateTime>2025-02-21T09:26:26.873257</processingDateTime>
+        <processingSoftware>
+          <softwareCreator>Project PERO</softwareCreator>
+          <softwareName>PERO OCR</softwareName>
+          <softwareVersion>v0.1.0</softwareVersion>
+        </processingSoftware>
+      </ocrProcessingStep>
+    </OCRProcessing>
+  </Description>
+  <Layout>
+    <Page ID="id_ac84553d7dad40ac841c6ca472588362-img_0083" PHYSICAL_IMG_NR="1" HEIGHT="2560" WIDTH="3780">
+      <TopMargin HEIGHT="366" WIDTH="3780" VPOS="0" HPOS="0"/>
+      <LeftMargin HEIGHT="2560" WIDTH="538" VPOS="0" HPOS="0"/>
+      <RightMargin HEIGHT="2560" WIDTH="0" VPOS="0" HPOS="3780"/>
+      <BottomMargin HEIGHT="0" WIDTH="3780" VPOS="2560" HPOS="0"/>
+      <PrintSpace HEIGHT="2194" WIDTH="3242" VPOS="366" HPOS="538">
+        <TextBlock ID="block_r000" HEIGHT="1445" WIDTH="1337" VPOS="614" HPOS="538">
+          <TextLine ID="line_r000-l006" BASELINE="669" VPOS="614" HPOS="668" HEIGHT="81" WIDTH="1046">
+            <String CONTENT="21." HEIGHT="77" WIDTH="68" VPOS="614" HPOS="672" WC="1"/>
+            <SP WIDTH="4" VPOS="614" HPOS="741"/>
+            <String CONTENT="března" HEIGHT="77" WIDTH="150" VPOS="613" HPOS="735" WC="1"/>
+            <SP WIDTH="4" VPOS="613" HPOS="886"/>
+            <String CONTENT="1953" HEIGHT="77" WIDTH="87" VPOS="613" HPOS="890" WC="1"/>
+            <SP WIDTH="4" VPOS="613" HPOS="978"/>
+            <String CONTENT="ve" HEIGHT="77" WIDTH="53" VPOS="613" HPOS="1001" WC="1"/>
+            <SP WIDTH="4" VPOS="613" HPOS="1055"/>
+            <String CONTENT="Vladislavském" HEIGHT="78" WIDTH="290" VPOS="614" HPOS="1079" WC="1"/>
+            <SP WIDTH="4" VPOS="614" HPOS="1370"/>
+            <String CONTENT="sále" HEIGHT="77" WIDTH="87" VPOS="615" HPOS="1404" WC="1"/>
+            <SP WIDTH="4" VPOS="615" HPOS="1491"/>
+            <String CONTENT="na" HEIGHT="77" WIDTH="58" VPOS="616" HPOS="1505" WC="1"/>
+            <SP WIDTH="4" VPOS="616" HPOS="1563"/>
+            <String CONTENT="hradě" HEIGHT="78" WIDTH="126" VPOS="617" HPOS="1578" WC="1"/>
+          </TextLine>
+          <TextLine ID="line_r000-l008" BASELINE="749" VPOS="684" HPOS="562" HEIGHT="96" WIDTH="1200">
+            <String CONTENT="pražském" HEIGHT="81" WIDTH="186" VPOS="685" HPOS="567" WC="1"/>
+            <SP WIDTH="4" VPOS="685" HPOS="754"/>
+            <String CONTENT="byl" HEIGHT="77" WIDTH="72" VPOS="691" HPOS="791" WC="1"/>
+            <SP WIDTH="4" VPOS="691" HPOS="864"/>
+            <String CONTENT="zvolen" HEIGHT="78" WIDTH="134" VPOS="693" HPOS="873" WC="1"/>
+            <SP WIDTH="4" VPOS="693" HPOS="1007"/>
+            <String CONTENT="pres." HEIGHT="77" WIDTH="106" VPOS="696" HPOS="1025" WC="1"/>
+            <SP WIDTH="4" VPOS="696" HPOS="1132"/>
+            <String CONTENT="republiky" HEIGHT="78" WIDTH="207" VPOS="698" HPOS="1126" WC="1"/>
+            <SP WIDTH="4" VPOS="698" HPOS="1333"/>
+            <String CONTENT="Československé" HEIGHT="77" WIDTH="341" VPOS="701" HPOS="1350" WC="1"/>
+            <SP WIDTH="4" VPOS="701" HPOS="1691"/>
+            <String CONTENT="s." HEIGHT="75" WIDTH="55" VPOS="702" HPOS="1708" WC="1"/>
+          </TextLine>
+          <TextLine ID="line_r000-l010" BASELINE="833" VPOS="769" HPOS="555" HEIGHT="91" WIDTH="1215">
+            <String CONTENT="Antonín" HEIGHT="79" WIDTH="184" VPOS="770" HPOS="556" WC="1"/>
+            <SP WIDTH="4" VPOS="770" HPOS="741"/>
+            <String CONTENT="Zápotocký," HEIGHT="79" WIDTH="255" VPOS="775" HPOS="764" WC="1"/>
+            <SP WIDTH="4" VPOS="775" HPOS="1019"/>
+            <String CONTENT="nejbližší" HEIGHT="77" WIDTH="194" VPOS="780" HPOS="1023" WC="1"/>
+            <SP WIDTH="4" VPOS="780" HPOS="1217"/>
+            <String CONTENT="spolupracovník" HEIGHT="76" WIDTH="336" VPOS="782" HPOS="1221" WC="1"/>
+            <SP WIDTH="4" VPOS="782" HPOS="1557"/>
+            <String CONTENT="velikého" HEIGHT="75" WIDTH="190" VPOS="784" HPOS="1579" WC="1"/>
+          </TextLine>
+          <TextLine ID="line_r000-l012" BASELINE="905" VPOS="846" HPOS="551" HEIGHT="86" WIDTH="1167">
+            <String CONTENT="vůdce" HEIGHT="77" WIDTH="131" VPOS="845" HPOS="555" WC="1"/>
+            <SP WIDTH="4" VPOS="845" HPOS="687"/>
+            <String CONTENT="a" HEIGHT="74" WIDTH="24" VPOS="850" HPOS="714" WC="1"/>
+            <SP WIDTH="4" VPOS="850" HPOS="738"/>
+            <String CONTENT="učitele" HEIGHT="77" WIDTH="159" VPOS="851" HPOS="756" WC="1"/>
+            <SP WIDTH="4" VPOS="851" HPOS="915"/>
+            <String CONTENT="našeho" HEIGHT="75" WIDTH="158" VPOS="854" HPOS="939" WC="1"/>
+            <SP WIDTH="4" VPOS="854" HPOS="1097"/>
+            <String CONTENT="lidu" HEIGHT="74" WIDTH="84" VPOS="856" HPOS="1102" WC="1"/>
+            <SP WIDTH="4" VPOS="856" HPOS="1186"/>
+            <String CONTENT="soudruha" HEIGHT="75" WIDTH="225" VPOS="855" HPOS="1213" WC="1"/>
+            <SP WIDTH="4" VPOS="855" HPOS="1439"/>
+            <String CONTENT="Klementa" HEIGHT="77" WIDTH="221" VPOS="852" HPOS="1479" WC="1"/>
+          </TextLine>
+          <TextLine ID="line_r000-l014" BASELINE="969" VPOS="911" HPOS="546" HEIGHT="84" WIDTH="274">
+            <String CONTENT="Gottwalda." HEIGHT="82" WIDTH="269" VPOS="912" HPOS="551" WC="1.0"/>
+          </TextLine>
+          <TextLine ID="line_r000-l016" BASELINE="1043" VPOS="980" HPOS="663" HEIGHT="90" WIDTH="1148">
+            <String CONTENT="Z" HEIGHT="78" WIDTH="30" VPOS="981" HPOS="667" WC="1"/>
+            <SP WIDTH="4" VPOS="981" HPOS="698"/>
+            <String CONTENT="vůle" HEIGHT="80" WIDTH="98" VPOS="982" HPOS="706" WC="1"/>
+            <SP WIDTH="4" VPOS="982" HPOS="805"/>
+            <String CONTENT="našeho" HEIGHT="80" WIDTH="151" VPOS="986" HPOS="818" WC="1"/>
+            <SP WIDTH="4" VPOS="986" HPOS="970"/>
+            <String CONTENT="lidu" HEIGHT="78" WIDTH="87" VPOS="990" HPOS="974" WC="1"/>
+            <SP WIDTH="4" VPOS="990" HPOS="1062"/>
+            <String CONTENT="stává" HEIGHT="78" WIDTH="121" VPOS="991" HPOS="1081" WC="1"/>
+            <SP WIDTH="4" VPOS="991" HPOS="1203"/>
+            <String CONTENT="se" HEIGHT="77" WIDTH="59" VPOS="993" HPOS="1212" WC="1"/>
+            <SP WIDTH="4" VPOS="993" HPOS="1272"/>
+            <String CONTENT="nejvyšším" HEIGHT="78" WIDTH="220" VPOS="992" HPOS="1276" WC="1"/>
+            <SP WIDTH="4" VPOS="992" HPOS="1496"/>
+            <String CONTENT="hospodářem" HEIGHT="82" WIDTH="255" VPOS="987" HPOS="1533" WC="1"/>
+          </TextLine>
+          <TextLine ID="line_r000-l018" BASELINE="1125" VPOS="1055" HPOS="542" HEIGHT="98" WIDTH="1313">
+            <String CONTENT="naši" HEIGHT="80" WIDTH="110" VPOS="1055" HPOS="541" WC="1"/>
+            <SP WIDTH="4" VPOS="1055" HPOS="651"/>
+            <String CONTENT="lidové" HEIGHT="80" WIDTH="128" VPOS="1061" HPOS="654" WC="1"/>
+            <SP WIDTH="4" VPOS="1061" HPOS="782"/>
+            <String CONTENT="demokratické" HEIGHT="84" WIDTH="311" VPOS="1069" HPOS="810" WC="1"/>
+            <SP WIDTH="4" VPOS="1069" HPOS="1121"/>
+            <String CONTENT="republiky," HEIGHT="76" WIDTH="223" VPOS="1078" HPOS="1148" WC="1"/>
+            <SP WIDTH="4" VPOS="1078" HPOS="1371"/>
+            <String CONTENT="aby" HEIGHT="75" WIDTH="77" VPOS="1080" HPOS="1383" WC="1"/>
+            <SP WIDTH="4" VPOS="1080" HPOS="1461"/>
+            <String CONTENT="dále" HEIGHT="75" WIDTH="102" VPOS="1079" HPOS="1482" WC="1"/>
+            <SP WIDTH="4" VPOS="1079" HPOS="1584"/>
+            <String CONTENT="vedl" HEIGHT="76" WIDTH="112" VPOS="1076" HPOS="1599" WC="1"/>
+            <SP WIDTH="4" VPOS="1076" HPOS="1711"/>
+            <String CONTENT="drahou" HEIGHT="78" WIDTH="141" VPOS="1072" HPOS="1707" WC="1"/>
+          </TextLine>
+          <TextLine ID="line_r000-l020" BASELINE="1197" VPOS="1135" HPOS="539" HEIGHT="87" WIDTH="1296">
+            <String CONTENT="Vlast" HEIGHT="77" WIDTH="108" VPOS="1135" HPOS="539" WC="1.0"/>
+            <SP WIDTH="4" VPOS="1135" HPOS="648"/>
+            <String CONTENT="K" HEIGHT="75" WIDTH="23" VPOS="1139" HPOS="666" WC="0.0"/>
+            <SP WIDTH="4" VPOS="1139" HPOS="690"/>
+            <String CONTENT="rozkvétu" HEIGHT="78" WIDTH="206" VPOS="1140" HPOS="703" WC="1.0"/>
+            <SP WIDTH="4" VPOS="1140" HPOS="910"/>
+            <String CONTENT="-" HEIGHT="75" WIDTH="23" VPOS="1144" HPOS="915" WC="0.9"/>
+            <SP WIDTH="4" VPOS="1144" HPOS="938"/>
+            <String CONTENT="v" HEIGHT="75" WIDTH="28" VPOS="1144" HPOS="957" WC="0.99"/>
+            <SP WIDTH="4" VPOS="1144" HPOS="985"/>
+            <String CONTENT="duchu" HEIGHT="76" WIDTH="136" VPOS="1145" HPOS="990" WC="1.0"/>
+            <SP WIDTH="4" VPOS="1145" HPOS="1126"/>
+            <String CONTENT="odkazu" HEIGHT="75" WIDTH="160" VPOS="1147" HPOS="1144" WC="1.0"/>
+            <SP WIDTH="4" VPOS="1147" HPOS="1305"/>
+            <String CONTENT="nejvyššího" HEIGHT="75" WIDTH="226" VPOS="1148" HPOS="1341" WC="1.0"/>
+            <SP WIDTH="4" VPOS="1148" HPOS="1568"/>
+            <String CONTENT="jejího" HEIGHT="75" WIDTH="138" VPOS="1147" HPOS="1581" WC="1.0"/>
+            <SP WIDTH="4" VPOS="1147" HPOS="1719"/>
+            <String CONTENT="syna" HEIGHT="75" WIDTH="105" VPOS="1146" HPOS="1721" WC="1.0"/>
+          </TextLine>
+          <TextLine ID="line_r000-l022" BASELINE="1269" VPOS="1208" HPOS="538" HEIGHT="90" WIDTH="456">
+            <String CONTENT="Klementa" HEIGHT="84" WIDTH="205" VPOS="1207" HPOS="543" WC="1.0"/>
+            <SP WIDTH="4" VPOS="1207" HPOS="749"/>
+            <String CONTENT="Gottwalda." HEIGHT="79" WIDTH="241" VPOS="1218" HPOS="755" WC="1.0"/>
+          </TextLine>
+          <TextLine ID="line_r000-l023" BASELINE="1350" VPOS="1285" HPOS="659" HEIGHT="95" WIDTH="1216">
+            <String CONTENT="Antonín" HEIGHT="85" WIDTH="165" VPOS="1284" HPOS="663" WC="1.0"/>
+            <SP WIDTH="4" VPOS="1284" HPOS="829"/>
+            <String CONTENT="Zápotocký" HEIGHT="84" WIDTH="219" VPOS="1291" HPOS="847" WC="1.0"/>
+            <SP WIDTH="4" VPOS="1291" HPOS="1066"/>
+            <String CONTENT="se" HEIGHT="79" WIDTH="49" VPOS="1297" HPOS="1081" WC="1.0"/>
+            <SP WIDTH="4" VPOS="1297" HPOS="1131"/>
+            <String CONTENT="narodil" HEIGHT="80" WIDTH="179" VPOS="1298" HPOS="1145" WC="1.0"/>
+            <SP WIDTH="4" VPOS="1298" HPOS="1325"/>
+            <String CONTENT="19." HEIGHT="79" WIDTH="70" VPOS="1299" HPOS="1334" WC="1.0"/>
+            <SP WIDTH="4" VPOS="1299" HPOS="1404"/>
+            <String CONTENT="prosince" HEIGHT="80" WIDTH="190" VPOS="1298" HPOS="1398" WC="1.0"/>
+            <SP WIDTH="4" VPOS="1298" HPOS="1588"/>
+            <String CONTENT="1884" HEIGHT="80" WIDTH="101" VPOS="1296" HPOS="1596" WC="1.0"/>
+            <SP WIDTH="4" VPOS="1296" HPOS="1698"/>
+            <String CONTENT="v" HEIGHT="79" WIDTH="27" VPOS="1295" HPOS="1710" WC="0.97"/>
+            <SP WIDTH="4" VPOS="1295" HPOS="1738"/>
+            <String CONTENT="Záko-" HEIGHT="82" WIDTH="137" VPOS="1292" HPOS="1740" WC="1.0"/>
+          </TextLine>
+          <TextLine ID="line_r000-l024" BASELINE="1430" VPOS="1364" HPOS="547" HEIGHT="95" WIDTH="1268">
+            <String CONTENT="lanech" HEIGHT="80" WIDTH="156" VPOS="1363" HPOS="551" WC="1.0"/>
+            <SP WIDTH="4" VPOS="1363" HPOS="707"/>
+            <String CONTENT="pod" HEIGHT="77" WIDTH="70" VPOS="1369" HPOS="725" WC="1.0"/>
+            <SP WIDTH="4" VPOS="1369" HPOS="796"/>
+            <String CONTENT="Buděj" HEIGHT="78" WIDTH="141" VPOS="1372" HPOS="824" WC="0.92"/>
+            <SP WIDTH="4" VPOS="1372" HPOS="966"/>
+            <String CONTENT="na" HEIGHT="76" WIDTH="57" VPOS="1377" HPOS="989" WC="1.0"/>
+            <SP WIDTH="4" VPOS="1377" HPOS="1047"/>
+            <String CONTENT="Kladensku." HEIGHT="79" WIDTH="269" VPOS="1378" HPOS="1065" WC="1.0"/>
+            <SP WIDTH="4" VPOS="1378" HPOS="1335"/>
+            <String CONTENT="Jeho" HEIGHT="75" WIDTH="105" VPOS="1383" HPOS="1338" WC="1.0"/>
+            <SP WIDTH="4" VPOS="1383" HPOS="1443"/>
+            <String CONTENT="otec" HEIGHT="75" WIDTH="96" VPOS="1384" HPOS="1451" WC="1.0"/>
+            <SP WIDTH="4" VPOS="1384" HPOS="1547"/>
+            <String CONTENT="byl" HEIGHT="75" WIDTH="82" VPOS="1384" HPOS="1550" WC="1.0"/>
+            <SP WIDTH="4" VPOS="1384" HPOS="1632"/>
+            <String CONTENT="jedním" HEIGHT="75" WIDTH="158" VPOS="1384" HPOS="1634" WC="1.0"/>
+          </TextLine>
+          <TextLine ID="line_r000-l025" BASELINE="1506" VPOS="1445" HPOS="551" HEIGHT="91" WIDTH="1223">
+            <String CONTENT="z" HEIGHT="75" WIDTH="29" VPOS="1445" HPOS="554" WC="1"/>
+            <SP WIDTH="4" VPOS="1445" HPOS="584"/>
+            <String CONTENT="prvních" HEIGHT="79" WIDTH="178" VPOS="1446" HPOS="591" WC="1"/>
+            <SP WIDTH="4" VPOS="1446" HPOS="770"/>
+            <String CONTENT="průkopníků" HEIGHT="78" WIDTH="262" VPOS="1452" HPOS="793" WC="1"/>
+            <SP WIDTH="4" VPOS="1452" HPOS="1055"/>
+            <String CONTENT="socialismu" HEIGHT="75" WIDTH="248" VPOS="1457" HPOS="1096" WC="1"/>
+            <SP WIDTH="4" VPOS="1457" HPOS="1345"/>
+            <String CONTENT="u" HEIGHT="74" WIDTH="29" VPOS="1458" HPOS="1362" WC="1"/>
+            <SP WIDTH="4" VPOS="1458" HPOS="1392"/>
+            <String CONTENT="nás." HEIGHT="75" WIDTH="99" VPOS="1457" HPOS="1409" WC="1"/>
+            <SP WIDTH="4" VPOS="1457" HPOS="1509"/>
+            <String CONTENT="Zakladatel" HEIGHT="78" WIDTH="263" VPOS="1452" HPOS="1511" WC="1"/>
+          </TextLine>
+          <TextLine ID="line_r000-l027" BASELINE="1583" VPOS="1524" HPOS="543" HEIGHT="88" WIDTH="1280">
+            <String CONTENT="sociálně" HEIGHT="79" WIDTH="200" VPOS="1522" HPOS="545" WC="1"/>
+            <SP WIDTH="4" VPOS="1522" HPOS="746"/>
+            <String CONTENT="demokratické" HEIGHT="78" WIDTH="322" VPOS="1530" HPOS="763" WC="1"/>
+            <SP WIDTH="4" VPOS="1530" HPOS="1085"/>
+            <String CONTENT="strany," HEIGHT="72" WIDTH="186" VPOS="1537" HPOS="1112" WC="1"/>
+            <SP WIDTH="4" VPOS="1537" HPOS="1298"/>
+            <String CONTENT="socialistický" HEIGHT="75" WIDTH="300" VPOS="1535" HPOS="1302" WC="1"/>
+            <SP WIDTH="4" VPOS="1535" HPOS="1602"/>
+            <String CONTENT="novinář," HEIGHT="77" WIDTH="202" VPOS="1529" HPOS="1623" WC="1"/>
+          </TextLine>
+          <TextLine ID="line_r000-l029" BASELINE="1652" VPOS="1593" HPOS="543" HEIGHT="87" WIDTH="1260">
+            <String CONTENT="agitátor" HEIGHT="74" WIDTH="185" VPOS="1593" HPOS="556" WC="1"/>
+            <SP WIDTH="4" VPOS="1593" HPOS="741"/>
+            <String CONTENT="a" HEIGHT="70" WIDTH="22" VPOS="1598" HPOS="767" WC="1"/>
+            <SP WIDTH="4" VPOS="1598" HPOS="789"/>
+            <String CONTENT="revolucionář." HEIGHT="75" WIDTH="308" VPOS="1599" HPOS="807" WC="1"/>
+            <SP WIDTH="4" VPOS="1599" HPOS="1116"/>
+            <String CONTENT="President" HEIGHT="72" WIDTH="216" VPOS="1605" HPOS="1133" WC="1"/>
+            <SP WIDTH="4" VPOS="1605" HPOS="1349"/>
+            <String CONTENT="republiky" HEIGHT="71" WIDTH="203" VPOS="1607" HPOS="1357" WC="1"/>
+            <SP WIDTH="4" VPOS="1607" HPOS="1561"/>
+            <String CONTENT="soudruh" HEIGHT="70" WIDTH="195" VPOS="1609" HPOS="1590" WC="1"/>
+          </TextLine>
+          <TextLine ID="line_r000-l031" BASELINE="1728" VPOS="1673" HPOS="539" HEIGHT="84" WIDTH="1268">
+            <String CONTENT="Antonín" HEIGHT="75" WIDTH="168" VPOS="1673" HPOS="551" WC="1"/>
+            <SP WIDTH="4" VPOS="1673" HPOS="719"/>
+            <String CONTENT="Zápotocký" HEIGHT="74" WIDTH="221" VPOS="1678" HPOS="735" WC="1"/>
+            <SP WIDTH="4" VPOS="1678" HPOS="957"/>
+            <String CONTENT="věren" HEIGHT="72" WIDTH="117" VPOS="1681" HPOS="983" WC="1"/>
+            <SP WIDTH="4" VPOS="1681" HPOS="1100"/>
+            <String CONTENT="velikému" HEIGHT="72" WIDTH="193" VPOS="1681" HPOS="1127" WC="1"/>
+            <SP WIDTH="4" VPOS="1681" HPOS="1321"/>
+            <String CONTENT="odkazu" HEIGHT="73" WIDTH="185" VPOS="1679" HPOS="1347" WC="1"/>
+            <SP WIDTH="4" VPOS="1679" HPOS="1532"/>
+            <String CONTENT="soudruha" HEIGHT="76" WIDTH="217" VPOS="1673" HPOS="1571" WC="1"/>
+          </TextLine>
+          <TextLine ID="line_r000-l033" BASELINE="1799" VPOS="1742" HPOS="543" HEIGHT="83" WIDTH="1300">
+            <String CONTENT="Klementa" HEIGHT="76" WIDTH="211" VPOS="1745" HPOS="545" WC="1.0"/>
+            <SP WIDTH="4" VPOS="1745" HPOS="756"/>
+            <String CONTENT="Gottwalda," HEIGHT="73" WIDTH="267" VPOS="1751" HPOS="781" WC="1.0"/>
+            <SP WIDTH="4" VPOS="1751" HPOS="1049"/>
+            <String CONTENT="povede" HEIGHT="70" WIDTH="169" VPOS="1754" HPOS="1052" WC="1.0"/>
+            <SP WIDTH="4" VPOS="1754" HPOS="1221"/>
+            <String CONTENT="vpřed" HEIGHT="71" WIDTH="120" VPOS="1753" HPOS="1248" WC="1.0"/>
+            <SP WIDTH="4" VPOS="1753" HPOS="1368"/>
+            <String CONTENT="pod" HEIGHT="71" WIDTH="71" VPOS="1751" HPOS="1412" WC="1.0"/>
+            <SP WIDTH="4" VPOS="1751" HPOS="1484"/>
+            <String CONTENT="vítězným" HEIGHT="75" WIDTH="192" VPOS="1746" HPOS="1501" WC="1.0"/>
+            <SP WIDTH="4" VPOS="1746" HPOS="1693"/>
+            <String CONTENT="pra-" HEIGHT="74" WIDTH="108" VPOS="1741" HPOS="1735" WC="1.0"/>
+          </TextLine>
+          <TextLine ID="line_r000-l035" BASELINE="1873" VPOS="1817" HPOS="547" HEIGHT="81" WIDTH="1309">
+            <String CONTENT="porem" HEIGHT="74" WIDTH="127" VPOS="1818" HPOS="551" WC="1.0"/>
+            <SP WIDTH="4" VPOS="1818" HPOS="679"/>
+            <String CONTENT="Lenina" HEIGHT="74" WIDTH="155" VPOS="1820" HPOS="720" WC="1.0"/>
+            <SP WIDTH="4" VPOS="1820" HPOS="875"/>
+            <String CONTENT="a" HEIGHT="72" WIDTH="27" VPOS="1822" HPOS="893" WC="0.99"/>
+            <SP WIDTH="4" VPOS="1822" HPOS="920"/>
+            <String CONTENT="Stalina" HEIGHT="73" WIDTH="155" VPOS="1823" HPOS="947" WC="1.0"/>
+            <SP WIDTH="4" VPOS="1823" HPOS="1103"/>
+            <String CONTENT="naši" HEIGHT="72" WIDTH="105" VPOS="1824" HPOS="1130" WC="1.0"/>
+            <SP WIDTH="4" VPOS="1824" HPOS="1235"/>
+            <String CONTENT="Československou" HEIGHT="73" WIDTH="374" VPOS="1824" HPOS="1266" WC="1.0"/>
+            <SP WIDTH="4" VPOS="1824" HPOS="1641"/>
+            <String CONTENT="údernou" HEIGHT="74" WIDTH="197" VPOS="1823" HPOS="1658" WC="1.0"/>
+          </TextLine>
+          <TextLine ID="line_r000-l037" BASELINE="1950" VPOS="1894" HPOS="547" HEIGHT="84" WIDTH="1311">
+            <String CONTENT="brigádu" HEIGHT="74" WIDTH="177" VPOS="1893" HPOS="551" WC="1"/>
+            <SP WIDTH="4" VPOS="1893" HPOS="728"/>
+            <String CONTENT="za" HEIGHT="72" WIDTH="50" VPOS="1896" HPOS="764" WC="1"/>
+            <SP WIDTH="4" VPOS="1896" HPOS="814"/>
+            <String CONTENT="splnění" HEIGHT="74" WIDTH="177" VPOS="1897" HPOS="837" WC="1"/>
+            <SP WIDTH="4" VPOS="1897" HPOS="1014"/>
+            <String CONTENT="životního" HEIGHT="73" WIDTH="213" VPOS="1899" HPOS="1023" WC="1"/>
+            <SP WIDTH="4" VPOS="1899" HPOS="1237"/>
+            <String CONTENT="cíle" HEIGHT="72" WIDTH="77" VPOS="1901" HPOS="1263" WC="1"/>
+            <SP WIDTH="4" VPOS="1901" HPOS="1341"/>
+            <String CONTENT="soudruha" HEIGHT="73" WIDTH="214" VPOS="1902" HPOS="1358" WC="1"/>
+            <SP WIDTH="4" VPOS="1902" HPOS="1572"/>
+            <String CONTENT="Gottwalda," HEIGHT="72" WIDTH="255" VPOS="1903" HPOS="1603" WC="1"/>
+          </TextLine>
+          <TextLine ID="line_r000-l039" BASELINE="2026" VPOS="1965" HPOS="542" HEIGHT="94" WIDTH="997">
+            <String CONTENT="za" HEIGHT="74" WIDTH="52" VPOS="1967" HPOS="542" WC="1"/>
+            <SP WIDTH="4" VPOS="1967" HPOS="595"/>
+            <String CONTENT="vybudování" HEIGHT="78" WIDTH="280" VPOS="1968" HPOS="621" WC="1"/>
+            <SP WIDTH="4" VPOS="1968" HPOS="901"/>
+            <String CONTENT="socialismu" HEIGHT="78" WIDTH="257" VPOS="1973" HPOS="918" WC="1"/>
+            <SP WIDTH="4" VPOS="1973" HPOS="1175"/>
+            <String CONTENT="v" HEIGHT="74" WIDTH="29" VPOS="1978" HPOS="1201" WC="1"/>
+            <SP WIDTH="4" VPOS="1978" HPOS="1231"/>
+            <String CONTENT="naší" HEIGHT="75" WIDTH="117" VPOS="1979" HPOS="1239" WC="1"/>
+            <SP WIDTH="4" VPOS="1979" HPOS="1356"/>
+            <String CONTENT="vlasti." HEIGHT="76" WIDTH="164" VPOS="1981" HPOS="1373" WC="1"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="block_r001" HEIGHT="160" WIDTH="982" VPOS="389" HPOS="664">
+          <TextLine ID="line_r001-l002" BASELINE="444" VPOS="389" HPOS="664" HEIGHT="80" WIDTH="982">
+            <String CONTENT="21." HEIGHT="76" WIDTH="82" VPOS="390" HPOS="668" WC="1"/>
+            <SP WIDTH="4" VPOS="390" HPOS="750"/>
+            <String CONTENT="III." HEIGHT="76" WIDTH="72" VPOS="389" HPOS="744" WC="1"/>
+            <SP WIDTH="4" VPOS="389" HPOS="817"/>
+            <String CONTENT="1953" HEIGHT="76" WIDTH="91" VPOS="389" HPOS="816" WC="1"/>
+            <SP WIDTH="4" VPOS="389" HPOS="907"/>
+            <String CONTENT="volba" HEIGHT="75" WIDTH="115" VPOS="389" HPOS="930" WC="1"/>
+            <SP WIDTH="4" VPOS="389" HPOS="1045"/>
+            <String CONTENT="pres." HEIGHT="76" WIDTH="124" VPOS="389" HPOS="1059" WC="1"/>
+            <SP WIDTH="4" VPOS="389" HPOS="1183"/>
+            <String CONTENT="republiky" HEIGHT="76" WIDTH="214" VPOS="389" HPOS="1183" WC="1"/>
+            <SP WIDTH="4" VPOS="389" HPOS="1398"/>
+            <String CONTENT="soudruha" HEIGHT="77" WIDTH="219" VPOS="390" HPOS="1417" WC="1"/>
+          </TextLine>
+          <TextLine ID="line_r001-l004" BASELINE="522" VPOS="463" HPOS="799" HEIGHT="86" WIDTH="593">
+            <String CONTENT="Antonína" HEIGHT="79" WIDTH="207" VPOS="463" HPOS="814" WC="1"/>
+            <SP WIDTH="4" VPOS="463" HPOS="1022"/>
+            <String CONTENT="Zápotockého." HEIGHT="79" WIDTH="339" VPOS="469" HPOS="1053" WC="1"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="block_r002" HEIGHT="611" WIDTH="1383" VPOS="584" HPOS="2058">
+          <TextLine ID="line_r002-l005" BASELINE="646" VPOS="584" HPOS="2285" HEIGHT="88" WIDTH="1151">
+            <String CONTENT="Vláda" HEIGHT="82" WIDTH="151" VPOS="585" HPOS="2289" WC="1"/>
+            <SP WIDTH="4" VPOS="585" HPOS="2441"/>
+            <String CONTENT="republiky" HEIGHT="82" WIDTH="221" VPOS="588" HPOS="2450" WC="1"/>
+            <SP WIDTH="4" VPOS="588" HPOS="2672"/>
+            <String CONTENT="Československé" HEIGHT="80" WIDTH="367" VPOS="591" HPOS="2697" WC="1"/>
+            <SP WIDTH="4" VPOS="591" HPOS="3064"/>
+            <String CONTENT="nařizuje" HEIGHT="81" WIDTH="212" VPOS="589" HPOS="3083" WC="1"/>
+            <SP WIDTH="4" VPOS="589" HPOS="3296"/>
+            <String CONTENT="podle" HEIGHT="81" WIDTH="127" VPOS="587" HPOS="3309" WC="1"/>
+          </TextLine>
+          <TextLine ID="line_r002-l007" BASELINE="719" VPOS="657" HPOS="2067" HEIGHT="90" WIDTH="1362">
+            <String CONTENT="§" HEIGHT="74" WIDTH="26" VPOS="662" HPOS="2065" WC="0.97"/>
+            <SP WIDTH="4" VPOS="662" HPOS="2092"/>
+            <String CONTENT="17" HEIGHT="75" WIDTH="49" VPOS="663" HPOS="2107" WC="0.99"/>
+            <SP WIDTH="4" VPOS="663" HPOS="2156"/>
+            <String CONTENT="zákona" HEIGHT="77" WIDTH="159" VPOS="666" HPOS="2177" WC="1.0"/>
+            <SP WIDTH="4" VPOS="666" HPOS="2336"/>
+            <String CONTENT="čís." HEIGHT="74" WIDTH="80" VPOS="671" HPOS="2381" WC="0.99"/>
+            <SP WIDTH="4" VPOS="671" HPOS="2461"/>
+            <String CONTENT="31/1953" HEIGHT="75" WIDTH="167" VPOS="672" HPOS="2455" WC="1.0"/>
+            <SP WIDTH="4" VPOS="672" HPOS="2623"/>
+            <String CONTENT="oškolské" HEIGHT="74" WIDTH="194" VPOS="673" HPOS="2645" WC="1.0"/>
+            <SP WIDTH="4" VPOS="673" HPOS="2840"/>
+            <String CONTENT="soustavě" HEIGHT="77" WIDTH="204" VPOS="669" HPOS="2868" WC="1.0"/>
+            <SP WIDTH="4" VPOS="669" HPOS="3072"/>
+            <String CONTENT="a" HEIGHT="74" WIDTH="24" VPOS="668" HPOS="3089" WC="1.0"/>
+            <SP WIDTH="4" VPOS="668" HPOS="3114"/>
+            <String CONTENT="vzdělávání" HEIGHT="84" WIDTH="270" VPOS="656" HPOS="3140" WC="1.0"/>
+          </TextLine>
+          <TextLine ID="line_r002-l009" BASELINE="789" VPOS="723" HPOS="2063" HEIGHT="97" WIDTH="1378">
+            <String CONTENT="učitelů." HEIGHT="73" WIDTH="194" VPOS="744" HPOS="2066" WC="1"/>
+            <SP WIDTH="4" VPOS="744" HPOS="2261"/>
+            <String CONTENT="Dosavadní" HEIGHT="73" WIDTH="253" VPOS="745" HPOS="2263" WC="1"/>
+            <SP WIDTH="4" VPOS="745" HPOS="2517"/>
+            <String CONTENT="školy" HEIGHT="73" WIDTH="120" VPOS="744" HPOS="2529" WC="1"/>
+            <SP WIDTH="4" VPOS="744" HPOS="2649"/>
+            <String CONTENT="národní," HEIGHT="76" WIDTH="220" VPOS="741" HPOS="2652" WC="1"/>
+            <SP WIDTH="4" VPOS="741" HPOS="2873"/>
+            <String CONTENT="školy" HEIGHT="75" WIDTH="119" VPOS="738" HPOS="2872" WC="1"/>
+            <SP WIDTH="4" VPOS="738" HPOS="2992"/>
+            <String CONTENT="střední" HEIGHT="77" WIDTH="169" VPOS="733" HPOS="3005" WC="1"/>
+            <SP WIDTH="4" VPOS="733" HPOS="3174"/>
+            <String CONTENT="a" HEIGHT="73" WIDTH="23" VPOS="732" HPOS="3179" WC="1"/>
+            <SP WIDTH="4" VPOS="732" HPOS="3202"/>
+            <String CONTENT="gymná-" HEIGHT="80" WIDTH="206" VPOS="724" HPOS="3225" WC="1"/>
+          </TextLine>
+          <TextLine ID="line_r002-l011" BASELINE="867" VPOS="802" HPOS="2059" HEIGHT="99" WIDTH="1293">
+            <String CONTENT="sia" HEIGHT="76" WIDTH="73" VPOS="819" HPOS="2058" WC="1.0"/>
+            <SP WIDTH="4" VPOS="819" HPOS="2132"/>
+            <String CONTENT="se" HEIGHT="75" WIDTH="59" VPOS="820" HPOS="2153" WC="1.0"/>
+            <SP WIDTH="4" VPOS="820" HPOS="2213"/>
+            <String CONTENT="přemění" HEIGHT="75" WIDTH="210" VPOS="821" HPOS="2215" WC="1.0"/>
+            <SP WIDTH="4" VPOS="821" HPOS="2425"/>
+            <String CONTENT="počátkem" HEIGHT="76" WIDTH="190" VPOS="820" HPOS="2438" WC="1.0"/>
+            <SP WIDTH="4" VPOS="820" HPOS="2628"/>
+            <String CONTENT="školního" HEIGHT="78" WIDTH="189" VPOS="816" HPOS="2665" WC="1.0"/>
+            <SP WIDTH="4" VPOS="816" HPOS="2855"/>
+            <String CONTENT="roku" HEIGHT="78" WIDTH="109" VPOS="813" HPOS="2860" WC="1.0"/>
+            <SP WIDTH="4" VPOS="813" HPOS="2969"/>
+            <String CONTENT="1953-1954" HEIGHT="83" WIDTH="223" VPOS="804" HPOS="3006" WC="1.0"/>
+            <SP WIDTH="4" VPOS="804" HPOS="3229"/>
+            <String CONTENT="na" HEIGHT="77" WIDTH="58" VPOS="799" HPOS="3275" WC="1.0"/>
+          </TextLine>
+          <TextLine ID="line_r002-l013" BASELINE="947" VPOS="886" HPOS="2067" HEIGHT="90" WIDTH="1318">
+            <String CONTENT="všeobecně" HEIGHT="78" WIDTH="230" VPOS="894" HPOS="2071" WC="1"/>
+            <SP WIDTH="4" VPOS="894" HPOS="2301"/>
+            <String CONTENT="vzdělávací" HEIGHT="75" WIDTH="257" VPOS="898" HPOS="2319" WC="1"/>
+            <SP WIDTH="4" VPOS="898" HPOS="2576"/>
+            <String CONTENT="školy" HEIGHT="74" WIDTH="126" VPOS="899" HPOS="2585" WC="1"/>
+            <SP WIDTH="4" VPOS="899" HPOS="2712"/>
+            <String CONTENT="nové" HEIGHT="74" WIDTH="98" VPOS="898" HPOS="2730" WC="1"/>
+            <SP WIDTH="4" VPOS="898" HPOS="2828"/>
+            <String CONTENT="školské" HEIGHT="76" WIDTH="173" VPOS="895" HPOS="2842" WC="1"/>
+            <SP WIDTH="4" VPOS="895" HPOS="3015"/>
+            <String CONTENT="soustavy." HEIGHT="80" WIDTH="253" VPOS="889" HPOS="3033" WC="1"/>
+            <SP WIDTH="4" VPOS="889" HPOS="3287"/>
+            <String CONTENT="Pro" HEIGHT="76" WIDTH="71" VPOS="886" HPOS="3304" WC="1"/>
+          </TextLine>
+          <TextLine ID="line_r002-l015" BASELINE="1022" VPOS="968" HPOS="2063" HEIGHT="77" WIDTH="1272">
+            <String CONTENT="Školní" HEIGHT="74" WIDTH="147" VPOS="969" HPOS="2063" WC="1"/>
+            <SP WIDTH="4" VPOS="969" HPOS="2211"/>
+            <String CONTENT="rok" HEIGHT="73" WIDTH="69" VPOS="970" HPOS="2216" WC="1"/>
+            <SP WIDTH="4" VPOS="970" HPOS="2285"/>
+            <String CONTENT="1953-1954" HEIGHT="74" WIDTH="222" VPOS="970" HPOS="2336" WC="1"/>
+            <SP WIDTH="4" VPOS="970" HPOS="2558"/>
+            <String CONTENT="bude" HEIGHT="73" WIDTH="115" VPOS="971" HPOS="2576" WC="1"/>
+            <SP WIDTH="4" VPOS="971" HPOS="2692"/>
+            <String CONTENT="podle" HEIGHT="73" WIDTH="120" VPOS="972" HPOS="2701" WC="1"/>
+            <SP WIDTH="4" VPOS="972" HPOS="2822"/>
+            <String CONTENT="potřeby" HEIGHT="73" WIDTH="180" VPOS="972" HPOS="2835" WC="1"/>
+            <SP WIDTH="4" VPOS="972" HPOS="3016"/>
+            <String CONTENT="ponechán" HEIGHT="74" WIDTH="208" VPOS="971" HPOS="3034" WC="1"/>
+            <SP WIDTH="4" VPOS="971" HPOS="3243"/>
+            <String CONTENT="II." HEIGHT="73" WIDTH="70" VPOS="971" HPOS="3265" WC="1"/>
+          </TextLine>
+          <TextLine ID="line_r002-l017" BASELINE="1097" VPOS="1041" HPOS="2063" HEIGHT="85" WIDTH="1373">
+            <String CONTENT="postupný" HEIGHT="77" WIDTH="212" VPOS="1045" HPOS="2068" WC="1"/>
+            <SP WIDTH="4" VPOS="1045" HPOS="2280"/>
+            <String CONTENT="ročník" HEIGHT="76" WIDTH="149" VPOS="1046" HPOS="2299" WC="1"/>
+            <SP WIDTH="4" VPOS="1046" HPOS="2448"/>
+            <String CONTENT="dosavadní" HEIGHT="77" WIDTH="260" VPOS="1045" HPOS="2487" WC="1"/>
+            <SP WIDTH="4" VPOS="1045" HPOS="2747"/>
+            <String CONTENT="střední" HEIGHT="77" WIDTH="183" VPOS="1044" HPOS="2756" WC="1"/>
+            <SP WIDTH="4" VPOS="1044" HPOS="2939"/>
+            <String CONTENT="školy" HEIGHT="77" WIDTH="116" VPOS="1043" HPOS="2944" WC="1"/>
+            <SP WIDTH="4" VPOS="1043" HPOS="3060"/>
+            <String CONTENT="jako" HEIGHT="77" WIDTH="101" VPOS="1042" HPOS="3073" WC="1"/>
+            <SP WIDTH="4" VPOS="1042" HPOS="3175"/>
+            <String CONTENT="jednoroční" HEIGHT="80" WIDTH="256" VPOS="1038" HPOS="3179" WC="1"/>
+          </TextLine>
+          <TextLine ID="line_r002-l019" BASELINE="1172" VPOS="1116" HPOS="2058" HEIGHT="79" WIDTH="155">
+            <String CONTENT="Kurs." HEIGHT="77" WIDTH="148" VPOS="1118" HPOS="2072" WC="1.0"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="block_r003" HEIGHT="557" WIDTH="1343" VPOS="1478" HPOS="2070">
+          <TextLine ID="line_r003-l026" BASELINE="1541" VPOS="1478" HPOS="2256" HEIGHT="91" WIDTH="1084">
+            <String CONTENT="Dne" HEIGHT="81" WIDTH="92" VPOS="1483" HPOS="2269" WC="1"/>
+            <SP WIDTH="4" VPOS="1483" HPOS="2361"/>
+            <String CONTENT="28." HEIGHT="80" WIDTH="76" VPOS="1486" HPOS="2378" WC="1"/>
+            <SP WIDTH="4" VPOS="1486" HPOS="2455"/>
+            <String CONTENT="6." HEIGHT="79" WIDTH="51" VPOS="1488" HPOS="2453" WC="1"/>
+            <SP WIDTH="4" VPOS="1488" HPOS="2504"/>
+            <String CONTENT="1953." HEIGHT="80" WIDTH="115" VPOS="1489" HPOS="2497" WC="1"/>
+            <SP WIDTH="4" VPOS="1489" HPOS="2613"/>
+            <String CONTENT="byl" HEIGHT="79" WIDTH="85" VPOS="1490" HPOS="2617" WC="1"/>
+            <SP WIDTH="4" VPOS="1490" HPOS="2702"/>
+            <String CONTENT="zdejší" HEIGHT="79" WIDTH="148" VPOS="1490" HPOS="2706" WC="1"/>
+            <SP WIDTH="4" VPOS="1490" HPOS="2855"/>
+            <String CONTENT="školou" HEIGHT="80" WIDTH="144" VPOS="1488" HPOS="2860" WC="1"/>
+            <SP WIDTH="4" VPOS="1488" HPOS="3004"/>
+            <String CONTENT="a" HEIGHT="79" WIDTH="25" VPOS="1487" HPOS="3033" WC="1"/>
+            <SP WIDTH="4" VPOS="1487" HPOS="3059"/>
+            <String CONTENT="RSAPŠ" HEIGHT="82" WIDTH="130" VPOS="1482" HPOS="3082" WC="1"/>
+            <SP WIDTH="4" VPOS="1482" HPOS="3212"/>
+            <String CONTENT="pod" HEIGHT="81" WIDTH="81" VPOS="1478" HPOS="3240" WC="1"/>
+          </TextLine>
+          <TextLine ID="line_r003-l028" BASELINE="1618" VPOS="1560" HPOS="2079" HEIGHT="85" WIDTH="1256">
+            <String CONTENT="záštitou" HEIGHT="80" WIDTH="170" VPOS="1559" HPOS="2079" WC="1"/>
+            <SP WIDTH="4" VPOS="1559" HPOS="2249"/>
+            <String CONTENT="NF" HEIGHT="78" WIDTH="68" VPOS="1563" HPOS="2278" WC="1"/>
+            <SP WIDTH="4" VPOS="1563" HPOS="2346"/>
+            <String CONTENT="uspořádán" HEIGHT="79" WIDTH="252" VPOS="1564" HPOS="2365" WC="1"/>
+            <SP WIDTH="4" VPOS="1564" HPOS="2617"/>
+            <String CONTENT="„Dětský" HEIGHT="77" WIDTH="169" VPOS="1566" HPOS="2627" WC="1"/>
+            <SP WIDTH="4" VPOS="1566" HPOS="2797"/>
+            <String CONTENT="den“" HEIGHT="77" WIDTH="112" VPOS="1567" HPOS="2806" WC="1"/>
+            <SP WIDTH="4" VPOS="1567" HPOS="2918"/>
+            <String CONTENT="s" HEIGHT="77" WIDTH="25" VPOS="1566" HPOS="2942" WC="1"/>
+            <SP WIDTH="4" VPOS="1566" HPOS="2967"/>
+            <String CONTENT="velmi" HEIGHT="78" WIDTH="141" VPOS="1565" HPOS="2980" WC="1"/>
+            <SP WIDTH="4" VPOS="1565" HPOS="3122"/>
+            <String CONTENT="pěkným" HEIGHT="79" WIDTH="166" VPOS="1563" HPOS="3135" WC="1"/>
+          </TextLine>
+          <TextLine ID="line_r003-l030" BASELINE="1704" VPOS="1650" HPOS="2072" HEIGHT="78" WIDTH="575">
+            <String CONTENT="a" HEIGHT="74" WIDTH="23" VPOS="1650" HPOS="2076" WC="1"/>
+            <SP WIDTH="4" VPOS="1650" HPOS="2100"/>
+            <String CONTENT="hodnotným" HEIGHT="76" WIDTH="259" VPOS="1650" HPOS="2114" WC="1"/>
+            <SP WIDTH="4" VPOS="1650" HPOS="2374"/>
+            <String CONTENT="pořadem." HEIGHT="74" WIDTH="241" VPOS="1652" HPOS="2406" WC="1"/>
+          </TextLine>
+          <TextLine ID="line_r003-l032" BASELINE="1775" VPOS="1717" HPOS="2249" HEIGHT="88" WIDTH="1164">
+            <String CONTENT="Čistý" HEIGHT="76" WIDTH="120" VPOS="1716" HPOS="2253" WC="1"/>
+            <SP WIDTH="4" VPOS="1716" HPOS="2373"/>
+            <String CONTENT="výnos" HEIGHT="76" WIDTH="124" VPOS="1717" HPOS="2391" WC="1"/>
+            <SP WIDTH="4" VPOS="1717" HPOS="2516"/>
+            <String CONTENT="byl" HEIGHT="76" WIDTH="81" VPOS="1718" HPOS="2534" WC="1"/>
+            <SP WIDTH="4" VPOS="1718" HPOS="2616"/>
+            <String CONTENT="poměrně" HEIGHT="77" WIDTH="196" VPOS="1719" HPOS="2610" WC="1"/>
+            <SP WIDTH="4" VPOS="1719" HPOS="2807"/>
+            <String CONTENT="podle" HEIGHT="77" WIDTH="124" VPOS="1721" HPOS="2825" WC="1"/>
+            <SP WIDTH="4" VPOS="1721" HPOS="2950"/>
+            <String CONTENT="poču" HEIGHT="76" WIDTH="96" VPOS="1722" HPOS="2963" WC="1"/>
+            <SP WIDTH="4" VPOS="1722" HPOS="3059"/>
+            <String CONTENT="žáků" HEIGHT="77" WIDTH="110" VPOS="1724" HPOS="3087" WC="1"/>
+            <SP WIDTH="4" VPOS="1724" HPOS="3197"/>
+            <String CONTENT="rozdělen" HEIGHT="78" WIDTH="186" VPOS="1725" HPOS="3216" WC="1"/>
+          </TextLine>
+          <TextLine ID="line_r003-l034" BASELINE="1847" VPOS="1787" HPOS="2071" HEIGHT="86" WIDTH="1230">
+            <String CONTENT="mezi" HEIGHT="77" WIDTH="122" VPOS="1787" HPOS="2075" WC="1"/>
+            <SP WIDTH="4" VPOS="1787" HPOS="2198"/>
+            <String CONTENT="mateřskou" HEIGHT="78" WIDTH="238" VPOS="1791" HPOS="2220" WC="1"/>
+            <SP WIDTH="4" VPOS="1791" HPOS="2459"/>
+            <String CONTENT="a" HEIGHT="74" WIDTH="28" VPOS="1797" HPOS="2487" WC="1"/>
+            <SP WIDTH="4" VPOS="1797" HPOS="2515"/>
+            <String CONTENT="národní" HEIGHT="75" WIDTH="187" VPOS="1797" HPOS="2533" WC="1"/>
+            <SP WIDTH="4" VPOS="1797" HPOS="2721"/>
+            <String CONTENT="školu." HEIGHT="74" WIDTH="155" VPOS="1798" HPOS="2724" WC="1"/>
+            <SP WIDTH="4" VPOS="1798" HPOS="2880"/>
+            <String CONTENT="Čistý" HEIGHT="75" WIDTH="118" VPOS="1797" HPOS="2897" WC="1"/>
+            <SP WIDTH="4" VPOS="1797" HPOS="3015"/>
+            <String CONTENT="výnos" HEIGHT="76" WIDTH="132" VPOS="1794" HPOS="3023" WC="1"/>
+            <SP WIDTH="4" VPOS="1794" HPOS="3156"/>
+            <String CONTENT="bude" HEIGHT="76" WIDTH="114" VPOS="1792" HPOS="3167" WC="1"/>
+          </TextLine>
+          <TextLine ID="line_r003-l036" BASELINE="1924" VPOS="1866" HPOS="2070" HEIGHT="83" WIDTH="1291">
+            <String CONTENT="sloužit" HEIGHT="78" WIDTH="161" VPOS="1866" HPOS="2073" WC="1"/>
+            <SP WIDTH="4" VPOS="1866" HPOS="2235"/>
+            <String CONTENT="k" HEIGHT="75" WIDTH="24" VPOS="1870" HPOS="2258" WC="1"/>
+            <SP WIDTH="4" VPOS="1870" HPOS="2282"/>
+            <String CONTENT="doplnění" HEIGHT="77" WIDTH="208" VPOS="1870" HPOS="2301" WC="1"/>
+            <SP WIDTH="4" VPOS="1870" HPOS="2509"/>
+            <String CONTENT="a" HEIGHT="75" WIDTH="23" VPOS="1872" HPOS="2523" WC="1"/>
+            <SP WIDTH="4" VPOS="1872" HPOS="2547"/>
+            <String CONTENT="k" HEIGHT="75" WIDTH="28" VPOS="1873" HPOS="2566" WC="1"/>
+            <SP WIDTH="4" VPOS="1873" HPOS="2594"/>
+            <String CONTENT="zakoupení" HEIGHT="75" WIDTH="251" VPOS="1873" HPOS="2613" WC="1"/>
+            <SP WIDTH="4" VPOS="1873" HPOS="2864"/>
+            <String CONTENT="knih" HEIGHT="75" WIDTH="105" VPOS="1872" HPOS="2891" WC="1"/>
+            <SP WIDTH="4" VPOS="1872" HPOS="2996"/>
+            <String CONTENT="pro" HEIGHT="75" WIDTH="81" VPOS="1871" HPOS="3019" WC="1"/>
+            <SP WIDTH="4" VPOS="1871" HPOS="3101"/>
+            <String CONTENT="mládež" HEIGHT="77" WIDTH="181" VPOS="1868" HPOS="3118" WC="1"/>
+            <SP WIDTH="4" VPOS="1868" HPOS="3299"/>
+            <String CONTENT="a" HEIGHT="75" WIDTH="30" VPOS="1867" HPOS="3321" WC="1"/>
+          </TextLine>
+          <TextLine ID="line_r003-l038" BASELINE="2004" VPOS="1938" HPOS="2071" HEIGHT="97" WIDTH="556">
+            <String CONTENT="potřebných" HEIGHT="88" WIDTH="287" VPOS="1939" HPOS="2076" WC="1"/>
+            <SP WIDTH="4" VPOS="1939" HPOS="2363"/>
+            <String CONTENT="pomůcek." HEIGHT="82" WIDTH="249" VPOS="1952" HPOS="2379" WC="1"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="block_r004" HEIGHT="298" WIDTH="1401" VPOS="2081" HPOS="2071">
+          <TextLine ID="line_r004-l040" BASELINE="2146" VPOS="2081" HPOS="2252" HEIGHT="92" WIDTH="1003">
+            <String CONTENT="Dne" HEIGHT="83" WIDTH="81" VPOS="2080" HPOS="2267" WC="1"/>
+            <SP WIDTH="4" VPOS="2080" HPOS="2349"/>
+            <String CONTENT="30." HEIGHT="82" WIDTH="76" VPOS="2083" HPOS="2364" WC="1"/>
+            <SP WIDTH="4" VPOS="2083" HPOS="2441"/>
+            <String CONTENT="června" HEIGHT="84" WIDTH="147" VPOS="2086" HPOS="2446" WC="1"/>
+            <SP WIDTH="4" VPOS="2086" HPOS="2594"/>
+            <String CONTENT="byl" HEIGHT="82" WIDTH="87" VPOS="2089" HPOS="2613" WC="1"/>
+            <SP WIDTH="4" VPOS="2089" HPOS="2701"/>
+            <String CONTENT="za" HEIGHT="81" WIDTH="51" VPOS="2091" HPOS="2705" WC="1"/>
+            <SP WIDTH="4" VPOS="2091" HPOS="2757"/>
+            <String CONTENT="přítomnosti" HEIGHT="82" WIDTH="296" VPOS="2092" HPOS="2761" WC="1"/>
+            <SP WIDTH="4" VPOS="2092" HPOS="3058"/>
+            <String CONTENT="rodičů" HEIGHT="81" WIDTH="165" VPOS="2092" HPOS="3071" WC="1"/>
+          </TextLine>
+          <TextLine ID="line_r004-l041" BASELINE="2222" VPOS="2158" HPOS="2071" HEIGHT="92" WIDTH="1096">
+            <String CONTENT="slavnostně" HEIGHT="87" WIDTH="255" VPOS="2160" HPOS="2075" WC="1"/>
+            <SP WIDTH="4" VPOS="2160" HPOS="2330"/>
+            <String CONTENT="ukončen" HEIGHT="82" WIDTH="188" VPOS="2167" HPOS="2345" WC="1"/>
+            <SP WIDTH="4" VPOS="2167" HPOS="2533"/>
+            <String CONTENT="školní" HEIGHT="80" WIDTH="157" VPOS="2170" HPOS="2553" WC="1"/>
+            <SP WIDTH="4" VPOS="2170" HPOS="2711"/>
+            <String CONTENT="rok" HEIGHT="81" WIDTH="92" VPOS="2169" HPOS="2725" WC="1"/>
+            <SP WIDTH="4" VPOS="2169" HPOS="2818"/>
+            <String CONTENT="1952-1953" HEIGHT="87" WIDTH="286" VPOS="2161" HPOS="2862" WC="1"/>
+          </TextLine>
+          <TextLine ID="line_r004-l042" BASELINE="2293" VPOS="2239" HPOS="2965" HEIGHT="81" WIDTH="507">
+            <String CONTENT="Mir." HEIGHT="75" WIDTH="137" VPOS="2244" HPOS="2983" WC="1.0"/>
+            <SP WIDTH="4" VPOS="2244" HPOS="3120"/>
+            <String CONTENT="Bučková," HEIGHT="76" WIDTH="247" VPOS="2239" HPOS="3128" WC="1.0"/>
+            <SP WIDTH="4" VPOS="2239" HPOS="3376"/>
+            <String CONTENT="oši," HEIGHT="73" WIDTH="92" VPOS="2238" HPOS="3379" WC="0.97"/>
+          </TextLine>
+          <TextLine ID="line_r004-l043" BASELINE="2356" VPOS="2305" HPOS="3050" HEIGHT="74" WIDTH="261">
+            <String CONTENT="4." HEIGHT="71" WIDTH="54" VPOS="2304" HPOS="3054" WC="1.0"/>
+            <SP WIDTH="4" VPOS="2304" HPOS="3108"/>
+            <String CONTENT="5." HEIGHT="70" WIDTH="54" VPOS="2305" HPOS="3112" WC="1.0"/>
+            <SP WIDTH="4" VPOS="2305" HPOS="3167"/>
+            <String CONTENT="1954." HEIGHT="72" WIDTH="140" VPOS="2306" HPOS="3171" WC="1.0"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="block_r005" HEIGHT="168" WIDTH="1227" VPOS="366" HPOS="2108">
+          <TextLine ID="line_r005-l001" BASELINE="424" VPOS="366" HPOS="2108" HEIGHT="85" WIDTH="1215">
+            <String CONTENT="Vládní" HEIGHT="81" WIDTH="168" VPOS="369" HPOS="2112" WC="1"/>
+            <SP WIDTH="4" VPOS="369" HPOS="2280"/>
+            <String CONTENT="nařízení" HEIGHT="81" WIDTH="229" VPOS="369" HPOS="2295" WC="1"/>
+            <SP WIDTH="4" VPOS="369" HPOS="2524"/>
+            <String CONTENT="ze" HEIGHT="81" WIDTH="51" VPOS="369" HPOS="2539" WC="1"/>
+            <SP WIDTH="4" VPOS="369" HPOS="2591"/>
+            <String CONTENT="dne" HEIGHT="81" WIDTH="91" VPOS="368" HPOS="2606" WC="1"/>
+            <SP WIDTH="4" VPOS="368" HPOS="2697"/>
+            <String CONTENT="7." HEIGHT="81" WIDTH="40" VPOS="368" HPOS="2712" WC="1"/>
+            <SP WIDTH="4" VPOS="368" HPOS="2753"/>
+            <String CONTENT="května" HEIGHT="81" WIDTH="167" VPOS="367" HPOS="2753" WC="1"/>
+            <SP WIDTH="4" VPOS="367" HPOS="2921"/>
+            <String CONTENT="1953" HEIGHT="81" WIDTH="101" VPOS="366" HPOS="2941" WC="1"/>
+            <SP WIDTH="4" VPOS="366" HPOS="3043"/>
+            <String CONTENT="opřeměně" HEIGHT="82" WIDTH="239" VPOS="364" HPOS="3063" WC="1"/>
+          </TextLine>
+          <TextLine ID="line_r005-l003" BASELINE="504" VPOS="440" HPOS="2108" HEIGHT="94" WIDTH="1227">
+            <String CONTENT="dosavadních" HEIGHT="81" WIDTH="322" VPOS="450" HPOS="2110" WC="1"/>
+            <SP WIDTH="4" VPOS="450" HPOS="2433"/>
+            <String CONTENT="škol" HEIGHT="77" WIDTH="103" VPOS="454" HPOS="2446" WC="1"/>
+            <SP WIDTH="4" VPOS="454" HPOS="2549"/>
+            <String CONTENT="na" HEIGHT="77" WIDTH="58" VPOS="454" HPOS="2553" WC="1"/>
+            <SP WIDTH="4" VPOS="454" HPOS="2612"/>
+            <String CONTENT="školy" HEIGHT="78" WIDTH="107" VPOS="453" HPOS="2626" WC="1"/>
+            <SP WIDTH="4" VPOS="453" HPOS="2733"/>
+            <String CONTENT="podle" HEIGHT="79" WIDTH="131" VPOS="451" HPOS="2738" WC="1"/>
+            <SP WIDTH="4" VPOS="451" HPOS="2869"/>
+            <String CONTENT="nového" HEIGHT="80" WIDTH="160" VPOS="447" HPOS="2879" WC="1"/>
+            <SP WIDTH="4" VPOS="447" HPOS="3039"/>
+            <String CONTENT="škol." HEIGHT="80" WIDTH="113" VPOS="443" HPOS="3048" WC="1"/>
+            <SP WIDTH="4" VPOS="443" HPOS="3161"/>
+            <String CONTENT="zákona." HEIGHT="83" WIDTH="176" VPOS="436" HPOS="3159" WC="1"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock ID="block_r006" HEIGHT="100" WIDTH="1019" VPOS="1170" HPOS="2264">
+          <TextLine ID="line_r006-l021" BASELINE="1240" VPOS="1170" HPOS="2264" HEIGHT="100" WIDTH="1019">
+            <String CONTENT="Zdraveň" HEIGHT="92" WIDTH="177" VPOS="1170" HPOS="2264" WC="0.99"/>
+            <SP WIDTH="4" VPOS="1170" HPOS="2442"/>
+            <String CONTENT="budou" HEIGHT="90" WIDTH="149" VPOS="1175" HPOS="2447" WC="1.0"/>
+            <SP WIDTH="4" VPOS="1175" HPOS="2597"/>
+            <String CONTENT="vydány" HEIGHT="90" WIDTH="183" VPOS="1179" HPOS="2607" WC="1.0"/>
+            <SP WIDTH="4" VPOS="1179" HPOS="2791"/>
+            <String CONTENT="nové" HEIGHT="88" WIDTH="112" VPOS="1181" HPOS="2806" WC="1.0"/>
+            <SP WIDTH="4" VPOS="1181" HPOS="2918"/>
+            <String CONTENT="učební" HEIGHT="87" WIDTH="157" VPOS="1182" HPOS="2922" WC="1.0"/>
+            <SP WIDTH="4" VPOS="1182" HPOS="3079"/>
+            <String CONTENT="osnovy." HEIGHT="89" WIDTH="196" VPOS="1181" HPOS="3088" WC="1.0"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

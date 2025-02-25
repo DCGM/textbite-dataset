@@ -1,0 +1,332 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2025-02-20T22:03:35.315253+00:00</Created>
+    <LastChange>2025-02-20T22:03:35.315253+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="ac84553d7dad40ac841c6ca472588362-img_0083" imageWidth="3780" imageHeight="2560">
+    <TextRegion id="r000" custom="{&quot;category&quot;: &quot;text&quot;}">
+      <Coords points="538,1282 549,1364 539,1745 547,1890 542,2039 1536,2059 1705,1974 1858,1978 1856,1825 1823,1604 1823,1532 1875,1372 1875,1293 1855,1149 1855,1075 1811,988 1770,860 1762,704 1714,618 668,614 566,684 546,983 538,1282"/>
+      <TextLine id="r000-l006" index="0" custom="{&quot;heights&quot;: [53.8, 23.2], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="668,614 668,691 789,691 901,691 1018,691 1131,691 1247,691 1359,691 1477,695 1589,695 1714,695 1714,618 1589,618 1477,618 1447,617 668,614"/>
+        <Baseline points="668,668 789,668 901,668 1018,668 1131,668 1247,668 1360,668 1477,672 1589,672 1714,672"/>
+        <TextEquiv conf="0.960">
+          <Unicode>21. března 1953 ve Vladislavském sále na hradě</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l008" index="1" custom="{&quot;heights&quot;: [52.3, 23.7], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1621,704 1490,700 1360,700 1227,700 1094,700 967,696 834,692 700,692 566,684 562,760 700,768 832,768 965,772 1094,776 1227,776 1360,776 1488,776 1621,780 1762,780 1762,704 1621,704"/>
+        <Baseline points="563,736 700,744 833,744 966,748 1094,752 1227,752 1360,752 1489,752 1621,756 1762,756"/>
+        <TextEquiv conf="0.979">
+          <Unicode>pražském byl zvolen pres. republiky Československé s.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l010" index="2" custom="{&quot;heights&quot;: [52.2, 22.9], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1766,785 1625,785 1493,785 1360,785 1229,781 1094,781 962,781 830,777 696,777 561,769 555,844 696,852 828,852 962,856 1094,856 1226,856 1360,860 1493,860 1625,860 1770,860 1766,785"/>
+        <Baseline points="557,821 696,829 829,829 962,833 1094,833 1227,833 1360,837 1493,837 1625,837 1769,837"/>
+        <TextEquiv conf="0.968">
+          <Unicode>Antonín Zápotocký, nejbližší spolupracovník velikého</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l012" index="3" custom="{&quot;heights&quot;: [51.7, 22.6], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="551,907 551,920 683,924 813,928 941,928 1070,932 1195,932 1324,932 1452,928 1581,928 1718,928 1718,854 1581,854 1452,854 1322,858 1195,858 1070,858 943,854 813,854 686,850 555,846 551,907"/>
+        <Baseline points="552,897 684,901 813,905 942,905 1070,909 1195,909 1324,909 1452,905 1581,905 1718,905"/>
+        <TextEquiv conf="0.967">
+          <Unicode>vůdce a učitele našeho lidu soudruha Klementa</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l014" index="4" custom="{&quot;heights&quot;: [50.3, 21.8], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="602,987 656,992 704,992 755,991 815,995 820,924 760,920 704,919 656,919 607,916 551,911 546,983 602,987"/>
+        <Baseline points="547,962 604,966 656,970 704,970 756,970 817,974"/>
+        <TextEquiv conf="0.899">
+          <Unicode>Gottwalda.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l016" index="5" custom="{&quot;heights&quot;: [53.7, 23.6], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1674,988 1547,992 1424,992 1300,992 1171,992 1046,992 921,992 800,984 666,980 663,1058 795,1062 921,1070 1046,1070 1171,1070 1300,1070 1424,1070 1550,1070 1674,1066 1811,1066 1811,988 1674,988"/>
+        <Baseline points="664,1034 797,1038 921,1046 1046,1046 1171,1046 1300,1046 1424,1046 1549,1046 1674,1042 1811,1042"/>
+        <TextEquiv conf="0.840">
+          <Unicode>Z vůle našeho lidu stává se nejvyšším hospodářem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l018" index="6" custom="{&quot;heights&quot;: [52.0, 22.8], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1855,1075 1702,1075 1556,1079 1412,1079 1267,1079 1127,1079 982,1079 840,1071 695,1063 546,1055 542,1129 691,1137 836,1145 982,1153 1127,1153 1267,1153 1412,1153 1558,1153 1702,1149 1855,1149 1855,1075"/>
+        <Baseline points="543,1106 692,1115 837,1123 982,1131 1127,1131 1267,1131 1412,1131 1557,1131 1702,1127 1855,1127"/>
+        <TextEquiv conf="0.622">
+          <Unicode>naši lidové demokratické republiky, aby dále vedl drahou</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l020" index="7" custom="{&quot;heights&quot;: [51.8, 23.0], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="539,1210 687,1214 828,1218 974,1222 1115,1222 1255,1222 1400,1222 1541,1222 1682,1222 1835,1222 1835,1147 1682,1147 1541,1147 1400,1147 1255,1147 1115,1147 974,1147 830,1143 689,1139 542,1135 539,1210"/>
+        <Baseline points="540,1187 688,1191 829,1195 974,1199 1115,1199 1255,1199 1400,1199 1541,1199 1682,1199 1835,1199"/>
+        <TextEquiv conf="0.596">
+          <Unicode>Vlast K rozkvétu - v duchu odkazu nejvyššího jejího syna</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l022" index="8" custom="{&quot;heights&quot;: [51.9, 22.7], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="594,1286 644,1290 690,1290 740,1294 789,1294 835,1294 885,1298 933,1298 994,1298 994,1224 933,1224 885,1224 841,1220 789,1220 740,1220 696,1216 644,1216 600,1212 543,1208 538,1282 594,1286"/>
+        <Baseline points="539,1259 595,1263 644,1267 692,1267 740,1271 789,1271 837,1271 885,1275 933,1275 994,1275"/>
+        <TextEquiv conf="0.991">
+          <Unicode>Klementa Gottwalda.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l023" index="9" custom="{&quot;heights&quot;: [54.7, 24.3], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1875,1293 1730,1293 1596,1297 1463,1301 1332,1301 1201,1297 1066,1297 935,1293 802,1289 661,1285 659,1364 800,1368 933,1372 1066,1376 1198,1376 1332,1380 1465,1380 1598,1376 1730,1372 1875,1372 1875,1293"/>
+        <Baseline points="660,1340 801,1344 933,1348 1066,1352 1199,1352 1332,1356 1465,1356 1597,1352 1730,1348 1875,1348"/>
+        <TextEquiv conf="0.962">
+          <Unicode>Antonín Zápotocký se narodil 19. prosince 1884 v Záko-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l024" index="10" custom="{&quot;heights&quot;: [52.0, 23.0], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="547,1439 691,1443 832,1447 969,1451 1110,1455 1247,1459 1388,1459 1525,1459 1666,1459 1815,1459 1815,1384 1666,1384 1525,1384 1388,1384 1247,1384 1112,1380 971,1376 834,1372 694,1368 549,1364 547,1439"/>
+        <Baseline points="547,1416 692,1420 833,1424 970,1428 1110,1432 1247,1436 1388,1436 1525,1436 1666,1436 1815,1436"/>
+        <TextEquiv conf="0.262">
+          <Unicode>lanech pod Buděj na Kladensku. Jeho otec byl jedním</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l025" index="11" custom="{&quot;heights&quot;: [51.4, 22.8], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="551,1519 691,1524 825,1528 961,1528 1094,1532 1228,1536 1364,1532 1497,1532 1630,1528 1774,1528 1774,1453 1630,1453 1495,1457 1364,1457 1226,1461 1096,1457 963,1453 825,1453 694,1449 553,1445 551,1519"/>
+        <Baseline points="551,1497 692,1501 825,1505 962,1505 1094,1509 1227,1513 1364,1509 1497,1509 1630,1505 1774,1505"/>
+        <TextEquiv conf="0.921">
+          <Unicode>z prvních průkopníků socialismu u nás. Zakladatel</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l027" index="12" custom="{&quot;heights&quot;: [49.5, 22.4], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1823,1532 1674,1532 1532,1536 1391,1540 1251,1540 1110,1540 971,1536 830,1532 689,1528 545,1524 543,1596 687,1600 828,1604 969,1608 1110,1612 1251,1612 1393,1612 1534,1608 1674,1604 1823,1604 1823,1532"/>
+        <Baseline points="543,1573 688,1577 829,1581 970,1585 1110,1589 1251,1589 1392,1589 1533,1585 1674,1581 1823,1581"/>
+        <TextEquiv conf="0.952">
+          <Unicode>sociálně demokratické strany, socialistický novinář,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l029" index="13" custom="{&quot;heights&quot;: [48.3, 21.9], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="543,1664 688,1668 824,1668 965,1672 1102,1676 1239,1676 1380,1680 1517,1680 1654,1680 1803,1680 1803,1609 1654,1609 1517,1609 1380,1609 1241,1605 1102,1605 967,1601 826,1597 688,1597 545,1593 543,1664"/>
+        <Baseline points="543,1642 688,1646 825,1646 966,1650 1102,1654 1239,1654 1380,1658 1517,1658 1654,1658 1803,1658"/>
+        <TextEquiv conf="0.986">
+          <Unicode>agitátor a revolucionář. President republiky soudruh</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l031" index="14" custom="{&quot;heights&quot;: [48.8, 22.7], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="683,1749 825,1753 962,1753 1102,1753 1240,1757 1381,1753 1517,1749 1658,1749 1807,1745 1805,1673 1656,1677 1517,1677 1379,1681 1238,1685 1104,1681 962,1681 825,1681 685,1677 541,1673 539,1745 683,1749"/>
+        <Baseline points="539,1722 684,1726 825,1730 962,1730 1102,1730 1239,1734 1380,1730 1517,1726 1658,1726 1807,1722"/>
+        <TextEquiv conf="0.948">
+          <Unicode>Antonín Zápotocký věren velikému odkazu soudruha</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l033" index="15" custom="{&quot;heights&quot;: [48.7, 22.0], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="543,1816 692,1821 832,1820 978,1825 1119,1825 1263,1825 1405,1825 1550,1820 1690,1816 1843,1812 1841,1742 1689,1746 1548,1750 1403,1754 1263,1754 1119,1754 978,1754 834,1750 692,1750 544,1746 543,1816"/>
+        <Baseline points="543,1794 692,1799 833,1799 978,1803 1119,1803 1263,1803 1404,1803 1549,1799 1690,1794 1843,1790"/>
+        <TextEquiv conf="0.494">
+          <Unicode>Klementa Gottwalda, povede vpřed pod vítězným pra-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l035" index="16" custom="{&quot;heights&quot;: [49.8, 22.7], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1703,1821 1556,1825 1416,1825 1271,1825 1127,1825 986,1825 842,1821 696,1821 549,1817 547,1890 696,1894 840,1894 986,1898 1127,1898 1271,1898 1416,1898 1558,1898 1701,1894 1854,1898 1856,1825 1703,1821"/>
+        <Baseline points="547,1867 696,1871 841,1871 986,1875 1127,1875 1271,1875 1416,1875 1557,1875 1702,1871 1855,1875"/>
+        <TextEquiv conf="0.873">
+          <Unicode>porem Lenina a Stalina naši Československou údernou</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l037" index="17" custom="{&quot;heights&quot;: [49.7, 22.5], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1858,1978 1857,1906 1707,1902 1561,1902 1415,1906 1273,1902 1131,1902 987,1898 841,1898 696,1898 549,1894 547,1966 696,1970 841,1970 985,1970 1131,1974 1271,1974 1417,1978 1561,1974 1705,1974 1858,1978"/>
+        <Baseline points="547,1943 696,1947 841,1947 986,1947 1131,1951 1271,1951 1416,1955 1561,1951 1706,1951 1858,1955"/>
+        <TextEquiv conf="0.874">
+          <Unicode>brigádu za splnění životního cíle soudruha Gottwalda,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l039" index="18" custom="{&quot;heights&quot;: [50.4, 23.3], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="940,2047 985,2047 1040,2049 1139,2051 1202,2051 1280,2054 1338,2055 1419,2055 1536,2059 1539,1986 1422,1982 1312,1981 1205,1977 1094,1977 988,1973 877,1973 768,1973 662,1969 545,1965 542,2039 940,2047"/>
+        <Baseline points="543,2016 660,2020 768,2024 877,2024 986,2024 1094,2028 1203,2028 1312,2032 1420,2032 1537,2036"/>
+        <TextEquiv conf="0.841">
+          <Unicode>za vybudování socialismu v naší vlasti.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001" custom="{&quot;category&quot;: &quot;text&quot;}">
+      <Coords points="779,389 664,389 664,465 799,537 1392,549 1529,469 1646,469 1646,393 779,389"/>
+      <TextLine id="r001-l002" index="0" custom="{&quot;heights&quot;: [53.7, 22.2], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="664,389 664,465 776,465 886,469 994,465 1098,465 1207,465 1316,465 1419,465 1529,469 1646,469 1646,393 1529,393 1513,392 969,390 883,393 779,389 664,389"/>
+        <Baseline points="664,443 777,443 885,447 994,443 1098,443 1207,443 1316,443 1420,443 1529,447 1646,447"/>
+        <TextEquiv conf="0.707">
+          <Unicode>21. III. 1953 volba pres. republiky soudruha</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r001-l004" index="1" custom="{&quot;heights&quot;: [52.1, 22.1], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="996,541 996,541 997,541 1392,549 1392,475 1320,475 1255,475 1194,471 1127,471 1062,471 1001,467 933,467 869,467 804,463 799,537 996,541"/>
+        <Baseline points="801,515 869,519 933,519 998,519 1062,523 1127,523 1191,523 1255,527 1320,527 1392,527"/>
+        <TextEquiv conf="0.997">
+          <Unicode>Antonína Zápotockého.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002" custom="{&quot;category&quot;: &quot;text&quot;}">
+      <Coords points="2058,1187 2213,1195 2370,1126 3436,1118 3441,795 3436,588 2543,592 2287,584 2071,661 2059,893 2065,968 2058,1187"/>
+      <TextLine id="r002-l005" index="0" custom="{&quot;heights&quot;: [55.6, 24.4], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="3277,589 3173,592 3050,592 2986,590 2838,591 2795,592 2672,592 2543,592 2287,584 2285,664 2417,668 2543,672 2672,672 2797,672 2920,668 3050,672 3175,672 3299,668 3436,668 3436,588 3277,589"/>
+        <Baseline points="2285,640 2418,644 2543,648 2672,648 2796,648 2921,644 3050,648 3175,648 3299,644 3436,644"/>
+        <TextEquiv conf="0.985">
+          <Unicode>Vláda republiky Československé nařizuje podle</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l007" index="1" custom="{&quot;heights&quot;: [51.0, 22.7], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2067,735 2224,743 2374,747 2523,747 2672,747 2820,747 2970,747 3119,743 3268,735 3429,731 3427,657 3266,661 3115,669 2968,673 2820,673 2672,673 2523,673 2374,673 2226,669 2071,661 2067,735"/>
+        <Baseline points="2068,712 2225,720 2374,724 2523,724 2672,724 2820,724 2969,724 3118,720 3267,712 3428,708"/>
+        <TextEquiv conf="0.827">
+          <Unicode>§ 17 zákona čís. 31/1953 oškolské soustavě a vzdělávání</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l009" index="2" custom="{&quot;heights&quot;: [49.8, 22.9], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2064,802 2063,816 2221,820 2374,820 2523,820 2676,816 2825,812 2978,812 3127,807 3280,803 3441,795 3438,723 3277,731 3125,735 2976,739 2825,739 2674,743 2521,747 2374,747 2221,747 2067,743 2064,802"/>
+        <Baseline points="2064,793 2221,797 2374,797 2523,797 2676,793 2825,789 2977,789 3126,785 3279,781 3440,773"/>
+        <TextEquiv conf="0.982">
+          <Unicode>učitelů. Dosavadní školy národní, školy střední a gymná-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l011" index="3" custom="{&quot;heights&quot;: [51.4, 23.9], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2059,893 2209,897 2349,897 2491,901 2632,897 2777,893 2918,889 3058,881 3199,881 3352,877 3350,802 3197,806 3058,806 2914,814 2775,818 2630,822 2489,826 2351,822 2209,822 2063,818 2059,893"/>
+        <Baseline points="2061,869 2209,873 2350,873 2491,877 2631,873 2776,869 2917,865 3058,857 3199,857 3352,853"/>
+        <TextEquiv conf="0.839">
+          <Unicode>sia se přemění počátkem školního roku 1953-1954 na</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l013" index="4" custom="{&quot;heights&quot;: [51.4, 22.8], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2067,964 2216,972 2362,976 2507,976 2652,972 2796,968 2941,968 3086,968 3232,968 3385,960 3381,886 3228,894 3086,894 2941,894 2796,894 2650,898 2505,902 2362,902 2218,898 2071,890 2067,964"/>
+        <Baseline points="2068,942 2217,950 2362,954 2507,954 2651,950 2796,946 2941,946 3086,946 3231,946 3384,937"/>
+        <TextEquiv conf="0.631">
+          <Unicode>všeobecně vzdělávací školy nové školské soustavy. Pro</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l015" index="5" custom="{&quot;heights&quot;: [50.3, 23.2], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2063,1041 2209,1045 2350,1045 2491,1045 2627,1045 2768,1045 2909,1045 3046,1045 3187,1045 3335,1045 3335,972 3187,972 3046,972 2909,972 2768,972 2627,972 2491,972 2350,972 2209,972 2065,968 2063,1041"/>
+        <Baseline points="2064,1018 2209,1022 2350,1022 2491,1022 2627,1022 2768,1022 2909,1022 3046,1022 3187,1022 3335,1022"/>
+        <TextEquiv conf="0.864">
+          <Unicode>Školní rok 1953-1954 bude podle potřeby ponechán II.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l017" index="6" custom="{&quot;heights&quot;: [53.1, 23.6], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2582,1124 2672,1122 2825,1122 2973,1118 3126,1118 3275,1118 3436,1118 3436,1041 3275,1041 3126,1041 2973,1041 2823,1045 2672,1045 2521,1049 2370,1049 2221,1049 2067,1041 2063,1118 2221,1126 2370,1126 2582,1124"/>
+        <Baseline points="2064,1094 2221,1102 2370,1102 2523,1102 2672,1098 2825,1098 2973,1094 3126,1094 3275,1094 3436,1094"/>
+        <TextEquiv conf="0.991">
+          <Unicode>postupný ročník dosavadní střední školy jako jednoroční</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r002-l019" index="7" custom="{&quot;heights&quot;: [50.6, 19.9], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2213,1195 2213,1124 2136,1124 2065,1116 2058,1187 2213,1195"/>
+        <Baseline points="2060,1167 2136,1175 2213,1175"/>
+        <TextEquiv conf="0.606">
+          <Unicode>Kurs.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003" custom="{&quot;category&quot;: &quot;text&quot;}">
+      <Coords points="2070,1866 2071,2014 2627,2035 2784,1949 3206,1941 3359,1945 3411,1805 3413,1729 3340,1557 3338,1478 2972,1490 2499,1490 2259,1482 2082,1560 2072,1650 2070,1866"/>
+      <TextLine id="r003-l026" index="0" custom="{&quot;heights&quot;: [54.7, 24.0], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="3338,1478 2972,1490 2499,1490 2259,1482 2256,1561 2381,1565 2499,1569 2619,1569 2736,1569 2857,1569 2974,1569 3095,1565 3212,1561 3340,1557 3338,1478"/>
+        <Baseline points="2257,1537 2382,1541 2499,1545 2619,1545 2736,1545 2857,1545 2973,1545 3094,1541 3211,1537 3340,1533"/>
+        <TextEquiv conf="0.712">
+          <Unicode>Dne 28. 6. 1953. byl zdejší školou a RSAPŠ pod</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l028" index="1" custom="{&quot;heights&quot;: [53.4, 23.8], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2079,1637 2225,1641 2362,1641 2498,1641 2635,1645 2776,1645 2913,1645 3051,1645 3187,1641 3335,1641 3335,1564 3187,1564 3048,1568 2913,1568 2776,1568 2635,1568 2500,1564 2362,1564 2225,1564 2082,1560 2079,1637"/>
+        <Baseline points="2080,1613 2225,1617 2362,1617 2499,1617 2635,1621 2776,1621 2913,1621 3050,1621 3187,1617 3335,1617"/>
+        <TextEquiv conf="0.985">
+          <Unicode>záštitou NF uspořádán „Dětský den“ s velmi pěkným</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l030" index="2" custom="{&quot;heights&quot;: [52.3, 22.2], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2072,1724 2139,1724 2201,1728 2265,1728 2326,1728 2391,1728 2450,1724 2513,1724 2575,1728 2647,1728 2647,1654 2575,1654 2518,1650 2450,1650 2386,1654 2326,1654 2265,1654 2201,1654 2144,1650 2072,1650 2072,1724"/>
+        <Baseline points="2072,1702 2141,1702 2201,1706 2265,1706 2326,1706 2390,1706 2450,1702 2515,1702 2575,1706 2647,1706"/>
+        <TextEquiv conf="0.994">
+          <Unicode>a hodnotným pořadem.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l032" index="3" custom="{&quot;heights&quot;: [53.0, 22.8], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="3413,1729 3277,1725 3146,1725 3022,1725 2895,1721 2764,1721 2639,1721 2512,1717 2382,1717 2249,1717 2249,1793 2382,1793 2510,1793 2639,1797 2764,1797 2892,1797 3022,1801 3146,1801 3274,1801 3411,1805 3413,1729"/>
+        <Baseline points="2249,1770 2382,1770 2511,1770 2639,1774 2764,1774 2893,1774 3022,1778 3146,1778 3275,1778 3412,1782"/>
+        <TextEquiv conf="0.811">
+          <Unicode>Čistý výnos byl poměrně podle poču žáků rozdělen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l034" index="4" custom="{&quot;heights&quot;: [52.0, 22.1], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2071,1861 2212,1865 2345,1869 2483,1873 2615,1873 2752,1873 2886,1873 3022,1869 3154,1865 3299,1869 3301,1795 3156,1791 3020,1795 2883,1799 2752,1799 2615,1799 2483,1799 2347,1795 2215,1791 2074,1787 2071,1861"/>
+        <Baseline points="2072,1839 2213,1843 2346,1847 2483,1851 2615,1851 2752,1851 2885,1851 3022,1847 3154,1843 3299,1847"/>
+        <TextEquiv conf="0.993">
+          <Unicode>mezi mateřskou a národní školu. Čistý výnos bude</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l036" index="5" custom="{&quot;heights&quot;: [52.9, 22.2], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2070,1941 2217,1945 2357,1945 2499,1949 2639,1949 2784,1949 3206,1941 3359,1945 3361,1870 3208,1866 3064,1870 2924,1874 2784,1874 2639,1874 2499,1874 2359,1870 2217,1870 2070,1866 2070,1941"/>
+        <Baseline points="2070,1919 2217,1923 2358,1923 2499,1927 2639,1927 2784,1927 2925,1927 3066,1923 3207,1919 3360,1923"/>
+        <TextEquiv conf="0.898">
+          <Unicode>sloužit k doplnění a k zakoupení knih pro mládež a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l038" index="6" custom="{&quot;heights&quot;: [53.3, 22.9], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2627,2035 2627,1958 2559,1958 2502,1955 2438,1954 2381,1951 2318,1950 2261,1947 2197,1946 2140,1943 2075,1938 2071,2014 2627,2035"/>
+        <Baseline points="2072,1992 2136,1996 2197,2000 2257,2000 2318,2004 2378,2004 2438,2008 2499,2008 2559,2012 2627,2012"/>
+        <TextEquiv conf="0.998">
+          <Unicode>potřebných pomůcek.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004" custom="{&quot;category&quot;: &quot;text&quot;}">
+      <Coords points="2076,2158 2071,2238 2318,2250 2797,2250 2965,2320 3050,2375 3311,2379 3408,2312 3472,2312 3472,2239 3408,2239 3255,2093 2696,2093 2255,2081 2076,2158"/>
+      <TextLine id="r004-l040" index="0" custom="{&quot;heights&quot;: [56.0, 24.7], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="3134,2093 3026,2093 2917,2093 2808,2093 2696,2093 2402,2085 2370,2085 2255,2081 2252,2161 2370,2165 2478,2165 2586,2169 2696,2173 2808,2173 2917,2173 3026,2173 3134,2173 3255,2173 3255,2093 3134,2093"/>
+        <Baseline points="2253,2136 2370,2141 2478,2141 2587,2145 2696,2149 2808,2149 2917,2149 3026,2149 3134,2149 3255,2149"/>
+        <TextEquiv conf="0.999">
+          <Unicode>Dne 30. června byl za přítomnosti rodičů</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l041" index="1" custom="{&quot;heights&quot;: [55.5, 25.0], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2071,2238 2318,2250 2797,2250 2917,2246 3039,2246 3167,2242 3165,2162 3036,2166 2917,2165 2794,2170 2676,2170 2559,2170 2438,2170 2318,2170 2199,2166 2076,2158 2071,2238"/>
+        <Baseline points="2072,2213 2197,2221 2318,2225 2438,2225 2559,2225 2676,2225 2796,2225 2917,2221 3038,2221 3167,2217"/>
+        <TextEquiv conf="0.501">
+          <Unicode>slavnostně ukončen školní rok 1952-1953</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l042" index="2" custom="{&quot;heights&quot;: [49.9, 22.4], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="3472,2312 3472,2239 3408,2239 3352,2239 3299,2239 3239,2244 3191,2244 3134,2244 3078,2248 3026,2248 2965,2248 2965,2320 3026,2320 3084,2320 3134,2316 3191,2316 3245,2316 3299,2312 3352,2312 3408,2312 3472,2312"/>
+        <Baseline points="2965,2297 3026,2297 3082,2297 3134,2293 3191,2293 3243,2293 3299,2289 3352,2289 3408,2289 3472,2289"/>
+        <TextEquiv conf="0.629">
+          <Unicode>Mir. Bučková, oši,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l043" index="3" custom="{&quot;heights&quot;: [49.1, 20.8], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="3311,2379 3311,2309 3251,2309 3203,2309 3159,2305 3106,2305 3050,2305 3050,2375 3106,2375 3153,2374 3178,2377 3311,2379"/>
+        <Baseline points="3050,2354 3106,2354 3154,2354 3203,2358 3251,2358 3311,2358"/>
+        <TextEquiv conf="0.967">
+          <Unicode>4. 5. 1954.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r005" custom="{&quot;category&quot;: &quot;text&quot;}">
+      <Coords points="2108,451 2108,526 2652,534 3335,518 3335,440 3323,366 2108,370 2108,451"/>
+      <TextLine id="r005-l001" index="0" custom="{&quot;heights&quot;: [56.3, 24.7], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2862,368 2779,370 2647,370 2515,370 2382,370 2249,370 2108,370 2108,451 2249,451 2382,451 2515,451 2647,451 2781,451 2913,447 3046,447 3179,447 3323,447 3323,366 2862,368"/>
+        <Baseline points="2108,426 2249,426 2382,426 2515,426 2647,426 2780,426 2913,422 3046,422 3179,422 3323,422"/>
+        <TextEquiv conf="0.529">
+          <Unicode>Vládní nařízení ze dne 7. května 1953 opřeměně</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l003" index="1" custom="{&quot;heights&quot;: [54.5, 22.6], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2652,534 2789,530 2922,526 3059,522 3191,518 3335,518 3335,440 3191,440 3056,444 2919,449 2787,453 2650,457 2519,457 2382,457 2251,453 2110,449 2108,526 2652,534"/>
+        <Baseline points="2108,503 2249,507 2382,511 2519,511 2651,511 2788,507 2921,503 3058,499 3191,495 3335,495"/>
+        <TextEquiv conf="0.988">
+          <Unicode>dosavadních škol na školy podle nového škol. zákona.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r006" custom="{&quot;category&quot;: &quot;text&quot;}">
+      <Coords points="2381,1262 2716,1270 3283,1270 3283,1182 2716,1182 2267,1170 2264,1258 2381,1262"/>
+      <TextLine id="r006-l021" index="0" custom="{&quot;heights&quot;: [60.8, 27.0], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2548,1266 2606,1266 2716,1270 2829,1270 2941,1270 3050,1270 3162,1270 3283,1270 3283,1182 3162,1182 3050,1182 2941,1182 2829,1182 2716,1182 2567,1178 2495,1178 2384,1174 2267,1170 2264,1258 2381,1262 2548,1266"/>
+        <Baseline points="2265,1231 2382,1235 2495,1239 2607,1239 2716,1243 2829,1243 2941,1243 3050,1243 3162,1243 3283,1243"/>
+        <TextEquiv conf="0.559">
+          <Unicode>Zdraveň budou vydány nové učební osnovy.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

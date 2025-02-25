@@ -1,0 +1,360 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>Pero OCR</Creator>
+    <Created>2025-02-20T19:43:48.972256+00:00</Created>
+    <LastChange>2025-02-20T19:43:48.972256+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="0C84C542965B4C0DBC0EC7079724867F-img_0007" imageWidth="2600" imageHeight="2000">
+    <TextRegion id="r000" custom="{&quot;category&quot;: &quot;text&quot;}">
+      <Coords points="428,755 391,755 391,830 403,865 409,959 406,1130 1170,1124 1278,1070 1276,807 1212,727 1212,681 1128,658 592,669 498,686 428,755"/>
+      <TextLine id="r000-l017" index="0" custom="{&quot;heights&quot;: [35.1, 13.9], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="592,669 595,718 657,715 716,715 773,715 834,715 890,712 949,712 1006,712 1067,712 1133,706 1128,658 1063,664 1006,663 949,663 890,663 831,666 773,666 729,666 592,669"/>
+        <Baseline points="594,704 657,702 716,702 773,702 833,702 890,699 949,699 1006,699 1066,699 1131,693"/>
+        <TextEquiv conf="0.769">
+          <Unicode>Obvod učitelek dom. nauk změněn</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l018" index="1" custom="{&quot;heights&quot;: [32.3, 13.7], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1212,681 1161,681 1114,684 1072,684 1027,684 985,684 940,684 896,684 849,687 803,687 803,733 852,733 896,730 940,730 985,730 1027,730 1072,730 1117,730 1161,727 1212,727 1212,681"/>
+        <Baseline points="803,719 851,719 896,716 940,716 985,716 1027,716 1072,716 1116,716 1161,713 1212,713"/>
+        <TextEquiv conf="0.152">
+          <Unicode>v icích pavlovicích a v Učicích.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l019" index="2" custom="{&quot;heights&quot;: [42.6, 17.1], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="503,745 545,742 579,739 614,739 654,742 687,736 731,736 731,677 687,677 644,683 618,680 579,680 540,683 498,686 503,745"/>
+        <Baseline points="502,728 543,725 579,722 615,722 651,725 687,719 731,719"/>
+        <TextEquiv conf="0.468">
+          <Unicode>Docházka do ulice</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l020" index="3" custom="{&quot;heights&quot;: [31.3, 13.0], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="670,759 710,756 746,756 782,756 818,756 854,756 890,756 925,756 961,756 1006,756 1006,712 961,712 925,712 890,712 854,712 818,712 782,712 746,712 710,712 666,715 670,759"/>
+        <Baseline points="669,746 710,743 746,743 782,743 818,743 854,743 890,743 925,743 961,743 1006,743"/>
+        <TextEquiv conf="0.980">
+          <Unicode>Kmenová škola Pavlovice</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l023" index="4" custom="{&quot;heights&quot;: [53.7, 20.6], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="391,755 391,830 435,829 469,827 507,827 543,827 581,827 618,824 654,824 690,824 734,824 734,749 690,749 654,749 618,749 575,752 543,752 507,752 469,752 428,755 391,755"/>
+        <Baseline points="391,809 433,809 469,806 507,806 543,806 579,806 618,803 654,803 690,803 734,803"/>
+        <TextEquiv conf="0.801">
+          <Unicode>s. Marie Křížová,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l025" index="5" custom="{&quot;heights&quot;: [40.6, 15.9], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1276,807 1201,810 1134,810 1066,810 997,810 927,813 860,813 791,813 722,813 648,813 648,870 722,870 791,870 860,870 929,870 997,867 1066,867 1134,867 1204,867 1276,864 1276,807"/>
+        <Baseline points="648,854 722,854 791,854 860,854 928,854 997,851 1066,851 1134,851 1203,851 1276,848"/>
+        <TextEquiv conf="0.972">
+          <Unicode>zatimní učitelka, působila na škole od</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l027" index="6" custom="{&quot;heights&quot;: [42.6, 17.0], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="407,924 481,924 552,924 625,924 696,921 768,921 839,918 910,918 983,918 1063,915 1061,856 981,859 910,859 839,859 765,862 696,862 622,865 552,865 481,865 403,865 407,924"/>
+        <Baseline points="406,907 481,907 552,907 624,907 696,904 767,904 839,902 910,902 982,902 1063,899"/>
+        <TextEquiv conf="0.592">
+          <Unicode>1./2. 1926 do 30./6. 1926; rodačka z Kojetína.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l029" index="7" custom="{&quot;heights&quot;: [55.7, 22.0], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="409,1037 454,1037 494,1037 531,1034 570,1034 609,1034 648,1034 688,1034 725,1031 770,1031 770,953 725,953 682,956 648,956 609,956 570,956 531,956 488,959 454,959 409,959 409,1037"/>
+        <Baseline points="409,1015 454,1015 493,1015 531,1012 570,1012 609,1012 648,1012 687,1012 725,1009 770,1009"/>
+        <TextEquiv conf="0.665">
+          <Unicode>Anna Petrášová</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l031" index="8" custom="{&quot;heights&quot;: [39.6, 16.1], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1277,1014 1203,1014 1133,1017 1069,1017 1000,1017 934,1017 864,1020 800,1020 730,1023 660,1023 660,1079 732,1079 800,1076 866,1076 934,1073 1000,1073 1069,1073 1135,1073 1203,1070 1278,1070 1277,1014"/>
+        <Baseline points="660,1063 731,1063 800,1060 866,1060 934,1057 1000,1057 1069,1057 1134,1057 1203,1054 1278,1054"/>
+        <TextEquiv conf="0.946">
+          <Unicode>zatimní učit. dom. nauk, působila na</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r000-l033" index="9" custom="{&quot;heights&quot;: [40.4, 16.1], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="406,1130 735,1127 746,1127 788,1127 1056,1125 1081,1124 1170,1124 1170,1067 1081,1067 996,1070 913,1070 830,1070 746,1070 661,1073 579,1073 496,1073 407,1073 406,1130"/>
+        <Baseline points="406,1113 496,1113 579,1113 663,1113 746,1110 830,1110 913,1110 997,1110 1081,1107 1170,1107"/>
+        <TextEquiv conf="0.885">
+          <Unicode>škole od 1./9. 1926 do 30./6. 1930; rodačka z Ručovic.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r001" custom="{&quot;category&quot;: &quot;text&quot;}">
+      <Coords points="418,314 437,315 442,247 401,244 396,312 418,314"/>
+      <TextLine id="r001-l003" index="0" custom="{&quot;heights&quot;: [49.1, 19.8], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="437,315 442,247 401,244 396,312 418,314 437,315"/>
+        <Baseline points="397,293 439,296"/>
+        <TextEquiv conf="0.454">
+          <Unicode>65</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r002" custom="{&quot;category&quot;: &quot;text&quot;}">
+      <Coords points="404,522 761,516 761,438 399,445 404,522"/>
+      <TextLine id="r002-l010" index="0" custom="{&quot;heights&quot;: [57.1, 20.9], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="655,518 678,516 716,516 761,516 761,438 652,440 634,442 600,441 584,441 399,445 404,522 445,519 484,519 522,519 561,519 581,519 655,518"/>
+        <Baseline points="403,502 445,499 484,499 522,499 561,499 600,499 639,499 678,496 716,496 761,496"/>
+        <TextEquiv conf="0.516">
+          <Unicode>Marie Soholová,</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r003" custom="{&quot;category&quot;: &quot;text&quot;}">
+      <Coords points="440,246 437,315 418,314 403,359 403,412 1332,403 1337,299 930,305 833,242 440,246"/>
+      <TextLine id="r003-l004" index="0" custom="{&quot;heights&quot;: [53.9, 18.9], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="442,246 442,314 490,314 531,314 573,314 615,314 657,314 699,314 740,314 782,314 833,314 833,242 442,246"/>
+        <Baseline points="442,296 490,296 531,296 573,296 615,296 657,296 699,296 740,296 782,296 833,296"/>
+        <TextEquiv conf="0.942">
+          <Unicode>Ida Steinmajerová</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l006" index="1" custom="{&quot;heights&quot;: [38.0, 15.2], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1337,299 1193,301 1169,302 1134,302 930,305 851,305 770,305 688,308 606,308 606,361 690,361 770,358 851,358 932,358 1009,355 1090,355 1171,355 1251,353 1335,353 1337,299"/>
+        <Baseline points="606,346 690,346 770,343 851,343 931,343 1009,340 1090,340 1170,340 1251,337 1335,337"/>
+        <TextEquiv conf="0.513">
+          <Unicode>definit. učitelka působila na škole od 1./2. 1924 - 1925,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r003-l007" index="2" custom="{&quot;heights&quot;: [37.8, 15.3], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="403,412 1332,403 1330,350 1220,353 1118,356 1018,356 916,356 815,356 712,359 612,359 510,359 403,359 403,412"/>
+        <Baseline points="403,397 510,397 612,397 713,397 815,394 916,394 1018,394 1119,394 1221,391 1331,388"/>
+        <TextEquiv conf="0.921">
+          <Unicode>rodačka z Přerova, ustanovena na to v Rokytnici u Přerova.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r004" custom="{&quot;category&quot;: &quot;text&quot;}">
+      <Coords points="460,1681 406,1681 412,1855 1260,1843 1310,1789 1310,1733 1000,1736 869,1669 460,1681"/>
+      <TextLine id="r004-l042" index="0" custom="{&quot;heights&quot;: [53.2, 20.2], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="406,1681 409,1755 460,1755 512,1755 561,1752 612,1752 664,1752 715,1749 764,1746 816,1746 873,1743 869,1669 812,1672 768,1672 760,1672 710,1675 660,1678 612,1678 563,1678 560,1678 507,1681 460,1681 406,1681"/>
+        <Baseline points="408,1734 460,1734 510,1734 561,1731 612,1731 663,1731 713,1728 764,1725 815,1725 872,1722"/>
+        <TextEquiv conf="0.884">
+          <Unicode>12. Antonie Kousalová</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l043" index="1" custom="{&quot;heights&quot;: [39.9, 16.2], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1310,1733 1101,1735 1076,1736 1000,1736 925,1736 849,1739 773,1739 697,1742 618,1742 618,1798 699,1798 773,1795 851,1795 925,1792 1000,1792 1078,1792 1152,1789 1227,1789 1310,1789 1310,1733"/>
+        <Baseline points="618,1782 699,1782 773,1779 851,1779 925,1776 1000,1776 1078,1776 1152,1773 1227,1773 1310,1773"/>
+        <TextEquiv conf="0.985">
+          <Unicode>definitivní učitelka dom. nauk působila</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r004-l044" index="2" custom="{&quot;heights&quot;: [40.1, 16.6], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1080,1846 1158,1843 1260,1843 1260,1787 1158,1787 1064,1790 972,1793 881,1793 788,1793 696,1793 602,1796 510,1796 411,1799 412,1855 510,1852 604,1852 696,1849 788,1849 836,1849 1080,1846"/>
+        <Baseline points="412,1839 510,1836 603,1836 696,1833 788,1833 881,1833 973,1833 1066,1830 1158,1827 1260,1827"/>
+        <TextEquiv conf="0.701">
+          <Unicode>na škole od 1./9. 1931 — 30./6. 1933; rodačka z Kojetína.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r005" custom="{&quot;category&quot;: &quot;text&quot;}">
+      <Coords points="454,1473 406,1473 406,1551 418,1580 418,1646 1027,1637 1093,1584 1335,1581 1333,1523 857,1529 803,1467 454,1473"/>
+      <TextLine id="r005-l039" index="0" custom="{&quot;heights&quot;: [55.7, 22.2], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="406,1473 406,1551 454,1551 496,1551 540,1551 584,1551 624,1548 669,1548 712,1548 752,1545 803,1545 803,1467 735,1468 706,1470 669,1470 628,1470 622,1470 578,1473 540,1473 496,1473 454,1473 406,1473"/>
+        <Baseline points="406,1528 454,1528 496,1528 540,1528 582,1528 624,1525 669,1525 710,1525 752,1522 803,1522"/>
+        <TextEquiv conf="0.525">
+          <Unicode>„Marie Kralíková,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l040" index="1" custom="{&quot;heights&quot;: [41.2, 16.5], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1335,1581 1333,1523 1246,1526 1170,1526 1096,1526 973,1528 933,1529 857,1529 778,1532 702,1532 616,1535 619,1593 702,1590 780,1590 857,1587 935,1587 1015,1584 1093,1584 1335,1581"/>
+        <Baseline points="618,1576 702,1573 779,1573 857,1570 934,1570 1015,1567 1093,1567 1170,1567 1248,1567 1334,1564"/>
+        <TextEquiv conf="0.515">
+          <Unicode>výpom. učitelka dom. nauk, působila na škole</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r005-l041" index="2" custom="{&quot;heights&quot;: [46.5, 19.2], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="418,1646 819,1640 821,1640 824,1640 917,1639 952,1637 1027,1637 1027,1571 952,1571 884,1574 821,1574 753,1577 685,1580 621,1580 555,1580 490,1580 418,1580 418,1646"/>
+        <Baseline points="418,1627 490,1627 555,1627 621,1627 687,1627 755,1624 821,1621 887,1621 952,1618 1027,1618"/>
+        <TextEquiv conf="0.513">
+          <Unicode>od 1./11. 1930- 30/6. 1931, rodačka z Kelče.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r006" custom="{&quot;category&quot;: &quot;text&quot;}">
+      <Coords points="418,1340 416,1441 1087,1432 1194,1377 1272,1377 1272,1321 919,1324 845,1263 418,1266 418,1340"/>
+      <TextLine id="r006-l036" index="0" custom="{&quot;heights&quot;: [53.8, 20.6], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="681,1264 650,1266 606,1266 561,1266 513,1266 469,1266 418,1266 418,1340 469,1340 513,1340 561,1340 606,1340 655,1340 699,1337 746,1337 791,1337 845,1337 845,1263 681,1264"/>
+        <Baseline points="418,1319 469,1319 513,1319 561,1319 606,1319 654,1319 699,1316 746,1316 791,1316 845,1316"/>
+        <TextEquiv conf="0.449">
+          <Unicode>u. Marie Dragounová,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l037" index="1" custom="{&quot;heights&quot;: [39.9, 16.2], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1272,1377 1272,1321 1175,1322 1124,1324 1057,1324 988,1324 919,1324 849,1327 782,1327 713,1327 639,1327 639,1383 713,1383 782,1383 851,1383 919,1380 988,1380 1057,1380 1126,1380 1194,1377 1272,1377"/>
+        <Baseline points="639,1367 713,1367 782,1367 851,1367 919,1364 988,1364 1057,1364 1125,1364 1194,1361 1272,1361"/>
+        <TextEquiv conf="0.891">
+          <Unicode>definitivní učitelka, působila na škole</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r006-l038" index="2" custom="{&quot;heights&quot;: [42.4, 17.1], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="416,1441 493,1438 568,1438 639,1435 713,1435 786,1435 860,1432 931,1432 1006,1432 1087,1432 1087,1373 1006,1373 931,1373 860,1373 783,1376 713,1376 639,1376 565,1379 493,1379 417,1381 416,1441"/>
+        <Baseline points="416,1424 493,1421 567,1421 639,1418 713,1418 785,1418 860,1415 931,1415 1006,1415 1087,1415"/>
+        <TextEquiv conf="0.474">
+          <Unicode>od 1./9. 1930 - 31./10. 1930, rodačka z Kojetína.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r007" custom="{&quot;category&quot;: &quot;text&quot;}">
+      <Coords points="416,559 419,620 962,614 1009,562 1320,556 1318,499 761,505 761,516 605,519 540,555 416,559"/>
+      <TextLine id="r007-l012" index="0" custom="{&quot;heights&quot;: [41.4, 16.2], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1320,556 1318,499 1234,502 1160,505 1087,505 1009,505 934,505 860,505 782,505 761,505 761,516 626,519 627,565 707,562 782,562 860,562 934,562 1009,562 1320,556"/>
+        <Baseline points="627,549 707,546 782,546 860,546 934,546 1009,546 1087,546 1161,546 1236,543 1319,540"/>
+        <TextEquiv conf="0.789">
+          <Unicode>výpom. učitelka, působila na škole od 1./9. 1925-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r007-l014" index="1" custom="{&quot;heights&quot;: [44.5, 17.2], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="419,620 481,617 540,617 600,617 660,617 689,617 962,614 959,553 894,556 836,555 776,555 716,555 660,555 600,555 540,555 416,559 419,620"/>
+        <Baseline points="418,603 481,600 540,600 600,600 660,600 716,600 776,600 836,600 896,600 961,597"/>
+        <TextEquiv conf="0.459">
+          <Unicode>do 30./6. - 31./1. 1926, rodačka z Tučena.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r008" custom="{&quot;category&quot;: &quot;text&quot;}">
+      <Coords points="611,1171 543,1195 543,1253 1361,1250 1361,1192 1266,1192 1192,1165 611,1171"/>
+      <TextLine id="r008-l034" index="0" custom="{&quot;heights&quot;: [40.6, 16.7], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1121,1168 1060,1168 997,1168 930,1171 869,1171 806,1171 738,1174 678,1174 611,1171 608,1229 678,1232 741,1232 806,1229 869,1229 932,1229 997,1226 1060,1226 1123,1226 1195,1223 1192,1165 1121,1168"/>
+        <Baseline points="609,1212 678,1215 740,1215 806,1212 869,1212 931,1212 997,1209 1060,1209 1122,1209 1194,1206"/>
+        <TextEquiv conf="0.661">
+          <Unicode>Obvod učitelek dom. nauk změněn.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r008-l035" index="1" custom="{&quot;heights&quot;: [40.7, 16.9], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="543,1253 852,1252 907,1250 952,1251 1153,1251 1176,1250 1266,1250 1361,1250 1361,1192 1266,1192 1176,1192 1085,1195 997,1195 909,1192 817,1195 728,1195 639,1195 543,1195 543,1253"/>
+        <Baseline points="543,1236 639,1236 728,1236 818,1236 907,1233 997,1236 1087,1236 1176,1233 1266,1233 1361,1233"/>
+        <TextEquiv conf="0.314">
+          <Unicode>Docházka do škol v Nezamyslicích, v Hořicích, v Křeměřicích</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r009" custom="{&quot;category&quot;: &quot;text&quot;}">
+      <Coords points="1605,756 1602,810 1650,813 1653,759 1605,756"/>
+      <TextLine id="r009-l021" index="0" custom="{&quot;heights&quot;: [38.1, 15.7], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1602,810 1650,813 1653,759 1605,756 1602,810"/>
+        <Baseline points="1603,794 1651,797"/>
+        <TextEquiv conf="0.998">
+          <Unicode>15.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r010" custom="{&quot;category&quot;: &quot;text&quot;}">
+      <Coords points="1654,194 1603,194 1603,256 1636,299 1636,353 2093,344 2155,290 2454,287 2454,234 2155,237 2039,182 1654,194"/>
+      <TextLine id="r010-l001" index="0" custom="{&quot;heights&quot;: [45.0, 16.9], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1603,194 1603,256 1654,256 1702,256 1750,256 1798,253 1845,250 1894,250 1940,247 1989,247 2043,244 2039,182 1986,185 1944,185 1936,185 1890,188 1848,188 1842,188 1794,191 1746,194 1702,194 1654,194 1603,194"/>
+        <Baseline points="1603,239 1654,239 1702,239 1749,239 1797,236 1845,233 1893,233 1940,230 1988,230 2042,227"/>
+        <TextEquiv conf="0.804">
+          <Unicode>13. Julie Svazilová,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r010-l002" index="1" custom="{&quot;heights&quot;: [37.8, 15.1], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2348,288 2373,287 2454,287 2454,234 2347,235 2300,237 2230,237 2155,237 2082,240 2010,243 1936,246 1866,246 1787,249 1789,302 1866,299 1938,299 2013,296 2084,293 2155,290 2348,288"/>
+        <Baseline points="1788,287 1866,284 1937,284 2012,281 2084,278 2155,275 2230,275 2302,275 2373,272 2454,272"/>
+        <TextEquiv conf="0.617">
+          <Unicode>výpom. učitelka: dom. nouk připokila na-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r010-l005" index="2" custom="{&quot;heights&quot;: [38.6, 15.4], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1636,353 1717,351 1740,350 1788,350 1862,348 1887,347 1937,347 1940,347 2093,344 2091,290 2034,293 1985,293 1937,293 1887,293 1836,296 1788,296 1740,296 1687,299 1636,299 1636,353"/>
+        <Baseline points="1636,337 1690,337 1740,334 1788,334 1839,334 1887,331 1937,331 1985,331 2036,331 2093,328"/>
+        <TextEquiv conf="0.516">
+          <Unicode>škole od 1./9. 1933 - 3./8. 1937.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r011" custom="{&quot;category&quot;: &quot;text&quot;}">
+      <Coords points="1666,399 1609,399 1609,456 1648,555 1654,711 1997,708 2099,650 2457,644 2456,593 2478,490 2476,440 2164,446 2096,399 1666,399"/>
+      <TextLine id="r011-l008" index="0" custom="{&quot;heights&quot;: [39.7, 16.9], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1609,399 1609,456 1666,456 1720,456 1772,453 1824,456 1879,456 1931,453 1981,453 2036,456 2096,456 2096,399 2036,399 1877,399 1875,399 1824,399 1718,399 1717,399 1666,399 1609,399"/>
+        <Baseline points="1609,439 1666,439 1719,439 1773,436 1824,439 1878,439 1931,436 1982,436 2036,439 2096,439"/>
+        <TextEquiv conf="0.826">
+          <Unicode>14. Božena Obdržálková,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r011-l009" index="1" custom="{&quot;heights&quot;: [35.1, 15.5], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2476,440 2393,443 2315,446 2242,446 2164,446 2087,446 2011,449 1934,448 1857,448 1775,452 1777,502 1857,499 1934,499 2013,499 2087,496 2164,496 2242,496 2317,496 2395,493 2478,490 2476,440"/>
+        <Baseline points="1776,487 1857,484 1934,484 2012,484 2087,481 2164,481 2242,481 2316,481 2394,478 2478,475"/>
+        <TextEquiv conf="0.995">
+          <Unicode>uč. dom. nauk ustanovena na zdejší škole</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r011-l011" index="2" custom="{&quot;heights&quot;: [35.8, 14.9], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1734,555 1815,555 1899,552 1980,552 2060,549 2144,549 2224,546 2305,546 2395,543 2393,493 2303,496 2224,496 2142,499 2060,498 1978,502 1899,501 1814,504 1734,504 1648,504 1648,555 1734,555"/>
+        <Baseline points="1648,540 1734,540 1815,540 1899,537 1979,537 2060,534 2143,534 2224,531 2305,531 2394,528"/>
+        <TextEquiv conf="0.703">
+          <Unicode>od 1./9. 1937. Místo nenastoupila pro nemoc.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r011-l013" index="3" custom="{&quot;heights&quot;: [36.0, 14.6], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1651,609 1744,606 1830,603 1917,603 2003,600 2093,600 2180,600 2266,597 2352,597 2448,597 2448,546 2352,546 2266,546 2178,549 2093,549 2003,549 1915,552 1830,552 1742,555 1650,558 1651,609"/>
+        <Baseline points="1651,594 1743,591 1830,588 1916,588 2003,585 2093,585 2179,585 2266,582 2352,582 2448,582"/>
+        <TextEquiv conf="0.991">
+          <Unicode>Ruč. pr. dívč. vyučovaly po měsíc září, leden a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r011-l015" index="4" custom="{&quot;heights&quot;: [36.9, 14.6], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2457,644 2456,593 2360,596 2273,599 2188,599 2099,599 2012,599 1924,602 1836,602 1748,605 1656,608 1657,659 1750,656 1836,653 1926,653 2012,650 2099,650 2457,644"/>
+        <Baseline points="1657,645 1749,642 1836,639 1925,639 2012,636 2099,636 2188,636 2275,636 2361,633 2457,630"/>
+        <TextEquiv conf="0.901">
+          <Unicode>únor uč. L. Bartošková a R. Masná, po ostatní</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r011-l016" index="5" custom="{&quot;heights&quot;: [36.9, 15.0], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1742,710 1770,708 1806,708 1842,708 1881,708 1916,708 1952,708 1997,708 1997,656 1952,656 1916,656 1881,656 1842,656 1806,656 1770,656 1729,659 1696,659 1654,659 1654,711 1742,710"/>
+        <Baseline points="1654,696 1696,696 1731,696 1770,693 1806,693 1842,693 1881,693 1916,693 1952,693 1997,693"/>
+        <TextEquiv conf="0.986">
+          <Unicode>měsíce šk. r. 1937/38</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r012" custom="{&quot;category&quot;: &quot;text&quot;}">
+      <Coords points="1681,958 1624,1015 1624,1066 1690,1114 2176,1111 2302,1007 2487,1004 2485,949 1681,958"/>
+      <TextLine id="r012-l028" index="0" custom="{&quot;heights&quot;: [38.8, 15.7], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2487,1004 2485,949 2390,952 2302,952 2218,952 2213,952 2124,955 2039,955 1949,955 1949,955 1861,958 1773,958 1681,958 1681,1013 1773,1013 1863,1013 1949,1010 2039,1010 2126,1010 2215,1007 2302,1007 2487,1004"/>
+        <Baseline points="1681,997 1773,997 1863,997 1949,994 2039,994 2125,994 2215,991 2302,991 2391,991 2487,988"/>
+        <TextEquiv conf="0.944">
+          <Unicode>Obvod učitelek dom. nauk od šk. r. 1937/38 změněn</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l030" index="1" custom="{&quot;heights&quot;: [36.3, 14.8], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1624,1066 1696,1066 1765,1066 1830,1063 1899,1063 1964,1063 2034,1063 2099,1060 2167,1060 2238,1060 2242,1057 2242,1009 2167,1009 2099,1009 2031,1012 1964,1012 1899,1012 1830,1012 1763,1015 1696,1015 1624,1015 1624,1066"/>
+        <Baseline points="1624,1051 1696,1051 1764,1051 1830,1048 1899,1048 1964,1048 2033,1048 2099,1045 2167,1045 2242,1045"/>
+        <TextEquiv conf="0.911">
+          <Unicode>Nezamyslice - Mořice - Dřevnovice,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r012-l032" index="2" custom="{&quot;heights&quot;: [37.4, 15.8], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2109,1112 2116,1111 2176,1111 2176,1058 2116,1058 2061,1061 2012,1061 1958,1061 1905,1061 1854,1061 1800,1061 1746,1061 1690,1061 1690,1114 2109,1112"/>
+        <Baseline points="1690,1099 1746,1099 1800,1099 1854,1099 1905,1099 1958,1099 2012,1099 2063,1099 2116,1096 2176,1096"/>
+        <TextEquiv conf="0.995">
+          <Unicode>hlav. působiště Nezamyslice.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="r013" custom="{&quot;category&quot;: &quot;text&quot;}">
+      <Coords points="1660,814 1631,863 1634,913 2066,910 2182,858 2505,852 2503,797 2105,803 2012,754 1660,757 1660,814"/>
+      <TextLine id="r013-l022" index="0" custom="{&quot;heights&quot;: [39.8, 17.2], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1792,756 1776,757 1740,757 1702,757 1660,757 1660,814 1702,814 1740,814 1781,814 1815,811 1854,811 1893,811 1928,811 1967,811 2012,811 2012,754 1792,756"/>
+        <Baseline points="1660,797 1702,797 1740,797 1779,797 1815,794 1854,794 1893,794 1928,794 1967,794 2012,794"/>
+        <TextEquiv conf="0.995">
+          <Unicode>Anežka Rychlá</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r013-l024" index="1" custom="{&quot;heights&quot;: [38.5, 16.2], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="2505,852 2503,797 2417,800 2339,803 2263,803 2182,803 2105,803 2025,806 1946,806 1869,806 1785,806 1785,861 1869,861 1946,861 2028,861 2105,858 2182,858 2505,852"/>
+        <Baseline points="1785,845 1869,845 1946,845 2027,845 2105,842 2182,842 2263,842 2340,842 2418,839 2505,836"/>
+        <TextEquiv conf="0.605">
+          <Unicode>uč. dom. nauk působila na škole od 1/10 do</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r013-l026" index="2" custom="{&quot;heights&quot;: [35.4, 14.9], &quot;category&quot;: &quot;text&quot;}">
+        <Coords points="1634,913 1684,910 1731,910 1779,910 1824,910 1872,910 1919,910 1964,910 2012,910 2066,910 2066,860 2012,860 1964,860 1919,860 1872,860 1824,860 1779,860 1731,860 1684,860 1631,863 1634,913"/>
+        <Baseline points="1633,899 1684,896 1731,896 1779,896 1824,896 1872,896 1919,896 1964,896 2012,896 2066,896"/>
+        <TextEquiv conf="0.950">
+          <Unicode>31./12. 1937, od 1/3 1938 do</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
