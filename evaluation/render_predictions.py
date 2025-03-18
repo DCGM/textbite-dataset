@@ -5,7 +5,6 @@ import os
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
-import skimage.draw
 
 from common import get_hypothesis_segmentation
 
@@ -69,7 +68,7 @@ def process_file(
     ax[2].axis("off")
 
     # Plot prediction segmentation
-    hyp_segmentation = get_hypothesis_segmentation(reference.shape, hypothesis)# & reference
+    hyp_segmentation = get_hypothesis_segmentation(reference.shape, hypothesis)
     ax[3].imshow(hyp_segmentation, cmap=cmap)
     ax[3].set_title("Hypothesis segmentation")
     ax[3].axis("off")
@@ -98,7 +97,7 @@ def main():
         img_fn = hyp_fn.replace(".json", ".jpg")
         img_path = os.path.join(args.img_dir, img_fn)
 
-        output_fn = hyp_fn.replace(".json", ".pdf")
+        output_fn = hyp_fn.replace(".json", ".jpg")
         output_path = os.path.join(args.out_dir, output_fn)
 
         process_file(hyp_path, ref_path, img_path, output_path)

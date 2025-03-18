@@ -1,3 +1,5 @@
+# ruff: noqa: E402
+
 from safe_gpu import safe_gpu
 safe_gpu.claim_gpus()
 
@@ -19,7 +21,6 @@ from textbite.models.joiner.model import JoinerGraphModel
 from textbite.models.joiner.infer import join_bites
 
 
-CLASSIFICATION_THRESHOLD = 0.68
 CZERT_PATH = r"UWB-AIR/Czert-B-base-cased"
 
 
@@ -36,6 +37,8 @@ def parse_arguments():
     parser.add_argument("--gnn", required=True, type=str, help="Path to the .pt file with weights of Joiner model.")
     parser.add_argument("--normalizer", required=True, type=str, help="Path to node normalizer.")
     parser.add_argument("--czert", default=CZERT_PATH, type=str, help="Path to CZERT.")
+
+    parser.add_argument("--threshold", type=float, required=True, help="Threshold for classification.")
 
     return parser.parse_args()
 
@@ -66,7 +69,7 @@ def main():
 
     img_filenames = [img_filename for img_filename in os.listdir(args.img) if img_filename.endswith(".jpg")]
     for i, img_filename in enumerate(img_filenames):
-        base_filename = img_filename[:-4]
+        base_filename = img_filename[:-len(".jpg")]
         xml_filename = base_filename + ".xml"
         json_filename = base_filename + ".json"
 
@@ -95,7 +98,7 @@ def main():
                 base_filename,
                 pagexml,
                 device,
-                CLASSIFICATION_THRESHOLD,
+                threshold=args.threshold,
             )
         except RuntimeError:
             logging.info(f"Single region detected on {xml_path}, saving as is.")

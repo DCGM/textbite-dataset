@@ -1,3 +1,8 @@
+# ruff: noqa: E402
+
+from safe_gpu import safe_gpu
+safe_gpu.claim_gpus()
+
 import os
 import json
 import argparse
