@@ -13,7 +13,7 @@ TextBite is a human-annotated historical Czech document dataset for logical docu
 ## News
 
 |   |    |
-| :---------- | :----------------------------------- |
+|----------|-----------------------------------|
 | **Mar. 14th, 2025**      | The TextBite dataset has been published. |
 
 
@@ -27,21 +27,23 @@ In addition to the layout annotations, we provide a textual representation of th
 
 ## Download
 
+The dataset is publicly available at [Zenodo](https://zenodo.org/records/15057331)
+
 | Dataset | Size  | URL  |
 |--------------|----------|-------------|
-| TextBite Dataset | TODO | [Download]()|
-| Baseline Models | - | [Download](https://nextcloud.fit.vutbr.cz/s/exFot2B82z44Qkp/download/models.zip) |
+| TextBite Dataset | 11.7G | [Download](https://zenodo.org/records/15057331/files/textbite-dataset.zip?download=1)|
+| Test Labels | 218M | [Download](https://zenodo.org/records/15057331/files/textbite-test-labels.zip?download=1)|
+| Baseline Models | 448B | [Download](https://zenodo.org/records/15057331/files/models.zip?download=1) |
 
 
 ## Dataset structure
 
-TextBite provides five types of data assets:
+TextBite provides four types of data assets:
 
 1. JPG images of all pages in their original resolution
 2. Bounding-box and relation annotations in *COCO* format for each JPG image
 3. OCR transcriptions with textline polygons in the *PAGEXML* format
 4. OCR transcriptions with word polygons in the *ALTO* format
-5. Logical segmentation labels for the test data in *npy* format
 
 The dataset is organized in the following directory structure:
 ```
@@ -57,9 +59,6 @@ The dataset is organized in the following directory structure:
 ├── alto
 │   ├── sample1.xml
 │   ├── ...
-├── labels
-│   ├── sample1.npy
-│   ├── ...
 ```
 
 ## Evaluation
@@ -72,8 +71,21 @@ Evaluation can be performed using the `/evaluation/eval_labeling.py` script with
 
 ## Paper
 
-TBD
+**TextBite: A Historical Czech Document Dataset for Logical Page Segmentation**
+
+- Martin Kostelník (ikostelnik@fit.vut.cz)
+- Karel Beneš (ibenes@fit.vut.cz)
+- Michal Hradiš (ihradis@fit.vut.cz)
+
+ArXiv link: [Arxiv](https://arxiv.org/abs/2503.16664)
 
 **Citation:**
 
-TBD
+```
+@article{kostelnik2025textbite,
+  title={TextBite: A Historical Czech Document Dataset for Logical Page Segmentation},
+  author={Kosteln{\'\i}k, Martin and Bene{\v{s}}, Karel and Hradi{\v{s}}, Michal},
+  journal={arXiv preprint arXiv:2503.16664},
+  year={2025}
+}
+```
