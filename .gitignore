@@ -4,7 +4,7 @@
 *-labels/
 plots/
 *.sh
-
+WORKING_DIR/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
