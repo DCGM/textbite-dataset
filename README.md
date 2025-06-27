@@ -27,13 +27,13 @@ In addition to the layout annotations, we provide a textual representation of th
 
 ## Download
 
-The dataset is publicly available at [Zenodo](https://zenodo.org/records/15113923).
+The dataset is publicly available at [Zenodo](https://zenodo.org/records/15746283).
 
 | Dataset | Size  | URL  |
 |--------------|----------|-------------|
-| TextBite Dataset | 11.7G | [Download](https://zenodo.org/records/15113923/files/textbite-dataset.zip?download=1)|
-| Test Labels | 218.3M | [Download](https://zenodo.org/records/15113923/files/textbite-test-labels.zip?download=1)|
-| Baseline Models | 77.3M | [Download](https://zenodo.org/records/15113923/files/models.zip?download=1) |
+| TextBite Dataset | 11.7G | [Download](https://zenodo.org/records/15746283/files/models.zip?download=1)|
+| Test Labels | 218.3M | [Download](https://zenodo.org/records/15746283/files/textbite-test-labels.zip?download=1)|
+| Baseline Models | 77.3M | [Download](https://zenodo.org/records/15746283/files/models.zip?download=1) |
 
 ## Dataset structure
 
